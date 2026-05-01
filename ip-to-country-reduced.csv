@@ -1,0 +1,4961 @@
+network,continent_code,country_code,country_name
+103.250.8.0/23,OC,AU,Australia
+2001:df3:12c4::/46,OC,AU,Australia
+2001:df5:ad50::/44,OC,AU,Australia
+2402:ab10::/28,OC,AU,Australia
+2405:a301::/32,OC,AU,Australia
+2402:4ac8::/29,OC,AU,Australia
+67.227.136.73/32,OC,AU,Australia
+240d:2000:2400::2:0/111,OC,AU,Australia
+2001:df0:22e0::/43,OC,AU,Australia
+2406:a6a0::/27,OC,AU,Australia
+2405:b6c1::/32,OC,AU,Australia
+2402:2830::/28,OC,AU,Australia
+2001:df5:6c8::/45,OC,AU,Australia
+2001:df6:3b88::/45,OC,AU,Australia
+2401:36a1::/32,OC,AU,Australia
+2405:2006:4000::/34,OC,AU,Australia
+2404:9dd0::/28,OC,AU,Australia
+2401:83a2::/31,OC,AU,Australia
+2402:13e1::/32,OC,AU,Australia
+2001:df1:784::/46,OC,AU,Australia
+2001:470:d:47a::/63,AS,CN,China
+116.90.80.0/20,AS,CN,China
+2402:2640::/32,AS,CN,China
+2001:678:1184:0:973::/80,AS,CN,China
+45.121.92.0/22,AS,CN,China
+103.102.200.0/22,AS,CN,China
+45.115.236.0/22,AS,CN,China
+103.92.168.0/21,AS,CN,China
+103.248.224.0/22,AS,CN,China
+203.23.172.0/24,AS,CN,China
+103.87.32.0/22,AS,CN,China
+2a09:bac1:1a40:49::/64,AS,CN,China
+43.247.208.0/20,AS,CN,China
+210.51.0.0/16,AS,CN,China
+2001:470:d:234::/64,AS,CN,China
+103.81.96.0/22,AS,CN,China
+2001:470:f126::/47,AS,CN,China
+2400:cc40::/32,AS,CN,China
+203.30.222.0/24,AS,CN,China
+2402:7d80:0:8000::/49,AS,CN,China
+2a02:26f7:b984:6104::/62,AS,JP,Japan
+61.8.41.0/27,AS,JP,Japan
+2a09:bac0:1001:cc5::/64,AS,JP,Japan
+210.87.224.0/20,AS,JP,Japan
+17.127.114.0/24,AS,JP,Japan
+3.165.12.0/22,AS,JP,Japan
+45.77.128.0/21,AS,JP,Japan
+2607:8940:41b0:c00::/54,AS,JP,Japan
+220.156.192.0/18,AS,JP,Japan
+2a04:4e41:6a08::/45,AS,JP,Japan
+2606:40:212c:8000::/54,AS,JP,Japan
+210.24.199.32/28,AS,JP,Japan
+168.138.192.0/19,AS,JP,Japan
+130.33.0.0/16,AS,JP,Japan
+212.63.191.8/29,AS,JP,Japan
+44.31.96.0/24,AS,JP,Japan
+131.229.238.160/27,AS,JP,Japan
+185.130.247.68/30,AS,JP,Japan
+83.217.231.16/29,AS,JP,Japan
+167.103.16.0/23,AS,JP,Japan
+210.246.200.0/23,AS,TH,Thailand
+2001:df4:3000::/48,AS,TH,Thailand
+2404:8680:1102:1060::/59,AS,TH,Thailand
+2001:470:1f0b:9ce::/64,AS,TH,Thailand
+2607:8940:41d0:fb00::/56,AS,TH,Thailand
+104.28.182.100/32,AS,TH,Thailand
+134.238.22.80/28,AS,TH,Thailand
+203.195.96.0/20,AS,TH,Thailand
+145.79.111.0/24,AS,TH,Thailand
+91.124.172.0/24,AS,TH,Thailand
+2a00:79e1:f8f::/48,AS,TH,Thailand
+202.122.130.0/23,AS,TH,Thailand
+2a10:bf84:1ac8::/45,AS,TH,Thailand
+2001:470:71:7b4::/64,AS,TH,Thailand
+2607:8940:41a2:5400::/55,AS,TH,Thailand
+2001:470:24:2b5::/64,AS,TH,Thailand
+98.159.43.0/24,AS,TH,Thailand
+2402:b740:8000::/33,AS,TH,Thailand
+2402:6880:1200::/39,AS,TH,Thailand
+43.159.85.0/24,AS,TH,Thailand
+2404:ec::200:0/103,AS,IN,India
+2a09:bac1:3790::/44,AS,IN,India
+103.216.208.0/21,AS,IN,India
+2a06:3040:16:610::/60,AS,IN,India
+2600:1488:4180:209::b/128,AS,IN,India
+2405:2000:2108::/45,AS,IN,India
+2a09:bac1:31b0::/44,AS,IN,India
+2600:140f:3e00::/48,AS,IN,India
+2a09:bac1:3be0:400::/57,AS,IN,India
+2a10:bf80:2628::/45,AS,IN,India
+72.52.128.19/32,AS,IN,India
+2a02:26f7:d6d1:4000::/64,AS,IN,India
+2a09:bac1:32a0:61::/64,AS,IN,India
+2a00:79e1:abc:1800::/56,AS,IN,India
+172.69.129.0/24,AS,IN,India
+2405:e700::/32,AS,IN,India
+2a09:bac1:30a0:400::/54,AS,IN,India
+2403:300:a41:600::/56,AS,IN,India
+103.138.98.0/23,AS,IN,India
+13.105.56.0/23,AS,IN,India
+5.253.227.0/26,AS,MY,Malaysia
+20.201.186.0/24,AS,MY,Malaysia
+2a10:bf86:1e50::/45,AS,MY,Malaysia
+103.26.196.0/22,AS,MY,Malaysia
+2a10:bf84:bd30::/45,AS,MY,Malaysia
+52.102.117.0/27,AS,MY,Malaysia
+2a10:bf86:8050::/45,AS,MY,Malaysia
+103.243.212.0/22,AS,MY,Malaysia
+202.135.185.192/27,AS,MY,Malaysia
+2001:df2:8e00::/48,AS,MY,Malaysia
+2001:df7:2980::/48,AS,MY,Malaysia
+40.99.63.96/27,AS,MY,Malaysia
+2a12:bec4:12a6:2f40::/58,AS,MY,Malaysia
+103.16.162.0/23,AS,MY,Malaysia
+40.120.168.0/24,AS,MY,Malaysia
+180.87.25.0/25,AS,MY,Malaysia
+203.12.220.0/24,AS,MY,Malaysia
+2001:470:edad::/48,AS,MY,Malaysia
+2001:deb:c000::/47,AS,MY,Malaysia
+2001:470:edb6::/48,AS,MY,Malaysia
+2a03:2880:f156::/48,AS,KR,South Korea
+2603:c081:2000::/36,AS,KR,South Korea
+2a10:bf83:2da8::/45,AS,KR,South Korea
+131.229.228.156/30,AS,KR,South Korea
+2a10:bf86:c058::/45,AS,KR,South Korea
+2a11:f704:f180::/44,AS,KR,South Korea
+2001:470:3057::/48,AS,KR,South Korea
+147.243.59.128/26,AS,KR,South Korea
+178.83.27.0/24,AS,KR,South Korea
+162.120.159.166/31,AS,KR,South Korea
+121.101.192.0/20,AS,KR,South Korea
+40.99.21.0/25,AS,KR,South Korea
+2a09:bac0:1000:46c::/64,AS,KR,South Korea
+115.68.0.0/16,AS,KR,South Korea
+46.70.210.0/24,AS,KR,South Korea
+153.80.40.0/24,AS,KR,South Korea
+121.50.16.0/20,AS,KR,South Korea
+2a11:f704:f146::/47,AS,KR,South Korea
+52.101.156.0/24,AS,KR,South Korea
+68.167.188.0/23,AS,KR,South Korea
+2a09:bac1:76a0:5e04::/62,AS,SG,Singapore
+2a09:bac1:76e1:16a4::/62,AS,SG,Singapore
+2a09:bac1:7680:94d0::/60,AS,SG,Singapore
+2a09:bac1:76c1:3e60::/61,AS,SG,Singapore
+2a09:bac1:7681:6ed9::/64,AS,SG,Singapore
+2a09:bac1:7681:36f4::/62,AS,SG,Singapore
+2a09:bac1:76a0:98a::/63,AS,SG,Singapore
+157.23.248.37/32,AS,SG,Singapore
+2a09:bac1:76e1:3212::/63,AS,SG,Singapore
+2a09:bac1:76a0:6500::/59,AS,SG,Singapore
+2a0a:4e81::/32,AS,SG,Singapore
+2a09:bac1:7820:4000::/50,AS,SG,Singapore
+2a09:bac1:7ee1::/48,AS,SG,Singapore
+151.186.178.48/31,AS,SG,Singapore
+2a09:bac1:76e0:1fda::/63,AS,SG,Singapore
+2a09:bac1:71a0:534::/62,AS,SG,Singapore
+2a09:bac1:76e0:309::/64,AS,SG,Singapore
+2a09:bac1:76c1:4f69::/64,AS,SG,Singapore
+2a09:bac1:76c0:b780::/58,AS,SG,Singapore
+2a09:bac1:76e0:9fa4::/62,AS,SG,Singapore
+2402:4480:2:10:0:2::/95,AS,HK,Hong Kong
+2607:8940:4290::/55,AS,HK,Hong Kong
+2a14:67c3:360::/48,AS,HK,Hong Kong
+223.119.73.0/24,AS,HK,Hong Kong
+2a10:bf80:dee8::/45,AS,HK,Hong Kong
+63.220.199.146/31,AS,HK,Hong Kong
+2400:8800:f100::374/127,AS,HK,Hong Kong
+140.235.141.0/24,AS,HK,Hong Kong
+103.47.77.128/25,AS,HK,Hong Kong
+165.154.109.0/24,AS,HK,Hong Kong
+2403:7780::/32,AS,HK,Hong Kong
+2403:e800:310:2000::/51,AS,HK,Hong Kong
+172.225.59.224/28,AS,HK,Hong Kong
+191.234.2.0/23,AS,HK,Hong Kong
+69.72.80.0/21,AS,HK,Hong Kong
+2405:d800:110:6::100:0/104,AS,HK,Hong Kong
+93.113.109.16/29,AS,HK,Hong Kong
+63.220.198.176/30,AS,HK,Hong Kong
+192.64.204.0/24,AS,HK,Hong Kong
+91.229.202.0/24,AS,HK,Hong Kong
+2a01:111:f403:dc04::/64,AS,TW,Taiwan
+103.146.210.0/23,AS,TW,Taiwan
+2a10:bf82:a848::/45,AS,TW,Taiwan
+2001:470:ed54::/48,AS,TW,Taiwan
+2a0d:2580:1084::/46,AS,TW,Taiwan
+2001:470:d:121f::/64,AS,TW,Taiwan
+2001:470:19:d6::/64,AS,TW,Taiwan
+104.28.69.124/31,AS,TW,Taiwan
+2607:8940:4290:5800::/56,AS,TW,Taiwan
+208.70.220.128/28,AS,TW,Taiwan
+218.56.155.102/32,AS,TW,Taiwan
+165.1.244.4/30,AS,TW,Taiwan
+2a0e:b107:df8::/45,AS,TW,Taiwan
+2001:470:1f05:56d::/64,AS,TW,Taiwan
+69.15.13.0/26,AS,TW,Taiwan
+2a10:bf86:760::/45,AS,TW,Taiwan
+202.145.128.0/17,AS,TW,Taiwan
+154.207.224.0/23,AS,TW,Taiwan
+202.52.96.192/27,AS,TW,Taiwan
+2405:a040::/32,AS,TW,Taiwan
+2a09:bac1:76c0:1d18::/64,NA,US,United States
+198.49.80.0/22,NA,US,United States
+2600:1488:6040:20c::200:0/103,NA,US,United States
+2605:8b00::/26,NA,US,United States
+2a01:53c0:ff08:f800::/54,NA,US,United States
+2600:1419:5200:203:100::/72,NA,US,United States
+2600:1417:6c00:170f:1::/80,NA,US,United States
+2607:3fc0:4000::/34,NA,US,United States
+2603:1063:41d:4000::/50,NA,US,United States
+217.217.184.0/21,NA,US,United States
+2600:1419:6600:814:1000::/68,NA,US,United States
+2a10:a000::/48,NA,US,United States
+2a02:26f7:f6f2:a22e::/63,NA,US,United States
+2a0a:6040:a200::/48,NA,US,United States
+2600:1419:a200:c01:0:2000::/83,NA,US,United States
+2600:1419:6600:230e:4000::/66,NA,US,United States
+66.54.151.208/29,NA,US,United States
+2600:140f:4a10::/44,NA,US,United States
+2607:fb90:c152:fff0::/64,NA,US,United States
+2600:1415:7400:1d31:0:200::/87,NA,US,United States
+111.67.96.0/20,AS,KH,Cambodia
+2001:470:8:337::/64,AS,KH,Cambodia
+122.154.103.72/29,AS,KH,Cambodia
+103.141.164.0/23,AS,KH,Cambodia
+67.225.128.252/32,AS,KH,Cambodia
+167.179.16.0/22,AS,KH,Cambodia
+2001:de8:1d::/48,AS,KH,Cambodia
+43.226.12.0/22,AS,KH,Cambodia
+165.85.6.0/27,AS,KH,Cambodia
+2a09:bac4:13a0::/45,AS,KH,Cambodia
+208.127.220.32/27,AS,KH,Cambodia
+27.34.183.252/31,AS,KH,Cambodia
+69.16.215.135/32,AS,KH,Cambodia
+208.127.115.106/32,AS,KH,Cambodia
+104.28.156.187/32,AS,KH,Cambodia
+103.20.159.0/24,AS,KH,Cambodia
+67.225.132.131/32,AS,KH,Cambodia
+181.214.180.0/24,AS,KH,Cambodia
+2001:470:f62a::/48,AS,KH,Cambodia
+203.223.32.0/20,AS,KH,Cambodia
+2a10:bf86:8c20::/45,AS,PH,Philippines
+2a09:bac1:5a80:bd0::/64,AS,PH,Philippines
+154.210.8.0/22,AS,PH,Philippines
+183.177.112.0/21,AS,PH,Philippines
+91.202.202.0/23,AS,PH,Philippines
+2400:7da0::/32,AS,PH,Philippines
+18.172.11.0/24,AS,PH,Philippines
+184.29.100.0/22,AS,PH,Philippines
+45.204.129.0/24,AS,PH,Philippines
+210.24.237.0/25,AS,PH,Philippines
+2a10:bf85:ef18::/45,AS,PH,Philippines
+2001:df1:3440::/48,AS,PH,Philippines
+2a10:bf85:7af0::/45,AS,PH,Philippines
+2001:df5:6440::/48,AS,PH,Philippines
+185.212.120.0/22,AS,PH,Philippines
+104.28.162.108/32,AS,PH,Philippines
+2a10:bf87:c6b8::/45,AS,PH,Philippines
+203.26.204.0/24,AS,PH,Philippines
+2a10:bf85:9d90::/45,AS,PH,Philippines
+202.74.101.80/28,AS,PH,Philippines
+2a10:bf85:d890::/45,AS,VN,Vietnam
+160.19.78.0/23,AS,VN,Vietnam
+103.56.160.0/21,AS,VN,Vietnam
+2001:df4:c9c0::/48,AS,VN,Vietnam
+2001:df4:b240::/48,AS,VN,Vietnam
+202.52.39.0/24,AS,VN,Vietnam
+2600:70ff:b805::/48,AS,VN,Vietnam
+103.234.160.0/23,AS,VN,Vietnam
+103.176.24.0/23,AS,VN,Vietnam
+2a10:bf80:d1e8::/45,AS,VN,Vietnam
+61.11.224.0/19,AS,VN,Vietnam
+2407:a440::/32,AS,VN,Vietnam
+2001:df4:b440::/48,AS,VN,Vietnam
+2a10:bf83:72d0::/45,AS,VN,Vietnam
+203.162.50.0/23,AS,VN,Vietnam
+27.0.240.0/22,AS,VN,Vietnam
+103.28.172.0/22,AS,VN,Vietnam
+14.224.0.0/11,AS,VN,Vietnam
+2a10:bf80:c668::/45,AS,VN,Vietnam
+103.149.252.0/22,AS,VN,Vietnam
+2a02:26f0:f80:21a:0:2::/95,EU,NL,The Netherlands
+2a02:26f7:ef84:4080::/57,EU,NL,The Netherlands
+2a02:26f7:ef0c:597c::/64,EU,NL,The Netherlands
+2a12::/26,EU,NL,The Netherlands
+2a02:26f0:f80:804:0:8000::/81,EU,NL,The Netherlands
+2a02:26f0:8b00:2a04::20/123,EU,NL,The Netherlands
+2a02:26f0:f80:20e:4::/78,EU,NL,The Netherlands
+2a02:26f0:3700:1101:0:20::/91,EU,NL,The Netherlands
+2a09:9660::/27,EU,NL,The Netherlands
+2a04:4488::/29,EU,NL,The Netherlands
+2a02:26f0:8b00:1f0b:800::/69,EU,NL,The Netherlands
+2a02:26f0:1880:1701:100::/72,EU,NL,The Netherlands
+2a02:26f0:ff00:1403:0:8000::/81,EU,NL,The Netherlands
+2a02:26f0:8f00:120a::20/123,EU,NL,The Netherlands
+2a02:26f0:8b00:2216:0:20::/91,EU,NL,The Netherlands
+2a02:26f0:3700:420c::200/119,EU,NL,The Netherlands
+2001:70c::/30,EU,NL,The Netherlands
+2a02:26f0:8b00:4d01::1000/116,EU,NL,The Netherlands
+2a02:26f0:5f00:5a07:0:200::/87,EU,NL,The Netherlands
+2a02:26f0:f80:1003:0:2000::/83,EU,NL,The Netherlands
+5.62.56.208/30,EU,IE,Ireland
+185.114.16.0/24,EU,IE,Ireland
+2a05:d010:a000::/35,EU,IE,Ireland
+2a10:bf83:a8d8::/45,EU,IE,Ireland
+86.44.0.0/14,EU,IE,Ireland
+2606:f40:9000::/39,EU,IE,Ireland
+80.93.11.0/24,EU,IE,Ireland
+2a03:83e0:1d6c::/46,EU,IE,Ireland
+157.55.236.0/23,EU,IE,Ireland
+213.86.139.0/25,EU,IE,Ireland
+2a03:2880:77c0::/43,EU,IE,Ireland
+66.159.220.224/28,EU,IE,Ireland
+57.219.52.0/23,EU,IE,Ireland
+2a01:b740:16:10:0:200::/87,EU,IE,Ireland
+2603:1027:0:480::/57,EU,IE,Ireland
+57.7.8.0/24,EU,IE,Ireland
+51.77.82.68/30,EU,IE,Ireland
+2001:978:2:60:0:20::/91,EU,IE,Ireland
+185.38.60.0/22,EU,IE,Ireland
+2a09:bac0:1000:fb::/64,EU,IE,Ireland
+2a01:4f9:2a:b71::/64,EU,DE,Germany
+2a02:26f0:580:5e07::1/128,EU,DE,Germany
+2a01:4f9:5a:12ae::/64,EU,DE,Germany
+2a01:4f9:2b:2f16::/63,EU,DE,Germany
+2001:470:74d9::/48,EU,DE,Germany
+88.221.118.140/31,EU,DE,Germany
+54.192.15.0/24,EU,DE,Germany
+2a01:4f9:3a:1c9e::/64,EU,DE,Germany
+188.138.85.86/31,EU,DE,Germany
+217.151.254.144/28,EU,DE,Germany
+104.28.204.251/32,EU,DE,Germany
+2a01:4f9:4b:424e::/63,EU,DE,Germany
+85.190.82.128/25,EU,DE,Germany
+194.33.66.0/23,EU,DE,Germany
+2a01:4f9:6b:4d5b::/64,EU,DE,Germany
+62.112.32.0/21,EU,DE,Germany
+2a01:4f9:6b:4cd2::/63,EU,DE,Germany
+2606:40:2949:9000::/53,EU,DE,Germany
+2a01:4f9:3100:2140::/61,EU,DE,Germany
+2001:978:2202:2000::/51,EU,DE,Germany
+2a0a:6044:f040::/45,AS,BH,Bahrain
+108.158.72.0/21,AS,BH,Bahrain
+2a01:3e0:3c00::1:0/112,AS,BH,Bahrain
+13.34.20.160/32,AS,BH,Bahrain
+2a00:6600::/29,AS,BH,Bahrain
+195.219.152.144/28,AS,BH,Bahrain
+2a01:e9c0::/29,AS,BH,Bahrain
+84.235.100.0/24,AS,BH,Bahrain
+154.14.207.184/30,AS,BH,Bahrain
+2001:470:72ed::/48,AS,BH,Bahrain
+2a05:d02e::/36,AS,BH,Bahrain
+2001:470:26:740::/64,AS,BH,Bahrain
+87.237.192.0/21,AS,BH,Bahrain
+2604:b040:13:600:1:2:1:0/112,AS,BH,Bahrain
+15.230.122.0/29,AS,BH,Bahrain
+165.85.66.0/24,AS,BH,Bahrain
+2a0e:6700::/29,AS,BH,Bahrain
+2a02:26f7:d7c9:4000::/64,AS,BH,Bahrain
+52.119.249.0/24,AS,BH,Bahrain
+2a13:a5c3:d40c::/46,AS,BH,Bahrain
+54.38.217.84/30,EU,IT,Italy
+192.88.196.0/24,EU,IT,Italy
+213.215.204.0/25,EU,IT,Italy
+194.147.8.0/22,EU,IT,Italy
+213.215.234.0/25,EU,IT,Italy
+62.96.40.224/29,EU,IT,Italy
+193.70.108.240/28,EU,IT,Italy
+93.63.0.0/16,EU,IT,Italy
+62.173.160.0/19,EU,IT,Italy
+2001:1478:1701::/64,EU,IT,Italy
+144.208.229.128/29,EU,IT,Italy
+154.14.242.96/29,EU,IT,Italy
+2606:54c3:0:182d::/64,EU,IT,Italy
+154.14.225.128/29,EU,IT,Italy
+62.152.104.0/27,EU,IT,Italy
+2a02:26f0:8b00:911::/128,EU,IT,Italy
+185.181.92.0/22,EU,IT,Italy
+81.131.37.0/27,EU,IT,Italy
+212.81.119.224/29,EU,IT,Italy
+109.68.152.0/21,EU,IT,Italy
+2.21.232.0/22,AF,ZA,South Africa
+2a09:bac1:7dc0:20::/64,AF,ZA,South Africa
+197.221.160.0/19,AF,ZA,South Africa
+206.53.2.0/23,AF,ZA,South Africa
+131.125.151.0/24,AF,ZA,South Africa
+2a02:26f7:d242:d600::/61,AF,ZA,South Africa
+102.213.200.0/22,AF,ZA,South Africa
+2c0f:2040::/32,AF,ZA,South Africa
+196.59.187.0/24,AF,ZA,South Africa
+169.150.238.0/24,AF,ZA,South Africa
+104.234.105.0/24,AF,ZA,South Africa
+41.202.42.0/23,AF,ZA,South Africa
+2603:1061:2002:2800::/57,AF,ZA,South Africa
+196.10.52.0/22,AF,ZA,South Africa
+192.142.12.0/24,AF,ZA,South Africa
+163.200.0.0/16,AF,ZA,South Africa
+3.43.128.0/18,AF,ZA,South Africa
+102.209.20.0/22,AF,ZA,South Africa
+128.127.158.0/24,AF,ZA,South Africa
+41.161.35.0/24,AF,ZA,South Africa
+103.146.202.0/23,AS,ID,Indonesia
+2600:1417:6c00:230f::/128,AS,ID,Indonesia
+2001:df6:fb40::/48,AS,ID,Indonesia
+2001:470:ec84::/48,AS,ID,Indonesia
+2001:470:36:6f3::/64,AS,ID,Indonesia
+103.144.80.0/23,AS,ID,Indonesia
+39.196.160.0/20,AS,ID,Indonesia
+45.198.174.0/24,AS,ID,Indonesia
+2405:a2c0::/32,AS,ID,Indonesia
+138.252.65.0/24,AS,ID,Indonesia
+2607:8940:41d0:5c00::/56,AS,ID,Indonesia
+155.102.204.0/23,AS,ID,Indonesia
+2001:470:eec0::/48,AS,ID,Indonesia
+2001:df6:e0c0::/48,AS,ID,Indonesia
+104.28.187.188/30,AS,ID,Indonesia
+103.47.8.0/22,AS,ID,Indonesia
+103.195.28.0/22,AS,ID,Indonesia
+103.182.72.0/24,AS,ID,Indonesia
+202.174.155.168/30,AS,ID,Indonesia
+103.125.56.0/22,AS,ID,Indonesia
+150.222.49.192/26,AS,AE,United Arab Emirates
+40.126.208.0/20,AS,AE,United Arab Emirates
+194.58.46.82/32,AS,AE,United Arab Emirates
+2a06:9f81:5602::/48,AS,AE,United Arab Emirates
+2001:470:26:667::/64,AS,AE,United Arab Emirates
+2001:470:1f29:267::/64,AS,AE,United Arab Emirates
+31.59.196.0/22,AS,AE,United Arab Emirates
+2a0e:61c0::/29,AS,AE,United Arab Emirates
+2001:470:1f05:94::/64,AS,AE,United Arab Emirates
+185.157.91.0/30,AS,AE,United Arab Emirates
+2001:470:28:eba::/64,AS,AE,United Arab Emirates
+2a03:f7c0::/29,AS,AE,United Arab Emirates
+2a06:f902:4000::/36,AS,AE,United Arab Emirates
+2a0c:5d00:3100::/40,AS,AE,United Arab Emirates
+181.215.204.0/22,AS,AE,United Arab Emirates
+185.142.229.168/29,AS,AE,United Arab Emirates
+2a10:bf80:1e10::/45,AS,AE,United Arab Emirates
+2001:470:1f1b:a7::/64,AS,AE,United Arab Emirates
+5.253.31.0/24,AS,AE,United Arab Emirates
+172.225.158.128/29,AS,AE,United Arab Emirates
+2801:1f:aa00::/39,EU,CH,Switzerland
+2a00:79e0:200:2000::/51,EU,CH,Switzerland
+2a0f:f00:4004::/48,EU,CH,Switzerland
+2801:16:e4::/46,EU,CH,Switzerland
+2803:f968::/29,EU,CH,Switzerland
+2803:f422::/31,EU,CH,Switzerland
+2804:793e::/31,EU,CH,Switzerland
+2801:80:4400::/38,EU,CH,Switzerland
+2a02:2528:ff20::/43,EU,CH,Switzerland
+2a13:b040:1330::/46,EU,CH,Switzerland
+2803:6928::/29,EU,CH,Switzerland
+2a09:4c0:3e0:cb6::/63,EU,CH,Switzerland
+2804:3091::/32,EU,CH,Switzerland
+2a01:9e01:b984::/47,EU,CH,Switzerland
+2a0b:4343:1080::/48,EU,CH,Switzerland
+2a0c:9a40:8b58::/45,EU,CH,Switzerland
+2804:11f1::/32,EU,CH,Switzerland
+2001:67c:2238::/48,EU,CH,Switzerland
+212.23.239.216/29,EU,CH,Switzerland
+80.231.8.128/29,EU,CH,Switzerland
+91.221.86.0/23,EU,ES,Spain
+84.16.0.0/21,EU,ES,Spain
+147.135.228.176/29,EU,ES,Spain
+62.75.167.85/32,EU,ES,Spain
+148.230.45.190/32,EU,ES,Spain
+2a02:2808:2540::/42,EU,ES,Spain
+5.135.233.200/29,EU,ES,Spain
+2001:728:801::/62,EU,ES,Spain
+2a09:bac0:1000:6e3::/64,EU,ES,Spain
+2a0c:1c84::/31,EU,ES,Spain
+185.163.17.72/32,EU,ES,Spain
+154.26.19.54/31,EU,ES,Spain
+17.66.156.0/22,EU,ES,Spain
+151.80.186.236/30,EU,ES,Spain
+2a10:bf85:3ab8::/45,EU,ES,Spain
+212.221.29.48/29,EU,ES,Spain
+213.235.36.152/29,EU,ES,Spain
+213.86.90.80/28,EU,ES,Spain
+94.46.52.245/32,EU,ES,Spain
+67.225.175.6/32,EU,ES,Spain
+2a0b:4e07:bc:105::/64,AS,IL,Israel
+141.226.242.0/24,AS,IL,Israel
+40.100.66.0/26,AS,IL,Israel
+2001:67c:a38:f972::/64,AS,IL,Israel
+52.103.49.0/24,AS,IL,Israel
+80.93.10.240/29,AS,IL,Israel
+2a03:83e0:1216::/48,AS,IL,Israel
+195.160.240.0/22,AS,IL,Israel
+94.188.192.0/21,AS,IL,Israel
+193.96.225.64/30,AS,IL,Israel
+62.219.0.0/16,AS,IL,Israel
+52.106.185.32/27,AS,IL,Israel
+89.40.37.16/30,AS,IL,Israel
+2a01:b740:1320::/48,AS,IL,Israel
+2a10:bf80:7db0::/45,AS,IL,Israel
+2001:470:6d:54f::/64,AS,IL,Israel
+153.72.155.0/25,AS,IL,Israel
+212.235.18.0/23,AS,IL,Israel
+2a01:b740:19:200::680/127,AS,IL,Israel
+161.69.71.32/32,AS,IL,Israel
+69.174.64.0/24,NA,CA,Canada
+69.172.201.0/24,NA,CA,Canada
+104.234.43.0/24,NA,CA,Canada
+67.225.171.164/31,NA,CA,Canada
+2a09:bac1:1160:bca0::/60,NA,CA,Canada
+2001:550:2:9a::7e:0/111,NA,CA,Canada
+2001:19f0:fc00::a4e:15f/128,NA,CA,Canada
+209.82.103.104/29,NA,CA,Canada
+173.45.192.0/19,NA,CA,Canada
+2a09:bac1:1120:f8a::/63,NA,CA,Canada
+64.65.60.0/24,NA,CA,Canada
+2602:f92a:a47e:1070::/64,NA,CA,Canada
+208.116.176.176/29,NA,CA,Canada
+2a09:bac1:13c0:100::/56,NA,CA,Canada
+2a09:bac0:1000:a2f::/64,NA,CA,Canada
+208.97.241.144/30,NA,CA,Canada
+2a09:bac1:1120:8c::/62,NA,CA,Canada
+2a09:bac1:1140:a2::/63,NA,CA,Canada
+2001:19f0:fc00::a41:1f0/128,NA,CA,Canada
+2001:19f0:fc00::a48:c4/126,NA,CA,Canada
+2402:6000::/32,OC,NZ,New Zealand
+2a10:bf82:8360::/45,OC,NZ,New Zealand
+202.50.176.128/25,OC,NZ,New Zealand
+131.229.247.25/32,OC,NZ,New Zealand
+2400:ad80::/32,OC,NZ,New Zealand
+124.197.37.224/28,OC,NZ,New Zealand
+161.69.55.52/31,OC,NZ,New Zealand
+202.37.100.0/23,OC,NZ,New Zealand
+167.179.208.0/23,OC,NZ,New Zealand
+2400:c760:80::/41,OC,NZ,New Zealand
+2a10:bf87:4ca8::/45,OC,NZ,New Zealand
+202.21.130.0/24,OC,NZ,New Zealand
+2401:3bc0:604::/46,OC,NZ,New Zealand
+2a0a:6040:fe2::/48,OC,NZ,New Zealand
+203.30.174.0/24,OC,NZ,New Zealand
+2a10:bf86:7e38::/45,OC,NZ,New Zealand
+2a10:bf85:1c80::/45,OC,NZ,New Zealand
+2001:df3:a780::/48,OC,NZ,New Zealand
+85.12.7.176/28,OC,NZ,New Zealand
+2a01:111:f403:cc3e::/64,OC,NZ,New Zealand
+104.28.213.235/32,NA,MX,Mexico
+2a10:bf80:3280::/45,NA,MX,Mexico
+38.252.201.0/24,NA,MX,Mexico
+38.94.80.0/20,NA,MX,Mexico
+89.30.63.0/29,NA,MX,Mexico
+2a10:bf87:d8b0::/45,NA,MX,Mexico
+200.33.104.0/22,NA,MX,Mexico
+187.191.128.0/17,NA,MX,Mexico
+146.75.164.4/30,NA,MX,Mexico
+200.4.56.0/23,NA,MX,Mexico
+2a10:bf82:2bb0::/45,NA,MX,Mexico
+2607:8940:4140:5400::/55,NA,MX,Mexico
+148.225.0.0/16,NA,MX,Mexico
+38.103.96.48/29,NA,MX,Mexico
+173.222.204.0/22,NA,MX,Mexico
+2a12:bec4:12a4:980::/58,NA,MX,Mexico
+64.91.240.224/32,NA,MX,Mexico
+200.7.191.0/30,NA,MX,Mexico
+2a10:bf82:6f00::/45,NA,MX,Mexico
+192.100.200.0/22,NA,MX,Mexico
+200.123.205.64/26,SA,BR,Brazil
+2804:6254::/32,SA,BR,Brazil
+2804:643c::/32,SA,BR,Brazil
+2804:88a8::/32,SA,BR,Brazil
+2a10:bf85:9460::/45,SA,BR,Brazil
+172.70.239.0/24,SA,BR,Brazil
+2804:72e0::/32,SA,BR,Brazil
+2a10:bf81:b60::/45,SA,BR,Brazil
+2a02:26f7:e506:58b8::/62,SA,BR,Brazil
+83.170.168.0/21,SA,BR,Brazil
+147.243.132.128/26,SA,BR,Brazil
+2804:6f70::/32,SA,BR,Brazil
+2804:33c8::/32,SA,BR,Brazil
+2804:6798::/32,SA,BR,Brazil
+32.118.88.98/32,SA,BR,Brazil
+168.227.72.0/21,SA,BR,Brazil
+2804:27a0::/32,SA,BR,Brazil
+2a03:2880:f344::/48,SA,BR,Brazil
+189.85.104.0/21,SA,BR,Brazil
+2001:470:2816::/48,SA,BR,Brazil
+45.191.56.0/22,SA,AR,Argentina
+200.50.248.0/21,SA,AR,Argentina
+128.90.113.0/24,SA,AR,Argentina
+2600:1488:c080:102::b/128,SA,AR,Argentina
+2a02:26f7:d988:ed00::/58,SA,AR,Argentina
+2a09:bac1:1a0:2000::/51,SA,AR,Argentina
+131.229.229.10/32,SA,AR,Argentina
+2801:1e:b000::/48,SA,AR,Argentina
+165.183.122.0/24,SA,AR,Argentina
+177.253.160.176/29,SA,AR,Argentina
+200.32.128.0/19,SA,AR,Argentina
+190.216.8.168/29,SA,AR,Argentina
+104.28.239.128/30,SA,AR,Argentina
+2a09:bac1:180:10::/60,SA,AR,Argentina
+103.106.58.0/24,SA,AR,Argentina
+2a09:bac1:420:40::/58,SA,AR,Argentina
+200.81.0.0/19,SA,AR,Argentina
+190.98.158.24/30,SA,AR,Argentina
+179.62.0.0/16,SA,AR,Argentina
+2800:ba0:40::/43,SA,AR,Argentina
+137.74.89.104/30,EU,FR,France
+5.196.250.40/29,EU,FR,France
+5.39.1.64/27,EU,FR,France
+151.80.5.192/26,EU,FR,France
+2001:978:2:17::4c:8000/113,EU,FR,France
+5.196.99.216/29,EU,FR,France
+176.100.45.0/24,EU,FR,France
+147.135.170.24/29,EU,FR,France
+23.33.27.0/24,EU,FR,France
+5.135.17.16/29,EU,FR,France
+137.74.146.32/28,EU,FR,France
+54.36.6.160/30,EU,FR,France
+153.72.53.0/25,EU,FR,France
+37.59.181.216/30,EU,FR,France
+51.91.113.64/27,EU,FR,France
+84.14.63.224/29,EU,FR,France
+2a05:f440:b:14::/62,EU,FR,France
+62.75.191.0/24,EU,FR,France
+51.255.145.88/29,EU,FR,France
+62.200.25.32/28,EU,FR,France
+2a13:5241:1000::/36,EU,SE,Sweden
+188.114.236.189/32,EU,SE,Sweden
+193.105.134.0/24,EU,SE,Sweden
+2001:2035:0:2820::10:0/108,EU,SE,Sweden
+94.46.52.250/31,EU,SE,Sweden
+94.46.57.163/32,EU,SE,Sweden
+62.115.144.144/28,EU,SE,Sweden
+2001:2035:0:27bc::800:0/101,EU,SE,Sweden
+62.115.230.0/23,EU,SE,Sweden
+2a14:4e87:1000:7530::/61,EU,SE,Sweden
+2001:2035:0:1bfb:0:10::/92,EU,SE,Sweden
+2001:2035:0:1fe2::10/124,EU,SE,Sweden
+185.143.15.31/32,EU,SE,Sweden
+2001:2035:0:284d::100/120,EU,SE,Sweden
+2001:2035:0:14f3:0:2::/95,EU,SE,Sweden
+2a02:26f0:f80:1c02::1/128,EU,SE,Sweden
+2001:2035:0:1083::100/120,EU,SE,Sweden
+2001:2000:3080:1c40::/58,EU,SE,Sweden
+2001:2035:0:221e::400/118,EU,SE,Sweden
+185.198.10.13/32,EU,SE,Sweden
+163.199.254.0/24,EU,GB,United Kingdom
+2a09:4c0:57e0:35d::/64,EU,GB,United Kingdom
+2.26.10.0/23,EU,GB,United Kingdom
+212.133.41.32/27,EU,GB,United Kingdom
+185.84.92.0/22,EU,GB,United Kingdom
+2a0f:85c1:bdf:fee2::/63,EU,GB,United Kingdom
+91.246.8.0/22,EU,GB,United Kingdom
+2001:728:0:5000::15b0/125,EU,GB,United Kingdom
+94.199.131.228/30,EU,GB,United Kingdom
+213.198.79.32/28,EU,GB,United Kingdom
+2620:104:4004::/48,EU,GB,United Kingdom
+2001:1be0:164c::/46,EU,GB,United Kingdom
+62.185.102.192/27,EU,GB,United Kingdom
+2a0d:7dc0::/29,EU,GB,United Kingdom
+94.142.194.8/29,EU,GB,United Kingdom
+212.117.230.160/27,EU,GB,United Kingdom
+2a12:8fc6:cf00::/40,EU,GB,United Kingdom
+161.69.52.25/32,EU,GB,United Kingdom
+64.211.73.254/31,EU,GB,United Kingdom
+2a04:3c0::/29,EU,GB,United Kingdom
+2a09:bac1:5de0:10::/64,AS,PS,Palestinian Territory
+103.193.132.0/22,AS,PS,Palestinian Territory
+2a02:5742:155::/48,AS,PS,Palestinian Territory
+2a04:1d43:2700::/40,AS,PS,Palestinian Territory
+151.243.242.0/24,AS,PS,Palestinian Territory
+2001:470:24:329::/64,AS,PS,Palestinian Territory
+212.11.92.0/24,AS,PS,Palestinian Territory
+157.5.102.60/32,AS,PS,Palestinian Territory
+185.90.124.0/22,AS,PS,Palestinian Territory
+2a11:ac80::/29,AS,PS,Palestinian Territory
+2a02:26f7:dd08:d000::/62,AS,PS,Palestinian Territory
+103.47.68.0/22,AS,PS,Palestinian Territory
+213.137.82.0/24,AS,PS,Palestinian Territory
+162.120.187.248/32,AS,PS,Palestinian Territory
+113.212.64.0/22,AS,PS,Palestinian Territory
+82.205.0.0/17,AS,PS,Palestinian Territory
+2607:8940:4172:3800::/54,AS,PS,Palestinian Territory
+2a03:7c0::/32,AS,PS,Palestinian Territory
+2a09:bac1:5da0:8::/64,AS,PS,Palestinian Territory
+188.225.192.0/19,AS,PS,Palestinian Territory
+2a00:ca0:2053::/52,AS,SA,Saudi Arabia
+80.240.64.0/20,AS,SA,Saudi Arabia
+2a10:bf82:4e08::/45,AS,SA,Saudi Arabia
+104.28.130.126/31,AS,SA,Saudi Arabia
+161.69.61.176/28,AS,SA,Saudi Arabia
+185.76.136.0/22,AS,SA,Saudi Arabia
+185.122.176.0/22,AS,SA,Saudi Arabia
+2a10:bf85:94f0::/45,AS,SA,Saudi Arabia
+2a09:bac5:d640::/45,AS,SA,Saudi Arabia
+2a02:26f7:f94c::/54,AS,SA,Saudi Arabia
+95.181.235.0/24,AS,SA,Saudi Arabia
+2a0f:85c1:d01:ffff:4000::/66,AS,SA,Saudi Arabia
+2a0e:b107:2210::/45,AS,SA,Saudi Arabia
+2a10:bf81:31d0::/45,AS,SA,Saudi Arabia
+2a05:d050:800::/40,AS,SA,Saudi Arabia
+2a10:bf87:3a58::/45,AS,SA,Saudi Arabia
+2a0d:2681:2300::/40,AS,SA,Saudi Arabia
+2a05:d07c:800::/40,AS,SA,Saudi Arabia
+2a10:bf85:1c88::/45,AS,SA,Saudi Arabia
+2001:470:f6a3::/48,AS,SA,Saudi Arabia
+181.225.140.0/22,SA,CL,Chile
+190.71.72.96/29,SA,CL,Chile
+185.139.162.72/29,SA,CL,Chile
+2a03:90c0:590::/44,SA,CL,Chile
+148.163.222.0/23,SA,CL,Chile
+168.231.128.0/17,SA,CL,Chile
+2a00:79e0:ffe2:9900::/56,SA,CL,Chile
+45.160.212.0/23,SA,CL,Chile
+200.24.212.112/28,SA,CL,Chile
+190.103.122.88/29,SA,CL,Chile
+132.255.68.0/22,SA,CL,Chile
+2a10:bf81:3138::/45,SA,CL,Chile
+2a0a:a701:3004::/46,SA,CL,Chile
+45.236.128.0/22,SA,CL,Chile
+80.238.156.0/22,SA,CL,Chile
+207.223.102.64/29,SA,CL,Chile
+2a0a:a701:4080::/41,SA,CL,Chile
+201.236.0.0/17,SA,CL,Chile
+2606:f184:1685::/48,SA,CL,Chile
+208.127.170.116/30,SA,CL,Chile
+91.207.234.0/23,EU,CZ,Czechia
+2001:470:6f:9a::/64,EU,CZ,Czechia
+51.77.82.172/30,EU,CZ,Czechia
+2a03:8da0::/32,EU,CZ,Czechia
+185.88.72.0/22,EU,CZ,Czechia
+178.248.237.199/32,EU,CZ,Czechia
+2a09:bac1:1d60:10::/60,EU,CZ,Czechia
+45.158.88.0/22,EU,CZ,Czechia
+2a10:bf87:f080::/45,EU,CZ,Czechia
+87.119.73.224/27,EU,CZ,Czechia
+77.78.96.0/20,EU,CZ,Czechia
+2a09:bac1:1c60:80::/57,EU,CZ,Czechia
+2a10:bf80:d328::/45,EU,CZ,Czechia
+2a10:bf83:eca8::/45,EU,CZ,Czechia
+2a06:6240::/29,EU,CZ,Czechia
+5.59.117.0/24,EU,CZ,Czechia
+185.143.14.190/32,EU,CZ,Czechia
+131.222.213.0/24,EU,CZ,Czechia
+2a09:bac1:1d20:400::/54,EU,CZ,Czechia
+2a10:bf83:2758::/45,EU,CZ,Czechia
+2603:1061:13f1:800::/54,EU,AT,Austria
+2a04:9307:1a:0:4000::/66,EU,AT,Austria
+46.220.0.0/16,EU,AT,Austria
+2a02:2220:2000::/35,EU,AT,Austria
+188.20.17.128/26,EU,AT,Austria
+45.144.200.0/22,EU,AT,Austria
+2a10:9902:214::/46,EU,AT,Austria
+185.76.158.0/24,EU,AT,Austria
+2a01:111:f403:2e07::/64,EU,AT,Austria
+2a00:11c0:47:200::/55,EU,AT,Austria
+144.208.243.48/31,EU,AT,Austria
+62.93.72.0/25,EU,AT,Austria
+2a13:d8c1:ce00::/40,EU,AT,Austria
+185.91.0.0/23,EU,AT,Austria
+212.24.116.0/22,EU,AT,Austria
+2a10:bf84:9a48::/45,EU,AT,Austria
+31.193.160.0/21,EU,AT,Austria
+45.84.231.0/24,EU,AT,Austria
+2a00:11c0:1012::/47,EU,AT,Austria
+185.129.172.0/22,EU,AT,Austria
+185.116.241.184/30,EU,GR,Greece
+2a0c:91c0::/29,EU,GR,Greece
+2a10:bf82:2958::/45,EU,GR,Greece
+2a02:5741:91::/48,EU,GR,Greece
+2a09:4c0:fe0:42b::/64,EU,GR,Greece
+2a10:bf85:3f30::/45,EU,GR,Greece
+2a10:bf87:1a60::/45,EU,GR,Greece
+185.164.52.0/24,EU,GR,Greece
+146.124.0.0/16,EU,GR,Greece
+193.58.70.0/23,EU,GR,Greece
+45.10.190.0/24,EU,GR,Greece
+91.220.236.0/24,EU,GR,Greece
+2a10:bf87:b178::/45,EU,GR,Greece
+188.117.220.0/24,EU,GR,Greece
+5.145.184.64/28,EU,GR,Greece
+193.254.222.0/23,EU,GR,Greece
+194.216.171.144/28,EU,GR,Greece
+144.125.128.32/27,EU,GR,Greece
+31.6.11.0/24,EU,GR,Greece
+131.229.196.55/32,EU,GR,Greece
+2001:470:1f11:1da::/64,EU,RU,Russia
+2a02:f560::/30,EU,RU,Russia
+2a0a:9300:8000::/33,EU,RU,Russia
+2001:470:1f15:79c::/64,EU,RU,Russia
+194.176.100.0/24,EU,RU,Russia
+2606:54c0:5068::/45,EU,RU,Russia
+2a03:c980:e000::/36,EU,RU,Russia
+2a0e:c146:1000::/36,EU,RU,Russia
+45.139.127.24/32,EU,RU,Russia
+2a01:81a0:ff:400::/54,EU,RU,Russia
+2600:70ff:a464::/47,EU,RU,Russia
+2001:470:1f15:4c4::/63,EU,RU,Russia
+2001:67c:29c8::/48,EU,RU,Russia
+185.193.136.0/21,EU,RU,Russia
+2001:470:36:1284::/64,EU,RU,Russia
+2001:470:36:f1f::/64,EU,RU,Russia
+2a02:26f7:b84c:ea82::/63,EU,RU,Russia
+5.79.128.0/17,EU,RU,Russia
+2a0a:340::/29,EU,RU,Russia
+2001:470:1f15:286::/63,EU,RU,Russia
+83.241.191.124/30,EU,DK,Denmark
+84.16.187.180/30,EU,DK,Denmark
+80.80.31.64/28,EU,DK,Denmark
+84.16.184.232/30,EU,DK,Denmark
+2a10:cf80::/29,EU,DK,Denmark
+185.51.35.122/32,EU,DK,Denmark
+2606:40:9890::/45,EU,DK,Denmark
+2001:470:df22::/48,EU,DK,Denmark
+193.16.146.0/24,EU,DK,Denmark
+2001:948:2::/47,EU,DK,Denmark
+185.100.191.80/29,EU,DK,Denmark
+185.155.36.0/22,EU,DK,Denmark
+2a00:1e58::/32,EU,DK,Denmark
+131.164.0.0/15,EU,DK,Denmark
+80.239.223.88/29,EU,DK,Denmark
+154.14.6.168/30,EU,DK,Denmark
+146.75.200.8/30,EU,DK,Denmark
+2a10:bf86:def8::/45,EU,DK,Denmark
+62.44.160.0/21,EU,DK,Denmark
+91.144.192.0/18,EU,DK,Denmark
+151.240.37.0/24,EU,PT,Portugal
+2a10:bf87:a208::/45,EU,PT,Portugal
+2a10:bf87:d890::/45,EU,PT,Portugal
+193.163.42.108/30,EU,PT,Portugal
+2a10:bf83:e518::/45,EU,PT,Portugal
+2a10:bf85:5cb0::/45,EU,PT,Portugal
+80.251.187.92/30,EU,PT,Portugal
+5.132.147.0/24,EU,PT,Portugal
+80.251.161.232/29,EU,PT,Portugal
+213.235.38.192/29,EU,PT,Portugal
+2a10:bf80:10b0::/45,EU,PT,Portugal
+145.239.116.128/27,EU,PT,Portugal
+217.147.243.96/29,EU,PT,Portugal
+46.193.49.50/32,EU,PT,Portugal
+2a04:4e41:161a::/48,EU,PT,Portugal
+2a07:6040::/32,EU,PT,Portugal
+2a0f:c444:8040::/42,EU,PT,Portugal
+159.254.83.54/31,EU,PT,Portugal
+94.46.123.161/32,EU,PT,Portugal
+46.105.166.32/28,EU,PT,Portugal
+2604:b040:13::5:1:0/112,AF,GH,Ghana
+2a09:bac1:2b40::/64,AF,GH,Ghana
+164.137.123.0/24,AF,GH,Ghana
+57.82.136.0/22,AF,GH,Ghana
+157.167.237.44/32,AF,GH,Ghana
+102.223.111.0/24,AF,GH,Ghana
+63.220.200.44/31,AF,GH,Ghana
+102.208.4.0/22,AF,GH,Ghana
+2606:54c0:3850::/44,AF,GH,Ghana
+2a02:26f7:c548:44c0::/62,AF,GH,Ghana
+157.167.229.44/32,AF,GH,Ghana
+202.181.130.48/29,AF,GH,Ghana
+2c0f:3ec0::/32,AF,GH,Ghana
+140.209.251.224/27,AF,GH,Ghana
+196.40.144.0/20,AF,GH,Ghana
+159.26.127.52/30,AF,GH,Ghana
+2a04:4e42:b074::/48,AF,GH,Ghana
+102.164.123.0/24,AF,GH,Ghana
+2a09:bac0:1000:48e::/63,AF,GH,Ghana
+2a14:7584:e7aa::/48,AF,GH,Ghana
+2a09:4c0:3b00::/40,AF,CM,Cameroon
+157.167.230.140/32,AF,CM,Cameroon
+196.197.61.0/24,AF,CM,Cameroon
+104.28.82.12/31,AF,CM,Cameroon
+2a0c:9a40:95b2:7000::/52,AF,CM,Cameroon
+157.167.231.187/32,AF,CM,Cameroon
+41.217.140.0/24,AF,CM,Cameroon
+2a0f:9403:9d0::/44,AF,CM,Cameroon
+2a09:bac3:1eb0::/45,AF,CM,Cameroon
+176.227.130.0/24,AF,CM,Cameroon
+104.28.82.11/32,AF,CM,Cameroon
+2a09:bac1:1920:8::/64,AF,CM,Cameroon
+2a04:4e41:740c::/48,AF,CM,Cameroon
+2a0d:2681:1e00::/40,AF,CM,Cameroon
+192.145.186.0/23,AF,CM,Cameroon
+2a0a:6044:77fe:2e::/64,AF,CM,Cameroon
+2a02:26f7:efcc:d1c0::/61,AF,CM,Cameroon
+157.167.231.37/32,AF,CM,Cameroon
+41.205.64.0/19,AF,CM,Cameroon
+157.167.239.19/32,AF,CM,Cameroon
+2a09:4c0:3e0:b76::/64,AS,TR,Turkey
+193.57.136.0/24,AS,TR,Turkey
+104.28.248.171/32,AS,TR,Turkey
+62.156.250.232/29,AS,TR,Turkey
+2a0c:7440::/29,AS,TR,Turkey
+188.138.70.142/32,AS,TR,Turkey
+2a0f:85c1:835::/48,AS,TR,Turkey
+2a09:bac5:58ae::/47,AS,TR,Turkey
+193.22.12.0/24,AS,TR,Turkey
+5.132.152.0/24,AS,TR,Turkey
+169.224.175.128/31,AS,TR,Turkey
+2a02:26f7:c8d8:e8c4::/63,AS,TR,Turkey
+103.205.180.0/22,AS,TR,Turkey
+2a01:3e0:ff20:130:4000::/66,AS,TR,Turkey
+149.34.219.0/24,AS,TR,Turkey
+2001:470:28:ef1::/64,AS,TR,Turkey
+77.223.159.0/24,AS,TR,Turkey
+2a0c:7e46:4f20::/43,AS,TR,Turkey
+85.117.239.0/24,AS,TR,Turkey
+43.132.60.0/24,AS,TR,Turkey
+2a01:4f9:3b:476a::/63,EU,FI,Finland
+95.216.56.200/29,EU,FI,Finland
+2a01:4f9:1a:a388::/63,EU,FI,Finland
+62.60.249.0/24,EU,FI,Finland
+2a01:4f9:5a:4681::/64,EU,FI,Finland
+2a01:4f9:6b:4ace::/64,EU,FI,Finland
+2a01:4f9:3700::/40,EU,FI,Finland
+2a01:4f9:3070:2d4a::/63,EU,FI,Finland
+2a01:4f9:3070:1a5f::/64,EU,FI,Finland
+2a01:4f9:1a:a36a::/63,EU,FI,Finland
+104.28.233.192/32,EU,FI,Finland
+5.231.118.178/32,EU,FI,Finland
+149.235.254.104/29,EU,FI,Finland
+2a01:4f9:4b:3cac::/63,EU,FI,Finland
+2a01:4f9:3b:2713::/64,EU,FI,Finland
+2a01:4f9:3051:4c16::/64,EU,FI,Finland
+65.21.96.232/29,EU,FI,Finland
+2a01:4f9:2a:b9a::/63,EU,FI,Finland
+2a0c:9a40:9400::/47,EU,FI,Finland
+80.239.168.128/28,EU,FI,Finland
+185.245.4.0/24,EU,PL,Poland
+51.38.219.60/30,EU,PL,Poland
+185.234.88.0/22,EU,PL,Poland
+91.214.126.0/24,EU,PL,Poland
+54.37.105.152/30,EU,PL,Poland
+2a04:4dc0::/29,EU,PL,Poland
+217.182.36.204/30,EU,PL,Poland
+2a06:9f81:56b1::/48,EU,PL,Poland
+149.14.232.0/24,EU,PL,Poland
+34.103.184.43/32,EU,PL,Poland
+185.117.84.0/22,EU,PL,Poland
+145.239.216.174/32,EU,PL,Poland
+2a09:f3c0::/29,EU,PL,Poland
+2a02:26f0:3880:a02::1/128,EU,PL,Poland
+45.43.137.0/24,EU,PL,Poland
+194.50.117.0/24,EU,PL,Poland
+91.221.26.0/23,EU,PL,Poland
+51.83.60.216/29,EU,PL,Poland
+37.187.201.0/24,EU,PL,Poland
+2001:908::/29,EU,PL,Poland
+2a10:9007:2:a::/64,AS,JO,Jordan
+208.127.99.124/31,AS,JO,Jordan
+2a02:5747:110::/48,AS,JO,Jordan
+81.52.224.0/21,AS,JO,Jordan
+2001:470:1f15:839::/64,AS,JO,Jordan
+2607:8940:4171:5e00::/56,AS,JO,Jordan
+2a0f:1cc5:1f94::/48,AS,JO,Jordan
+2001:470:1f1d:3c4::/64,AS,JO,Jordan
+104.30.169.160/32,AS,JO,Jordan
+157.5.109.94/32,AS,JO,Jordan
+5.199.184.0/22,AS,JO,Jordan
+208.127.104.126/32,AS,JO,Jordan
+130.41.72.64/26,AS,JO,Jordan
+104.28.21.52/30,AS,JO,Jordan
+84.18.64.0/19,AS,JO,Jordan
+172.225.226.240/28,AS,JO,Jordan
+137.83.225.120/30,AS,JO,Jordan
+185.57.120.0/22,AS,JO,Jordan
+194.165.144.0/20,AS,JO,Jordan
+176.241.64.0/21,AS,JO,Jordan
+2a10:bf82:2628::/45,EU,BE,Belgium
+2a10:bf87:90f8::/45,EU,BE,Belgium
+57.208.228.0/22,EU,BE,Belgium
+57.205.122.0/24,EU,BE,Belgium
+135.125.51.216/30,EU,BE,Belgium
+2a02:5740:48::/48,EU,BE,Belgium
+2a13:7705:ff4e::/47,EU,BE,Belgium
+57.222.98.0/24,EU,BE,Belgium
+2a0d:3344:8f7::/48,EU,BE,Belgium
+212.224.140.0/22,EU,BE,Belgium
+80.84.30.0/23,EU,BE,Belgium
+212.35.113.108/30,EU,BE,Belgium
+51.68.171.48/28,EU,BE,Belgium
+2a12:4946:1540::/42,EU,BE,Belgium
+2001:67c:5c::/48,EU,BE,Belgium
+194.253.157.0/24,EU,BE,Belgium
+212.81.117.48/29,EU,BE,Belgium
+178.33.222.36/30,EU,BE,Belgium
+194.151.228.176/28,EU,BE,Belgium
+57.212.174.0/23,EU,BE,Belgium
+2a0a:b640:800::/37,EU,RO,Romania
+194.36.109.0/24,EU,RO,Romania
+194.105.140.0/22,EU,RO,Romania
+194.33.42.0/24,EU,RO,Romania
+178.213.176.0/22,EU,RO,Romania
+213.39.86.0/24,EU,RO,Romania
+85.236.47.16/28,EU,RO,Romania
+2a10:bf83:2d10::/45,EU,RO,Romania
+2a10:bf81:86a0::/45,EU,RO,Romania
+80.231.208.0/24,EU,RO,Romania
+2a03:9c20:2003::/48,EU,RO,Romania
+89.45.164.0/24,EU,RO,Romania
+2a06:3d81:4::/46,EU,RO,Romania
+89.39.244.0/24,EU,RO,Romania
+89.36.20.0/24,EU,RO,Romania
+2a10:bf82:918::/45,EU,RO,Romania
+93.114.44.0/22,EU,RO,Romania
+150.48.144.20/31,EU,RO,Romania
+89.33.86.0/24,EU,RO,Romania
+131.229.204.31/32,EU,RO,Romania
+2a10:bf80:6e98::/45,AF,KE,Kenya
+2c0f:fe40:2:90::80/121,AF,KE,Kenya
+2a10:bf80:7578::/45,AF,KE,Kenya
+2c0f:fe40:2::74/126,AF,KE,Kenya
+104.135.184.0/30,AF,KE,Kenya
+2c0f:fe40:2:0:5:11:12:400/118,AF,KE,Kenya
+140.248.40.144/30,AF,KE,Kenya
+102.219.190.0/23,AF,KE,Kenya
+2a10:bf81:5a70::/45,AF,KE,Kenya
+85.237.118.12/32,AF,KE,Kenya
+77.220.16.0/20,AF,KE,Kenya
+41.77.116.232/29,AF,KE,Kenya
+69.16.239.222/32,AF,KE,Kenya
+2a10:bf84:8bb8::/45,AF,KE,Kenya
+2a10:bf80:9a50::/45,AF,KE,Kenya
+157.167.230.68/32,AF,KE,Kenya
+2a10:bf81:ea40::/45,AF,KE,Kenya
+38.226.202.0/23,AF,KE,Kenya
+2a10:bf80:78e8::/45,AF,KE,Kenya
+2a10:bf80:9ab8::/45,AF,KE,Kenya
+96.62.34.0/24,AF,UG,Uganda
+2a02:26f7:da04:cce0::/63,AF,UG,Uganda
+2a02:26f7:da08:cce0::/63,AF,UG,Uganda
+172.225.26.224/27,AF,UG,Uganda
+196.216.176.0/22,AF,UG,Uganda
+2a02:ba7::/32,AF,UG,Uganda
+62.56.168.0/22,AF,UG,Uganda
+41.220.0.0/20,AF,UG,Uganda
+2c0f:efb8::/32,AF,UG,Uganda
+88.202.7.0/24,AF,UG,Uganda
+2a11:a580:8000::/40,AF,UG,Uganda
+2a12:bec4:12a5:90de::/63,AF,UG,Uganda
+44.63.7.80/29,AF,UG,Uganda
+102.203.208.0/22,AF,UG,Uganda
+2a0a:6044:77e7::/48,AF,UG,Uganda
+2a09:bac1:7580::/64,AF,UG,Uganda
+2c0f:feb0:18::/48,AF,UG,Uganda
+62.75.203.255/32,AF,UG,Uganda
+140.248.40.198/31,AF,UG,Uganda
+102.215.108.0/22,AF,UG,Uganda
+93.185.144.0/21,AS,AM,Armenia
+178.78.128.0/18,AS,AM,Armenia
+2a02:26f7:e205:4000::/64,AS,AM,Armenia
+2a13:1ec0:240::/42,AS,AM,Armenia
+2001:470:216b::/48,AS,AM,Armenia
+2a11:a580:800::/40,AS,AM,Armenia
+2a10:bf86:cb20::/45,AS,AM,Armenia
+2001:470:b:591::/64,AS,AM,Armenia
+2a10:bf82:c548::/45,AS,AM,Armenia
+2a10:bf81:8e20::/45,AS,AM,Armenia
+2001:470:b5db::/48,AS,AM,Armenia
+80.72.26.0/23,AS,AM,Armenia
+2a10:bf86:6638::/45,AS,AM,Armenia
+2a10:bf81:52c8::/45,AS,AM,Armenia
+93.94.217.40/29,AS,AM,Armenia
+2a10:bf82:9910::/45,AS,AM,Armenia
+2a02:5743:39::/48,AS,AM,Armenia
+172.111.236.0/24,AS,AM,Armenia
+2a02:5740:39::/48,AS,AM,Armenia
+2a10:bf87:e8b8::/45,AS,AM,Armenia
+104.28.188.244/30,AF,TZ,Tanzania
+196.43.221.0/24,AF,TZ,Tanzania
+2001:470:1f23:57::/64,AF,TZ,Tanzania
+212.165.155.160/28,AF,TZ,Tanzania
+82.206.252.0/23,AF,TZ,Tanzania
+2a09:bac0:1000:13ed::/64,AF,TZ,Tanzania
+2a09:bac1:7480:1778::/64,AF,TZ,Tanzania
+2c0f:ef00::/32,AF,TZ,Tanzania
+2001:43f8:ce0::/48,AF,TZ,Tanzania
+104.28.136.224/32,AF,TZ,Tanzania
+2a10:500:3900::/40,AF,TZ,Tanzania
+196.57.189.0/24,AF,TZ,Tanzania
+104.28.142.6/32,AF,TZ,Tanzania
+154.72.64.0/19,AF,TZ,Tanzania
+102.205.248.0/21,AF,TZ,Tanzania
+45.221.192.0/21,AF,TZ,Tanzania
+41.75.208.0/20,AF,TZ,Tanzania
+2c0f:120::/32,AF,TZ,Tanzania
+2a04:4e41:132d::/48,AF,TZ,Tanzania
+153.67.170.0/23,AF,TZ,Tanzania
+154.117.192.0/18,AF,BI,Burundi
+2a0a:6044:694e::/47,AF,BI,Burundi
+2a14:7581:be0:1b00::/58,AF,BI,Burundi
+2a04:1d46:9600::/40,AF,BI,Burundi
+2a04:4e41:1607::/48,AF,BI,Burundi
+87.255.98.202/32,AF,BI,Burundi
+104.28.106.27/32,AF,BI,Burundi
+2a04:4e41:180f::/48,AF,BI,Burundi
+172.225.98.32/27,AF,BI,Burundi
+2607:8940:4191:1000::/56,AF,BI,Burundi
+104.28.209.197/32,AF,BI,Burundi
+196.58.59.0/24,AF,BI,Burundi
+2a02:26f7:e140:c0e0::/64,AF,BI,Burundi
+2a0a:6044:f94e::/47,AF,BI,Burundi
+2a0a:6044:6958::/46,AF,BI,Burundi
+104.28.82.10/32,AF,BI,Burundi
+196.49.3.0/24,AF,BI,Burundi
+2a12:bec4:12a8:1e00::/56,AF,BI,Burundi
+104.28.60.18/32,AF,BI,Burundi
+2c0f:fd78::/32,AF,BI,Burundi
+104.30.170.26/32,EU,NO,Norway
+45.92.228.0/24,EU,NO,Norway
+185.139.172.56/30,EU,NO,Norway
+2a00:ce60::/29,EU,NO,Norway
+141.195.16.0/20,EU,NO,Norway
+195.110.28.0/23,EU,NO,Norway
+79.160.192.0/18,EU,NO,Norway
+192.135.46.0/24,EU,NO,Norway
+185.210.4.0/22,EU,NO,Norway
+2a0a:d040::/32,EU,NO,Norway
+85.19.208.0/23,EU,NO,Norway
+2a05:dfc1:c502::/48,EU,NO,Norway
+62.119.161.32/29,EU,NO,Norway
+146.247.178.160/29,EU,NO,Norway
+193.160.36.0/23,EU,NO,Norway
+2a0e:b107:1ea3::/48,EU,NO,Norway
+80.64.192.0/20,EU,NO,Norway
+193.220.154.0/24,EU,NO,Norway
+213.237.142.66/32,EU,NO,Norway
+45.85.248.0/24,EU,NO,Norway
+2a0a:6044:77fe:85::/64,EU,LU,Luxembourg
+92.250.128.0/23,EU,LU,Luxembourg
+212.165.130.128/25,EU,LU,Luxembourg
+2a12:b940::/29,EU,LU,Luxembourg
+153.92.55.0/24,EU,LU,Luxembourg
+2001:470:98d6::/48,EU,LU,Luxembourg
+185.135.141.0/24,EU,LU,Luxembourg
+193.35.86.16/28,EU,LU,Luxembourg
+92.250.130.0/24,EU,LU,Luxembourg
+8.29.231.142/32,EU,LU,Luxembourg
+185.123.216.0/24,EU,LU,Luxembourg
+2001:7e8:8f03:123::80/121,EU,LU,Luxembourg
+2a12:bec4:12a5:268c::/62,EU,LU,Luxembourg
+157.167.230.76/32,EU,LU,Luxembourg
+194.7.19.180/30,EU,LU,Luxembourg
+208.127.250.168/32,EU,LU,Luxembourg
+2a13:47c1::/32,EU,LU,Luxembourg
+178.249.192.0/21,EU,LU,Luxembourg
+2001:470:1f0b:11a2::/64,EU,LU,Luxembourg
+134.238.103.128/25,EU,LU,Luxembourg
+190.103.101.64/26,SA,CO,Colombia
+190.71.155.0/24,SA,CO,Colombia
+200.116.128.0/18,SA,CO,Colombia
+181.207.20.200/29,SA,CO,Colombia
+2801:1a:c800::/48,SA,CO,Colombia
+2801:1c8::/36,SA,CO,Colombia
+2001:470:1f2b:451::/64,SA,CO,Colombia
+2001:470:1f07:7b1::/64,SA,CO,Colombia
+181.189.241.184/30,SA,CO,Colombia
+34.99.121.76/32,SA,CO,Colombia
+2801:1f:8800::/48,SA,CO,Colombia
+2001:470:d:745::/64,SA,CO,Colombia
+2600:1419:5a00:706::1/128,SA,CO,Colombia
+2a10:bf82:fe78::/45,SA,CO,Colombia
+2a09:bac1:1a00:48::/64,SA,CO,Colombia
+190.7.82.160/28,SA,CO,Colombia
+2801:181::/40,SA,CO,Colombia
+2801:14:4800::/48,SA,CO,Colombia
+131.0.170.116/30,SA,CO,Colombia
+158.247.112.0/22,SA,CO,Colombia
+2a09:bac1:e88::/45,EU,BG,Bulgaria
+217.172.185.177/32,EU,BG,Bulgaria
+45.95.3.0/24,EU,BG,Bulgaria
+104.30.129.66/31,EU,BG,Bulgaria
+165.1.192.176/29,EU,BG,Bulgaria
+2a09:be87:7c00::/38,EU,BG,Bulgaria
+2a09:4c0:3e0:5c9::/64,EU,BG,Bulgaria
+2a10:bf87:6570::/45,EU,BG,Bulgaria
+84.238.128.0/22,EU,BG,Bulgaria
+2607:6b80:5c:2008::/61,EU,BG,Bulgaria
+2001:470:28:b62::/64,EU,BG,Bulgaria
+212.104.96.0/19,EU,BG,Bulgaria
+2a10:bf87:17d8::/45,EU,BG,Bulgaria
+2a10:bf80:6420::/45,EU,BG,Bulgaria
+2a01:b6a0::/32,EU,BG,Bulgaria
+2a10:bf82:8460::/45,EU,BG,Bulgaria
+185.162.10.0/24,EU,BG,Bulgaria
+94.46.8.3/32,EU,BG,Bulgaria
+185.120.136.0/24,EU,BG,Bulgaria
+2a13:a5c7:2516::/48,EU,BG,Bulgaria
+146.120.24.0/24,EU,UA,Ukraine
+91.247.224.0/22,EU,UA,Ukraine
+176.108.184.0/21,EU,UA,Ukraine
+104.28.198.34/31,EU,UA,Ukraine
+2001:470:b8a4::/48,EU,UA,Ukraine
+194.196.241.48/29,EU,UA,Ukraine
+132.243.66.0/23,EU,UA,Ukraine
+195.46.32.0/22,EU,UA,Ukraine
+2a01:7120:10::/44,EU,UA,Ukraine
+149.11.94.4/30,EU,UA,Ukraine
+109.235.8.0/21,EU,UA,Ukraine
+91.231.84.0/22,EU,UA,Ukraine
+91.236.184.0/23,EU,UA,Ukraine
+37.202.214.0/23,EU,UA,Ukraine
+2a0a:e140::/29,EU,UA,Ukraine
+45.156.36.0/22,EU,UA,Ukraine
+62.67.206.176/28,EU,UA,Ukraine
+195.189.240.0/23,EU,UA,Ukraine
+192.162.196.0/23,EU,UA,Ukraine
+185.21.51.0/24,EU,UA,Ukraine
+2a10:bf80:7f48::/45,AF,EG,Egypt
+2a10:bf85:9f98::/45,AF,EG,Egypt
+45.204.75.0/24,AF,EG,Egypt
+134.238.73.128/26,AF,EG,Egypt
+2a10:bf86:ad60::/45,AF,EG,Egypt
+2a10:bf83:9178::/45,AF,EG,Egypt
+161.69.16.27/32,AF,EG,Egypt
+162.120.188.106/32,AF,EG,Egypt
+2a10:bf82:470::/45,AF,EG,Egypt
+2a10:bf85:9980::/45,AF,EG,Egypt
+2a10:bf85:2168::/45,AF,EG,Egypt
+2001:470:1f29:129::/64,AF,EG,Egypt
+2a10:bf87:5510::/45,AF,EG,Egypt
+2a10:bf80:81f8::/45,AF,EG,Egypt
+154.73.248.0/23,AF,EG,Egypt
+2001:ac8:8f:800::/53,AF,EG,Egypt
+131.229.197.27/32,AF,EG,Egypt
+196.6.236.0/24,AF,EG,Egypt
+2001:ac8:8f::10:0/108,AF,EG,Egypt
+217.20.224.0/20,AF,EG,Egypt
+2a02:26f7:ec5c:6778::/63,AS,QA,Qatar
+2a09:bac5:5110::/45,AS,QA,Qatar
+2a10:bf84:f540::/45,AS,QA,Qatar
+2a02:26f7:ec50:679c::/63,AS,QA,Qatar
+52.100.229.0/24,AS,QA,Qatar
+2a02:26f7:e7d0:4bc0::/58,AS,QA,Qatar
+131.229.209.21/32,AS,QA,Qatar
+2a02:26f7:e2c4:4200::/55,AS,QA,Qatar
+2a10:bf82:af08::/45,AS,QA,Qatar
+2a02:26f7:e890:c448::/61,AS,QA,Qatar
+2a10:bf81:abf0::/45,AS,QA,Qatar
+2a02:26f7:e80d:4004::/62,AS,QA,Qatar
+2a10:bf86:2ac8::/45,AS,QA,Qatar
+2a10:bf85:3708::/45,AS,QA,Qatar
+2a10:bf86:578::/45,AS,QA,Qatar
+2a02:26f7:ea4d:4080::/57,AS,QA,Qatar
+2a02:26f7:ec60:6786::/63,AS,QA,Qatar
+2a10:bf85:4aa8::/45,AS,QA,Qatar
+2a02:26f7:eec2::/50,AS,QA,Qatar
+2a02:26f7:e7d1:5000::/52,AS,QA,Qatar
+149.20.207.0/24,SA,PE,Peru
+104.28.195.72/31,SA,PE,Peru
+2001:13b3:8000::/34,SA,PE,Peru
+2a10:bf86:4218::/45,SA,PE,Peru
+216.244.134.64/26,SA,PE,Peru
+190.90.23.0/25,SA,PE,Peru
+2a10:bf85:c540::/45,SA,PE,Peru
+92.118.181.0/24,SA,PE,Peru
+216.244.135.36/30,SA,PE,Peru
+154.201.120.0/22,SA,PE,Peru
+2803:b0e0:1:0:20::/75,SA,PE,Peru
+190.103.100.48/30,SA,PE,Peru
+2804:5330:2:9::2:0/126,SA,PE,Peru
+38.226.148.0/32,SA,PE,Peru
+200.10.188.0/24,SA,PE,Peru
+3.175.48.0/21,SA,PE,Peru
+2803:b0e0:20::/43,SA,PE,Peru
+2803:a4a0::/32,SA,PE,Peru
+157.5.124.183/32,SA,PE,Peru
+38.187.8.0/24,SA,PE,Peru
+2a09:9940::/32,EU,LV,Latvia
+213.102.157.0/24,EU,LV,Latvia
+2a11:2cc0:8::/47,EU,LV,Latvia
+2a10:bf87:6ad0::/45,EU,LV,Latvia
+2a00:808:120::/45,EU,LV,Latvia
+186.246.71.0/24,EU,LV,Latvia
+45.43.76.0/22,EU,LV,Latvia
+2a10:bf86:fcb8::/45,EU,LV,Latvia
+2a10:bf82:9c10::/45,EU,LV,Latvia
+2001:470:28:3b5::/64,EU,LV,Latvia
+91.105.200.0/22,EU,LV,Latvia
+2a10:bf85:bce0::/45,EU,LV,Latvia
+2a10:bf87:e2c0::/45,EU,LV,Latvia
+195.130.205.0/24,EU,LV,Latvia
+31.42.120.0/24,EU,LV,Latvia
+2a10:bf87:24a0::/45,EU,LV,Latvia
+217.28.249.0/27,EU,LV,Latvia
+2a02:4840:240::/42,EU,LV,Latvia
+2a02:7aa0:161c::/46,EU,LV,Latvia
+159.148.149.2/31,EU,LV,Latvia
+2a10:bf87:d70::/45,EU,EE,Estonia
+2a10:bf85:3048::/45,EU,EE,Estonia
+2a0b:7140:1::/48,EU,EE,Estonia
+2a10:bf82:4ea0::/45,EU,EE,Estonia
+185.154.152.12/32,EU,EE,Estonia
+2a14:c380:364::/48,EU,EE,Estonia
+188.66.0.0/21,EU,EE,Estonia
+62.128.108.0/22,EU,EE,Estonia
+2a10:bf85:560::/45,EU,EE,Estonia
+212.27.234.0/23,EU,EE,Estonia
+2a10:bf81:a078::/45,EU,EE,Estonia
+178.171.42.0/23,EU,EE,Estonia
+185.194.52.0/23,EU,EE,Estonia
+62.128.122.100/31,EU,EE,Estonia
+2a10:bf81:98::/45,EU,EE,Estonia
+2a02:26f7:d0cd:4000::/64,EU,EE,Estonia
+2a10:bf85:b2f8::/45,EU,EE,Estonia
+2a10:bf85:67b8::/45,EU,EE,Estonia
+2607:6ac0:9000::/36,EU,EE,Estonia
+46.22.209.160/28,EU,EE,Estonia
+2a10:bf84:8050::/45,AS,GE,Georgia
+31.148.201.0/24,AS,GE,Georgia
+185.205.88.0/22,AS,GE,Georgia
+2a09:a702:4c::/47,AS,GE,Georgia
+72.52.161.62/32,AS,GE,Georgia
+2a10:bf85:d980::/45,AS,GE,Georgia
+2a10:bf86:6c10::/45,AS,GE,Georgia
+2a02:26f7:e04c:cda2::/64,AS,GE,Georgia
+2001:470:1f29:4a::/64,AS,GE,Georgia
+2a10:bf80:db58::/45,AS,GE,Georgia
+2a0a:6044:774f::/48,AS,GE,Georgia
+176.100.46.0/24,AS,GE,Georgia
+62.182.15.0/25,AS,GE,Georgia
+2a0c:f641::/48,AS,GE,Georgia
+104.28.106.48/32,AS,GE,Georgia
+2a10:bf81:ed28::/45,AS,GE,Georgia
+213.198.85.254/32,AS,GE,Georgia
+2a01:7c20::/32,AS,GE,Georgia
+2a02:26f7:e042:cda2::/64,AS,GE,Georgia
+2001:470:26:427::/64,AS,GE,Georgia
+2a14:7584:e3cc::/48,NA,VI,U.S. Virgin Islands
+199.76.51.252/30,NA,VI,U.S. Virgin Islands
+2605:59c0:156e:de14::/62,NA,VI,U.S. Virgin Islands
+208.49.209.248/29,NA,VI,U.S. Virgin Islands
+208.49.253.240/28,NA,VI,U.S. Virgin Islands
+208.49.241.192/26,NA,VI,U.S. Virgin Islands
+2a04:1d43:f00::/40,NA,VI,U.S. Virgin Islands
+199.76.42.0/24,NA,VI,U.S. Virgin Islands
+172.225.239.182/31,NA,VI,U.S. Virgin Islands
+157.5.91.178/32,NA,VI,U.S. Virgin Islands
+2a14:7584:e340::/44,NA,VI,U.S. Virgin Islands
+199.76.48.0/24,NA,VI,U.S. Virgin Islands
+208.49.233.96/28,NA,VI,U.S. Virgin Islands
+208.49.234.128/25,NA,VI,U.S. Virgin Islands
+2001:470:24:439::/64,NA,VI,U.S. Virgin Islands
+208.49.247.192/26,NA,VI,U.S. Virgin Islands
+204.11.152.0/21,NA,VI,U.S. Virgin Islands
+2a02:26f7:e688:4f42::/64,NA,VI,U.S. Virgin Islands
+208.49.193.0/26,NA,VI,U.S. Virgin Islands
+2602:f909::/40,NA,VI,U.S. Virgin Islands
+2001:470:f873:9740::/59,AN,AQ,Antarctica
+2a13:b487:110a::/47,AN,AQ,Antarctica
+2001:470:1f0f:446::/64,AN,AQ,Antarctica
+2001:470:f873:542::/63,AN,AQ,Antarctica
+2001:470:f873:902::/63,AN,AQ,Antarctica
+2001:470:d:11ad::/64,AN,AQ,Antarctica
+2001:470:24:27c::/64,AN,AQ,Antarctica
+2001:470:f332:fffc::/63,AN,AQ,Antarctica
+2a09:bac1:660::/64,AN,AQ,Antarctica
+2600:70ff:a9db::/48,AN,AQ,Antarctica
+2a0a:6044:7709::/48,AN,AQ,Antarctica
+2001:470:f8f9:3840::/58,AN,AQ,Antarctica
+2a02:26f7:d9c0:4000::/64,AN,AQ,Antarctica
+2001:470:d:b3b::/64,AN,AQ,Antarctica
+2001:470:1f29:3b0::/64,AN,AQ,Antarctica
+2001:470:d:223::/64,AN,AQ,Antarctica
+2001:470:f332:f000::/53,AN,AQ,Antarctica
+2a14:67c1:b066:3333::/64,AN,AQ,Antarctica
+2a0f:6287:ff43::/48,AN,AQ,Antarctica
+2a0f:7803:fac6::/50,AN,AQ,Antarctica
+37.59.175.72/30,EU,LT,Lithuania
+2a00:64c0::/32,EU,LT,Lithuania
+2a02:26f7:cfc0:d518::/62,EU,LT,Lithuania
+203.78.163.128/25,EU,LT,Lithuania
+91.206.2.0/24,EU,LT,Lithuania
+195.8.218.0/23,EU,LT,Lithuania
+86.38.228.0/24,EU,LT,Lithuania
+2a0e:d300::/29,EU,LT,Lithuania
+5.196.201.12/30,EU,LT,Lithuania
+89.116.238.0/24,EU,LT,Lithuania
+84.32.5.0/24,EU,LT,Lithuania
+2a04:4e41:1402:c000::/52,EU,LT,Lithuania
+2a00:1908:ff80::/42,EU,LT,Lithuania
+2a09:1d80::/32,EU,LT,Lithuania
+212.192.22.0/23,EU,LT,Lithuania
+77.37.49.0/24,EU,LT,Lithuania
+138.122.195.0/24,EU,LT,Lithuania
+85.206.164.0/23,EU,LT,Lithuania
+2001:778::/29,EU,LT,Lithuania
+2a0c:480:20::/48,EU,LT,Lithuania
+160.119.76.0/24,AF,SC,Seychelles
+2a13:18c6:a000::/37,AF,SC,Seychelles
+2a0f:e7c7:100::/40,AF,SC,Seychelles
+45.144.169.28/31,AF,SC,Seychelles
+2a10:67c2:ac0::/42,AF,SC,Seychelles
+2a0f:1e86::/40,AF,SC,Seychelles
+45.198.29.0/24,AF,SC,Seychelles
+45.149.129.52/30,AF,SC,Seychelles
+2a0f:1202:20::/43,AF,SC,Seychelles
+2a0f:1200:14::/46,AF,SC,Seychelles
+45.132.20.124/31,AF,SC,Seychelles
+2a0f:df45:100::/48,AF,SC,Seychelles
+2a0e:f604::/44,AF,SC,Seychelles
+2a0f:7d06:1000::/39,AF,SC,Seychelles
+2a0f:1206:bb80::/44,AF,SC,Seychelles
+91.236.121.168/32,AF,SC,Seychelles
+2a0f:e7c6:38::/45,AF,SC,Seychelles
+2a12:ac43:bc00::/38,AF,SC,Seychelles
+2a02:26f7:f900:4000::/64,AF,SC,Seychelles
+45.139.53.8/32,AF,SC,Seychelles
+82.205.175.192/26,AS,IQ,Iraq
+2a10:6340::/29,AS,IQ,Iraq
+2001:470:26:8::/64,AS,IQ,Iraq
+2a14:7584:e74c::/48,AS,IQ,Iraq
+2001:470:26:467::/64,AS,IQ,Iraq
+2a02:26f7:df48:4000::/64,AS,IQ,Iraq
+37.236.248.0/23,AS,IQ,Iraq
+2001:470:5483::/48,AS,IQ,Iraq
+2001:470:1f29:a2::/64,AS,IQ,Iraq
+2001:470:6d:dc::/64,AS,IQ,Iraq
+185.118.128.0/22,AS,IQ,Iraq
+37.238.208.0/20,AS,IQ,Iraq
+172.225.224.116/31,AS,IQ,Iraq
+37.238.96.0/23,AS,IQ,Iraq
+2001:470:28:45d::/64,AS,IQ,Iraq
+2001:470:1f2b:d::/64,AS,IQ,Iraq
+2a0c:9a46:3fe:6a::/64,AS,IQ,Iraq
+104.28.206.28/32,AS,IQ,Iraq
+2001:470:1f1b:260::/64,AS,IQ,Iraq
+188.164.81.32/27,AS,IQ,Iraq
+57.79.216.0/21,EU,VA,Vatican
+2001:470:ef92::/48,EU,VA,Vatican
+193.43.102.0/23,EU,VA,Vatican
+2a09:bac4:750::/45,EU,VA,Vatican
+88.202.111.128/28,EU,VA,Vatican
+2a14:7580:cfeb::/48,EU,VA,Vatican
+2a06:9f81:61a1::/48,EU,VA,Vatican
+104.28.15.69/32,EU,VA,Vatican
+5.62.63.197/32,EU,VA,Vatican
+2a09:bac1:7840::/64,EU,VA,Vatican
+2a0e:b107:aef::/48,EU,VA,Vatican
+2a07:d887:ea00::/40,EU,VA,Vatican
+93.115.105.0/24,EU,VA,Vatican
+185.152.68.0/22,EU,VA,Vatican
+2a14:67c2:843::/48,EU,VA,Vatican
+196.57.204.0/24,EU,VA,Vatican
+172.225.158.48/28,EU,VA,Vatican
+2a04:1d46:f300::/40,EU,VA,Vatican
+2a09:bac1:7860::/64,EU,VA,Vatican
+136.23.20.8/32,EU,VA,Vatican
+94.103.184.0/24,AS,KZ,Kazakhstan
+185.217.16.0/22,AS,KZ,Kazakhstan
+138.249.57.0/24,AS,KZ,Kazakhstan
+77.245.96.0/20,AS,KZ,Kazakhstan
+2001:470:1f0b:ca1::/64,AS,KZ,Kazakhstan
+157.5.123.54/32,AS,KZ,Kazakhstan
+2a0b:cd41:30::/48,AS,KZ,Kazakhstan
+186.243.230.0/24,AS,KZ,Kazakhstan
+2001:470:26:3a::/64,AS,KZ,Kazakhstan
+2001:470:28:10::/64,AS,KZ,Kazakhstan
+194.187.136.0/22,AS,KZ,Kazakhstan
+194.39.64.0/22,AS,KZ,Kazakhstan
+2a02:6b8:fc4e::/48,AS,KZ,Kazakhstan
+176.223.100.0/22,AS,KZ,Kazakhstan
+194.169.87.0/24,AS,KZ,Kazakhstan
+81.18.32.0/20,AS,KZ,Kazakhstan
+2001:470:6d:718::/64,AS,KZ,Kazakhstan
+86.107.198.0/23,AS,KZ,Kazakhstan
+91.240.8.0/22,AS,KZ,Kazakhstan
+2607:8940:4192:1c00::/56,AS,KZ,Kazakhstan
+2a0d:1643:200::/39,NA,VG,British Virgin Islands
+2a04:2d01:80::/41,NA,VG,British Virgin Islands
+45.89.64.0/22,NA,VG,British Virgin Islands
+2a04:1d42:f000::/40,NA,VG,British Virgin Islands
+162.251.87.0/24,NA,VG,British Virgin Islands
+162.120.228.68/32,NA,VG,British Virgin Islands
+2a0d:1643:8000::/35,NA,VG,British Virgin Islands
+2620:1e:a000::/48,NA,VG,British Virgin Islands
+142.54.22.0/24,NA,VG,British Virgin Islands
+2a0d:3884::/30,NA,VG,British Virgin Islands
+91.103.254.128/25,NA,VG,British Virgin Islands
+2a0c:9a40:95bf:a00::/60,NA,VG,British Virgin Islands
+196.1.171.0/24,NA,VG,British Virgin Islands
+172.226.13.124/31,NA,VG,British Virgin Islands
+2a0d:1643:1000::/36,NA,VG,British Virgin Islands
+146.75.244.12/31,NA,VG,British Virgin Islands
+2a12:bec4:12a8:f400::/56,NA,VG,British Virgin Islands
+43.241.70.136/29,NA,VG,British Virgin Islands
+136.23.23.51/32,NA,VG,British Virgin Islands
+87.76.222.0/24,NA,VG,British Virgin Islands
+2a10:bf84:29f8::/45,EU,RS,Serbia
+2a10:bf81:c8a0::/45,EU,RS,Serbia
+178.20.206.0/23,EU,RS,Serbia
+85.91.108.0/22,EU,RS,Serbia
+2a10:bf87:95d8::/45,EU,RS,Serbia
+91.214.200.0/22,EU,RS,Serbia
+2a10:bf85:f0b8::/45,EU,RS,Serbia
+2a02:26f7:dc84:d880::/62,EU,RS,Serbia
+150.40.116.0/24,EU,RS,Serbia
+2a03:3e0:ff70::1:0/112,EU,RS,Serbia
+2604:b040:13:1400:0:5:5:0/112,EU,RS,Serbia
+2001:1be0:1440:900::/56,EU,RS,Serbia
+2a0a:6044:f67c::/47,EU,RS,Serbia
+212.237.240.0/22,EU,RS,Serbia
+2a03:b080::/32,EU,RS,Serbia
+89.23.83.0/24,EU,RS,Serbia
+86.110.62.0/24,EU,RS,Serbia
+2a10:bf83:c660::/45,EU,RS,Serbia
+2a0d:f407:1025::/48,EU,RS,Serbia
+2a04:4e41:1837::/48,EU,RS,Serbia
+2a13:240:200::/39,EU,IS,Iceland
+185.119.124.0/22,EU,IS,Iceland
+2a00:f960::/32,EU,IS,Iceland
+2a10:8c40::/29,EU,IS,Iceland
+81.15.0.0/17,EU,IS,Iceland
+213.176.148.160/27,EU,IS,Iceland
+2a07:54c1:c700::/40,EU,IS,Iceland
+2a06:1700:1000::/36,EU,IS,Iceland
+2a01:b9c0::/32,EU,IS,Iceland
+195.246.230.0/23,EU,IS,Iceland
+2a13:240:8020::/43,EU,IS,Iceland
+2606:40:2302:c000::/54,EU,IS,Iceland
+2001:470:b618::/48,EU,IS,Iceland
+2a00:4ea0::/32,EU,IS,Iceland
+2a09:7007:1000::/36,EU,IS,Iceland
+2a07:54c1:c180::/43,EU,IS,Iceland
+2a0f:ca81:b00b:f2::/64,EU,IS,Iceland
+37.152.64.0/21,EU,IS,Iceland
+2a14:7580:cf6c::/48,EU,IS,Iceland
+172.225.10.16/28,EU,IS,Iceland
+208.127.33.208/28,EU,HR,Croatia
+2a10:bf83:748::/45,EU,HR,Croatia
+2a10:bf82:22c0::/45,EU,HR,Croatia
+80.80.48.0/20,EU,HR,Croatia
+2a10:bf84:a00::/45,EU,HR,Croatia
+2a04:a7c0::/29,EU,HR,Croatia
+85.94.64.0/19,EU,HR,Croatia
+2a10:bf83:b710::/45,EU,HR,Croatia
+34.103.158.248/30,EU,HR,Croatia
+185.123.35.33/32,EU,HR,Croatia
+172.225.191.64/27,EU,HR,Croatia
+82.25.231.0/24,EU,HR,Croatia
+2a09:bac0:1000:9bc::/64,EU,HR,Croatia
+192.84.108.0/24,EU,HR,Croatia
+185.193.50.0/24,EU,HR,Croatia
+195.29.128.0/18,EU,HR,Croatia
+2a09:bac5:39a8::/45,EU,HR,Croatia
+217.14.221.0/28,EU,HR,Croatia
+165.220.168.80/29,EU,HR,Croatia
+191.96.192.0/25,EU,HR,Croatia
+15.158.24.128/26,AS,OM,Oman
+2001:470:26:4c9::/64,AS,OM,Oman
+196.198.152.0/24,AS,OM,Oman
+2a09:bac0:1000:aae::/64,AS,OM,Oman
+206.167.33.0/24,AS,OM,Oman
+157.167.239.178/32,AS,OM,Oman
+157.167.229.96/32,AS,OM,Oman
+2001:470:1f29:c7::/64,AS,OM,Oman
+154.41.96.0/19,AS,OM,Oman
+88.218.201.0/24,AS,OM,Oman
+57.83.104.0/21,AS,OM,Oman
+185.185.124.0/23,AS,OM,Oman
+151.104.128.0/20,AS,OM,Oman
+2a13:a5c7:25ac::/48,AS,OM,Oman
+2001:470:7360::/48,AS,OM,Oman
+157.5.101.146/31,AS,OM,Oman
+67.43.12.95/32,AS,OM,Oman
+46.40.192.0/18,AS,OM,Oman
+193.238.244.0/22,AS,OM,Oman
+2a0b:4e07:3:5120::/60,AS,OM,Oman
+2a14:9b00::/29,AS,IR,Iran
+5.10.248.0/23,AS,IR,Iran
+2a12:bec4:12a6:24c8::/61,AS,IR,Iran
+2a09:4c0:3e0:8ae::/63,AS,IR,Iran
+2a10:b240::/29,AS,IR,Iran
+2a03:2dc0::/32,AS,IR,Iran
+109.203.128.0/19,AS,IR,Iran
+188.136.192.0/19,AS,IR,Iran
+185.141.168.0/22,AS,IR,Iran
+2a04:1d46:6100::/40,AS,IR,Iran
+2a09:4c0:3e0:9e4::/62,AS,IR,Iran
+2a03:b600::/29,AS,IR,Iran
+2a09:4c0:3e0:1c6::/64,AS,IR,Iran
+2a09:bac1:3860:10::/64,AS,IR,Iran
+2a09:4c0:3e0:800::/62,AS,IR,Iran
+2a09:4c0:3e0:c3c::/64,AS,IR,Iran
+89.37.208.0/22,AS,IR,Iran
+185.71.192.0/22,AS,IR,Iran
+93.119.32.0/19,AS,IR,Iran
+195.62.4.0/24,AS,IR,Iran
+130.117.14.152/30,EU,SK,Slovakia
+34.103.137.13/32,EU,SK,Slovakia
+2001:470:1f1b:3ac::/64,EU,SK,Slovakia
+2a09:4c0:fe0:46a::/63,EU,SK,Slovakia
+2a09:4c0:3e0:e6b::/64,EU,SK,Slovakia
+2a0a:6044:6680::/45,EU,SK,Slovakia
+2a03:6300:8::/45,EU,SK,Slovakia
+2a01:c846:5206::/47,EU,SK,Slovakia
+2a03:e0::/32,EU,SK,Slovakia
+161.69.77.35/32,EU,SK,Slovakia
+2a01:c846:51cc::/46,EU,SK,Slovakia
+141.101.163.96/28,EU,SK,Slovakia
+85.248.21.0/24,EU,SK,Slovakia
+2a04:1d41:1400::/40,EU,SK,Slovakia
+91.229.225.0/24,EU,SK,Slovakia
+2a12:ef81::/32,EU,SK,Slovakia
+157.167.73.0/24,EU,SK,Slovakia
+2a01:c846:4228::/47,EU,SK,Slovakia
+2001:470:1f1b:ff::/64,EU,SK,Slovakia
+138.16.21.0/24,EU,SK,Slovakia
+2a10:bf84:a490::/45,AS,UZ,Uzbekistan
+2a10:bf81:6490::/45,AS,UZ,Uzbekistan
+2a10:bf87:8db8::/45,AS,UZ,Uzbekistan
+2a10:bf86:ada0::/45,AS,UZ,Uzbekistan
+2a10:bf82:6140::/45,AS,UZ,Uzbekistan
+2a10:bf81:51c8::/45,AS,UZ,Uzbekistan
+208.127.101.244/31,AS,UZ,Uzbekistan
+165.1.199.225/32,AS,UZ,Uzbekistan
+2001:470:28:c69::/64,AS,UZ,Uzbekistan
+109.248.9.0/24,AS,UZ,Uzbekistan
+2a10:bf85:ef28::/45,AS,UZ,Uzbekistan
+2a10:bf84:fae8::/45,AS,UZ,Uzbekistan
+2a10:bf81:87f8::/45,AS,UZ,Uzbekistan
+2a10:bf87:2298::/45,AS,UZ,Uzbekistan
+185.74.100.0/22,AS,UZ,Uzbekistan
+2a10:bf83:ef78::/45,AS,UZ,Uzbekistan
+2a10:bf83:a700::/45,AS,UZ,Uzbekistan
+57.93.64.0/20,AS,UZ,Uzbekistan
+77.83.206.0/24,AS,UZ,Uzbekistan
+2a10:bf87:ec98::/45,AS,UZ,Uzbekistan
+165.1.246.129/32,SA,EC,Ecuador
+45.170.132.10/31,SA,EC,Ecuador
+200.24.222.232/29,SA,EC,Ecuador
+2803:fd60::/32,SA,EC,Ecuador
+200.24.193.0/26,SA,EC,Ecuador
+2803:f1d0::/32,SA,EC,Ecuador
+2001:470:26:6f4::/64,SA,EC,Ecuador
+181.188.253.32/29,SA,EC,Ecuador
+2803:9810:6280:3f08::/62,SA,EC,Ecuador
+2a09:bac6:db50::/45,SA,EC,Ecuador
+200.125.132.0/22,SA,EC,Ecuador
+200.76.112.0/22,SA,EC,Ecuador
+181.188.250.0/24,SA,EC,Ecuador
+45.173.112.0/22,SA,EC,Ecuador
+2606:54c0:3030::/44,SA,EC,Ecuador
+2803:2b00:8010::/48,SA,EC,Ecuador
+2802:3:6000::/35,SA,EC,Ecuador
+89.45.35.0/24,SA,EC,Ecuador
+2803:810::/32,SA,EC,Ecuador
+2803:1d90::/32,SA,EC,Ecuador
+2803:4600:101b:600::/56,NA,GT,Guatemala
+2803:6300::/32,NA,GT,Guatemala
+190.5.81.216/29,NA,GT,Guatemala
+104.28.50.8/31,NA,GT,Guatemala
+157.167.234.26/32,NA,GT,Guatemala
+45.164.148.0/22,NA,GT,Guatemala
+190.4.37.64/29,NA,GT,Guatemala
+2a10:bf83:21e0::/45,NA,GT,Guatemala
+2a09:bac1:2f80::/56,NA,GT,Guatemala
+2803:4600:101f:4000::/50,NA,GT,Guatemala
+190.242.59.184/30,NA,GT,Guatemala
+190.4.33.144/29,NA,GT,Guatemala
+2607:8940:40b0:fa00::/55,NA,GT,Guatemala
+2a10:bf81:8ff8::/45,NA,GT,Guatemala
+2a10:bf87:5700::/45,NA,GT,Guatemala
+2a10:bf86:4ff0::/45,NA,GT,Guatemala
+2803:4600:101b:780::/58,NA,GT,Guatemala
+2803:4600:104f:4000::/50,NA,GT,Guatemala
+190.4.33.216/29,NA,GT,Guatemala
+2a12:bec4:12a4:a38::/61,NA,GT,Guatemala
+2a10:bf86:17d0::/45,NA,PA,Panama
+217.117.145.128/29,NA,PA,Panama
+2a10:bf81:38b8::/45,NA,PA,Panama
+2a10:bf85:40a0::/45,NA,PA,Panama
+2a10:bf81:97b0::/45,NA,PA,Panama
+38.250.10.0/23,NA,PA,Panama
+82.129.0.0/22,NA,PA,Panama
+2a10:bf81:67d8::/45,NA,PA,Panama
+32.59.65.160/28,NA,PA,Panama
+2803:34a0::/32,NA,PA,Panama
+2a10:bf86:4f98::/45,NA,PA,Panama
+2a10:bf85:7760::/45,NA,PA,Panama
+2a10:bf83:2c0::/45,NA,PA,Panama
+2a10:bf84:29c0::/45,NA,PA,Panama
+2a09:a707:6::/47,NA,PA,Panama
+2a10:9102::/31,NA,PA,Panama
+2a10:bf80:34f0::/45,NA,PA,Panama
+88.84.144.88/29,NA,PA,Panama
+181.189.224.80/28,NA,PA,Panama
+201.224.0.0/14,NA,PA,Panama
+69.16.236.129/32,EU,GI,Gibraltar
+213.187.234.0/24,EU,GI,Gibraltar
+2a03:dc40:400::/38,EU,GI,Gibraltar
+89.124.253.0/24,EU,GI,Gibraltar
+2a12:bec4:12a5:21ba::/63,EU,GI,Gibraltar
+94.26.101.0/24,EU,GI,Gibraltar
+2a0a:6044:7753::/48,EU,GI,Gibraltar
+72.52.244.64/32,EU,GI,Gibraltar
+95.131.184.0/21,EU,GI,Gibraltar
+185.120.96.0/22,EU,GI,Gibraltar
+2607:8940:33fa::/47,EU,GI,Gibraltar
+45.94.8.0/22,EU,GI,Gibraltar
+217.65.48.0/20,EU,GI,Gibraltar
+212.22.234.0/23,EU,GI,Gibraltar
+2a03:dc40:1000::/36,EU,GI,Gibraltar
+94.26.98.0/23,EU,GI,Gibraltar
+31.222.56.0/21,EU,GI,Gibraltar
+109.202.112.0/26,EU,GI,Gibraltar
+2a0e:97c0:4b54::/48,EU,GI,Gibraltar
+5.62.92.224/27,EU,GI,Gibraltar
+2400:52e0:2a01::/48,EU,SI,Slovenia
+2a10:bf82:9598::/45,EU,SI,Slovenia
+2607:8940:4163:d400::/54,EU,SI,Slovenia
+2a10:bf82:b820::/45,EU,SI,Slovenia
+2607:8940:4163:d800::/55,EU,SI,Slovenia
+195.234.189.0/24,EU,SI,Slovenia
+91.208.27.0/24,EU,SI,Slovenia
+193.169.48.0/23,EU,SI,Slovenia
+2a10:bf82:2fb8::/45,EU,SI,Slovenia
+2a10:bf86:c98::/45,EU,SI,Slovenia
+146.212.0.0/16,EU,SI,Slovenia
+34.103.136.54/32,EU,SI,Slovenia
+195.234.179.0/24,EU,SI,Slovenia
+137.83.226.198/31,EU,SI,Slovenia
+212.232.20.0/23,EU,SI,Slovenia
+2606:40:2321:c400::/54,EU,SI,Slovenia
+2606:40:2284:2400::/54,EU,SI,Slovenia
+2400:52e0:3000::/36,EU,SI,Slovenia
+2606:40:1850::/44,EU,SI,Slovenia
+2a10:bf84:e178::/45,EU,SI,Slovenia
+2001:470:209d::/48,EU,HU,Hungary
+195.21.7.16/28,EU,HU,Hungary
+185.116.242.176/30,EU,HU,Hungary
+2001:470:1f15:1c49::/64,EU,HU,Hungary
+185.139.153.88/30,EU,HU,Hungary
+2a10:bf82:7700::/45,EU,HU,Hungary
+157.167.230.156/32,EU,HU,Hungary
+5.63.192.0/18,EU,HU,Hungary
+2001:470:2024::/47,EU,HU,Hungary
+165.1.194.129/32,EU,HU,Hungary
+92.43.200.0/21,EU,HU,Hungary
+194.88.50.0/23,EU,HU,Hungary
+2a10:bf80:8968::/45,EU,HU,Hungary
+212.221.30.48/30,EU,HU,Hungary
+62.23.185.232/29,EU,HU,Hungary
+91.198.131.0/24,EU,HU,Hungary
+2a10:bf82:5380::/45,EU,HU,Hungary
+2a01:3e2:3400::1:0/112,EU,HU,Hungary
+2a10:bf87:c4f8::/45,EU,HU,Hungary
+151.252.30.240/30,EU,HU,Hungary
+94.125.57.40/29,EU,MT,Malta
+2001:470:1f0b:4fe::/64,EU,MT,Malta
+212.221.7.208/29,EU,MT,Malta
+23.230.47.0/24,EU,MT,Malta
+2a04:1d45:4200::/40,EU,MT,Malta
+155.2.167.64/29,EU,MT,Malta
+2a09:bac5:4980::/45,EU,MT,Malta
+2a0c:9a40:95b8:7000::/52,EU,MT,Malta
+185.242.68.0/22,EU,MT,Malta
+185.234.109.0/24,EU,MT,Malta
+78.110.24.0/23,EU,MT,Malta
+164.137.209.0/24,EU,MT,Malta
+91.220.139.0/24,EU,MT,Malta
+85.184.108.0/23,EU,MT,Malta
+45.199.183.0/24,EU,MT,Malta
+95.134.54.0/24,EU,MT,Malta
+2a09:6f47:13::/48,EU,MT,Malta
+2a03:75e0::/32,EU,MT,Malta
+217.168.168.0/23,EU,MT,Malta
+157.167.231.135/32,EU,MT,Malta
+185.207.236.0/24,EU,MD,Moldova
+2607:740:25::/48,EU,MD,Moldova
+104.28.235.247/32,EU,MD,Moldova
+2a09:3d40::/29,EU,MD,Moldova
+2a09:ef40::/29,EU,MD,Moldova
+178.17.172.160/27,EU,MD,Moldova
+2001:3786:5005:200::/56,EU,MD,Moldova
+188.213.220.0/22,EU,MD,Moldova
+2a13:7a80::/29,EU,MD,Moldova
+93.119.140.0/22,EU,MD,Moldova
+45.150.67.0/24,EU,MD,Moldova
+188.190.30.0/24,EU,MD,Moldova
+2a13:3f40:3080::/41,EU,MD,Moldova
+2a13:7380::/29,EU,MD,Moldova
+2a14:7581:be0:7c80::/58,EU,MD,Moldova
+2a0c:92c0::/32,EU,MD,Moldova
+2a02:5742:136::/48,EU,MD,Moldova
+109.248.219.0/24,EU,MD,Moldova
+217.19.208.0/20,EU,MD,Moldova
+195.230.200.224/31,EU,MD,Moldova
+194.117.110.120/29,EU,CY,Cyprus
+193.161.28.0/23,EU,CY,Cyprus
+151.240.3.0/24,EU,CY,Cyprus
+2604:b040:13:1100:2:0:1:0/112,EU,CY,Cyprus
+157.167.228.141/32,EU,CY,Cyprus
+2a06:3040:f::/48,EU,CY,Cyprus
+66.205.64.0/19,EU,CY,Cyprus
+2a0e:6300::/29,EU,CY,Cyprus
+91.106.208.248/30,EU,CY,Cyprus
+185.205.208.50/32,EU,CY,Cyprus
+155.2.170.208/29,EU,CY,Cyprus
+2a10:6880::/29,EU,CY,Cyprus
+140.248.4.20/30,EU,CY,Cyprus
+2401:fce0:400::/38,EU,CY,Cyprus
+67.55.81.32/29,EU,CY,Cyprus
+188.114.254.237/32,EU,CY,Cyprus
+2a09:9b41::/32,EU,CY,Cyprus
+2001:470:1f15:466::/64,EU,CY,Cyprus
+2001:470:28:71e::/64,EU,CY,Cyprus
+217.114.211.0/28,EU,CY,Cyprus
+104.28.131.152/30,AS,SY,Syria
+2401:b60:1df0::/44,AS,SY,Syria
+46.40.128.0/18,AS,SY,Syria
+196.56.186.0/24,AS,SY,Syria
+2a07:d887:d200::/40,AS,SY,Syria
+5.0.0.0/16,AS,SY,Syria
+2606:54c3:0:1169::/64,AS,SY,Syria
+46.53.0.0/17,AS,SY,Syria
+185.254.108.0/22,AS,SY,Syria
+205.209.76.0/24,AS,SY,Syria
+104.28.60.209/32,AS,SY,Syria
+194.135.248.0/21,AS,SY,Syria
+185.231.44.0/22,AS,SY,Syria
+2a04:1d41:eb00::/40,AS,SY,Syria
+2a12:bec4:12a6:4df4::/63,AS,SY,Syria
+194.135.116.0/23,AS,SY,Syria
+104.28.51.216/31,AS,SY,Syria
+217.20.208.0/20,AS,SY,Syria
+185.199.244.0/22,AS,SY,Syria
+79.141.224.0/20,AS,SY,Syria
+2a01:7b00::/32,AS,LB,Lebanon
+2a0c:9a46:37f::/48,AS,LB,Lebanon
+2a04:4e41:5201:f000::/52,AS,LB,Lebanon
+185.100.216.0/22,AS,LB,Lebanon
+140.150.39.0/24,AS,LB,Lebanon
+185.187.92.0/22,AS,LB,Lebanon
+85.112.64.0/19,AS,LB,Lebanon
+2a0d:6340::/29,AS,LB,Lebanon
+185.107.48.0/22,AS,LB,Lebanon
+154.6.167.0/24,AS,LB,Lebanon
+2a04:1d47:5c00::/40,AS,LB,Lebanon
+176.119.208.0/24,AS,LB,Lebanon
+64.27.63.176/29,AS,LB,Lebanon
+46.17.73.128/25,AS,LB,Lebanon
+2001:470:1f13:410::/64,AS,LB,Lebanon
+23.181.208.192/26,AS,LB,Lebanon
+5.175.190.78/32,AS,LB,Lebanon
+2a03:6900::/32,AS,LB,Lebanon
+2a04:1d43:5c00::/40,AS,LB,Lebanon
+2001:4b28:5c00::/40,AS,LB,Lebanon
+213.16.8.0/23,NA,GP,Guadeloupe
+2605:59ca:8e00::/40,NA,GP,Guadeloupe
+46.193.201.58/31,NA,GP,Guadeloupe
+5.62.56.105/32,NA,GP,Guadeloupe
+37.8.163.0/25,NA,GP,Guadeloupe
+109.62.71.224/27,NA,GP,Guadeloupe
+2001:470:36:227::/64,NA,GP,Guadeloupe
+2607:8940:4200:a700::/56,NA,GP,Guadeloupe
+2a04:1d43:ce00::/40,NA,GP,Guadeloupe
+2606:3180::/32,NA,GP,Guadeloupe
+207.90.254.0/23,NA,GP,Guadeloupe
+46.193.54.94/32,NA,GP,Guadeloupe
+154.49.224.0/24,NA,GP,Guadeloupe
+2a12:bec4:12a4:a30::/63,NA,GP,Guadeloupe
+81.248.128.0/24,NA,GP,Guadeloupe
+2a09:bac6:3908::/45,NA,GP,Guadeloupe
+2a01:528:ce00::/40,NA,GP,Guadeloupe
+90.82.57.224/27,NA,GP,Guadeloupe
+2606:54c0:38a0::/45,NA,GP,Guadeloupe
+46.238.184.0/22,NA,GP,Guadeloupe
+2001:470:d:12de::/64,AS,AZ,Azerbaijan
+2a10:bf84:f2e8::/45,AS,AZ,Azerbaijan
+2a10:bf83:6728::/45,AS,AZ,Azerbaijan
+2a10:bf83:5018::/45,AS,AZ,Azerbaijan
+185.40.32.0/22,AS,AZ,Azerbaijan
+2a10:bf81:ba18::/45,AS,AZ,Azerbaijan
+2a10:bf83:f688::/45,AS,AZ,Azerbaijan
+2a10:bf84:df70::/45,AS,AZ,Azerbaijan
+109.175.133.0/24,AS,AZ,Azerbaijan
+157.167.231.174/32,AS,AZ,Azerbaijan
+91.242.0.0/19,AS,AZ,Azerbaijan
+2a12:bec4:12a6:a44::/63,AS,AZ,Azerbaijan
+2a10:bf87:2538::/45,AS,AZ,Azerbaijan
+172.71.12.0/24,AS,AZ,Azerbaijan
+89.41.0.0/21,AS,AZ,Azerbaijan
+2a10:bf82:ee70::/45,AS,AZ,Azerbaijan
+2a10:bf82:e2d8::/45,AS,AZ,Azerbaijan
+2a10:bf83:42e8::/45,AS,AZ,Azerbaijan
+2a06:2d40:800::/37,AS,AZ,Azerbaijan
+2a01:528:8e00::/40,AS,AZ,Azerbaijan
+41.60.220.0/22,AF,ZM,Zambia
+41.218.84.192/26,AF,ZM,Zambia
+2604:b040:13::4:8:0/112,AF,ZM,Zambia
+2a12:f381:700::/40,AF,ZM,Zambia
+2a09:bac6:d528::/45,AF,ZM,Zambia
+2606:54c3:0:5::/64,AF,ZM,Zambia
+41.60.192.0/20,AF,ZM,Zambia
+2a0c:9a46:3fe:f7::/64,AF,ZM,Zambia
+104.23.192.0/24,AF,ZM,Zambia
+41.60.148.0/22,AF,ZM,Zambia
+2a02:26f7:d210:d020::/62,AF,ZM,Zambia
+102.210.96.0/22,AF,ZM,Zambia
+2a14:7581:3bfe::/48,AF,ZM,Zambia
+41.72.96.0/19,AF,ZM,Zambia
+41.216.64.0/19,AF,ZM,Zambia
+41.218.84.132/30,AF,ZM,Zambia
+2a12:bec4:12a5:9160::/60,AF,ZM,Zambia
+104.28.255.248/30,AF,ZM,Zambia
+41.60.160.0/19,AF,ZM,Zambia
+41.60.144.0/26,AF,ZM,Zambia
+2a09:4c0:3500::/40,AF,CD,Democratic Republic of the Congo
+2607:8940:4191:1800::/56,AF,CD,Democratic Republic of the Congo
+2a04:4e41:4805::/48,AF,CD,Democratic Republic of the Congo
+157.167.239.16/32,AF,CD,Democratic Republic of the Congo
+104.28.210.46/31,AF,CD,Democratic Republic of the Congo
+196.223.247.0/24,AF,CD,Democratic Republic of the Congo
+196.216.216.0/23,AF,CD,Democratic Republic of the Congo
+104.28.60.30/31,AF,CD,Democratic Republic of the Congo
+74.244.82.0/24,AF,CD,Democratic Republic of the Congo
+2a02:26f7:e0c5:4000::/64,AF,CD,Democratic Republic of the Congo
+2a00:ca0:2005:1000::/52,AF,CD,Democratic Republic of the Congo
+102.68.152.0/22,AF,CD,Democratic Republic of the Congo
+2600:70ff:a76d::/48,AF,CD,Democratic Republic of the Congo
+194.50.99.40/32,AF,CD,Democratic Republic of the Congo
+2001:470:1f09:464::/64,AF,CD,Democratic Republic of the Congo
+2a0a:6044:698a::/47,AF,CD,Democratic Republic of the Congo
+156.0.198.0/24,AF,CD,Democratic Republic of the Congo
+80.15.242.0/24,AF,CD,Democratic Republic of the Congo
+102.67.168.240/29,AF,CD,Democratic Republic of the Congo
+143.105.214.0/23,AF,CD,Democratic Republic of the Congo
+2a10:bf87:aa90::/45,AF,AO,Angola
+2a10:bf80:6b00::/45,AF,AO,Angola
+2a10:bf80:2620::/45,AF,AO,Angola
+196.216.48.15/32,AF,AO,Angola
+2a10:bf85:9068::/45,AF,AO,Angola
+2a10:bf81:c00::/45,AF,AO,Angola
+41.222.200.0/22,AF,AO,Angola
+160.225.2.0/23,AF,AO,Angola
+2a10:bf83:6420::/45,AF,AO,Angola
+2a02:5741:36::/48,AF,AO,Angola
+102.64.84.0/24,AF,AO,Angola
+2a10:bf82:3060::/45,AF,AO,Angola
+102.210.120.0/22,AF,AO,Angola
+2a10:bf87:3418::/45,AF,AO,Angola
+2a10:bf83:d8f8::/45,AF,AO,Angola
+2a10:bf80:770::/45,AF,AO,Angola
+2a14:7580:cf07::/48,AF,AO,Angola
+2a10:bf87:348::/45,AF,AO,Angola
+196.216.55.72/30,AF,AO,Angola
+2a02:26f7:f100:4000::/64,AF,AO,Angola
+2a07:d8c0::/32,EU,MK,North Macedonia
+85.237.127.111/32,EU,MK,North Macedonia
+149.29.10.24/29,EU,MK,North Macedonia
+109.121.160.0/23,EU,MK,North Macedonia
+185.225.28.0/22,EU,MK,North Macedonia
+157.167.240.81/32,EU,MK,North Macedonia
+94.100.96.0/20,EU,MK,North Macedonia
+196.57.150.0/24,EU,MK,North Macedonia
+149.29.10.8/29,EU,MK,North Macedonia
+188.117.212.0/22,EU,MK,North Macedonia
+217.196.192.0/20,EU,MK,North Macedonia
+185.167.44.0/22,EU,MK,North Macedonia
+2a12:bec4:12a5:26e4::/64,EU,MK,North Macedonia
+185.143.15.129/32,EU,MK,North Macedonia
+2a09:bac6:4918::/45,EU,MK,North Macedonia
+93.95.64.0/22,EU,MK,North Macedonia
+185.143.7.62/32,EU,MK,North Macedonia
+91.226.20.0/23,EU,MK,North Macedonia
+2a02:5580::/32,EU,MK,North Macedonia
+2a0e:97c0:4b91::/48,EU,MK,North Macedonia
+104.28.233.26/31,AS,TJ,Tajikistan
+45.15.177.12/30,AS,TJ,Tajikistan
+191.102.153.0/24,AS,TJ,Tajikistan
+81.85.101.0/24,AS,TJ,Tajikistan
+77.244.144.0/20,AS,TJ,Tajikistan
+2001:470:28:f72::/64,AS,TJ,Tajikistan
+2a12:bec4:12a6:4e1e::/63,AS,TJ,Tajikistan
+45.94.216.0/22,AS,TJ,Tajikistan
+79.170.184.0/21,AS,TJ,Tajikistan
+217.11.176.0/20,AS,TJ,Tajikistan
+2a12:bec4:12a8:e000::/56,AS,TJ,Tajikistan
+2001:7f8:59::/48,AS,TJ,Tajikistan
+217.197.105.0/24,AS,TJ,Tajikistan
+217.8.32.0/20,AS,TJ,Tajikistan
+2a13:aac7:148::/45,AS,TJ,Tajikistan
+2a0b:4e07:3:7620::/60,AS,TJ,Tajikistan
+135.106.112.0/24,AS,TJ,Tajikistan
+2a12:f005:8000::/36,AS,TJ,Tajikistan
+2a04:1d43:e400::/40,AS,TJ,Tajikistan
+104.28.233.25/32,AS,TJ,Tajikistan
+34.103.182.0/23,EU,LI,Liechtenstein
+165.1.196.56/30,EU,LI,Liechtenstein
+137.83.227.134/31,EU,LI,Liechtenstein
+208.127.37.1/32,EU,LI,Liechtenstein
+213.33.105.0/24,EU,LI,Liechtenstein
+2a00:da60:ad0::/45,EU,LI,Liechtenstein
+2a0e:1540:8000::/34,EU,LI,Liechtenstein
+212.97.70.0/24,EU,LI,Liechtenstein
+80.248.192.96/28,EU,LI,Liechtenstein
+194.124.190.0/23,EU,LI,Liechtenstein
+2a0e:3bc0:fa80::/41,EU,LI,Liechtenstein
+2a03:4c80::/32,EU,LI,Liechtenstein
+208.127.62.44/30,EU,LI,Liechtenstein
+2606:40:21c0:e000::/54,EU,LI,Liechtenstein
+2a09:bac6:4850::/45,EU,LI,Liechtenstein
+2a02:26f7:ba44:cb40::/63,EU,LI,Liechtenstein
+185.230.121.0/24,EU,LI,Liechtenstein
+165.1.196.4/30,EU,LI,Liechtenstein
+85.25.84.128/25,EU,LI,Liechtenstein
+2a0e:97c0:620::/44,EU,LI,Liechtenstein
+213.167.68.104/29,EU,JE,Jersey
+212.9.2.192/27,EU,JE,Jersey
+213.133.203.40/29,EU,JE,Jersey
+212.9.25.120/29,EU,JE,Jersey
+2001:470:71:63e::/64,EU,JE,Jersey
+2a02:c28:2::/47,EU,JE,Jersey
+195.226.147.252/30,EU,JE,Jersey
+2a12:f001:4000::/36,EU,JE,Jersey
+212.9.21.96/29,EU,JE,Jersey
+195.226.148.96/29,EU,JE,Jersey
+213.133.214.64/26,EU,JE,Jersey
+195.226.148.112/29,EU,JE,Jersey
+212.9.26.24/29,EU,JE,Jersey
+195.226.149.220/30,EU,JE,Jersey
+92.43.213.144/29,EU,JE,Jersey
+87.244.120.72/29,EU,JE,Jersey
+2a0a:6044:f536::/47,EU,JE,Jersey
+213.167.70.240/28,EU,JE,Jersey
+212.9.1.176/28,EU,JE,Jersey
+2607:8940:4120:9d00::/56,EU,JE,Jersey
+2a10:bf82:c3c0::/45,EU,BA,Bosnia and Herzegovina
+2a10:bf86:9708::/45,EU,BA,Bosnia and Herzegovina
+2a02:2230:6300::/40,EU,BA,Bosnia and Herzegovina
+2a0b:4e07:3:7110::/60,EU,BA,Bosnia and Herzegovina
+2a0b:4e07:3:3570::/60,EU,BA,Bosnia and Herzegovina
+2a10:bf82:4aa0::/45,EU,BA,Bosnia and Herzegovina
+2a10:bf81:2828::/45,EU,BA,Bosnia and Herzegovina
+2a10:bf81:52d8::/45,EU,BA,Bosnia and Herzegovina
+2a0b:4e07:3:38a0::/59,EU,BA,Bosnia and Herzegovina
+2a0b:4e07:3:7a00::/55,EU,BA,Bosnia and Herzegovina
+2a0b:4e07:3:220::/59,EU,BA,Bosnia and Herzegovina
+2a10:bf82:f4b0::/45,EU,BA,Bosnia and Herzegovina
+2001:470:224a::/48,EU,BA,Bosnia and Herzegovina
+80.65.67.0/24,EU,BA,Bosnia and Herzegovina
+5.149.64.0/19,EU,BA,Bosnia and Herzegovina
+2a0b:4e07:3:540::/59,EU,BA,Bosnia and Herzegovina
+2a0b:4e07:3:2560::/59,EU,BA,Bosnia and Herzegovina
+2a10:bf80:1480::/45,EU,BA,Bosnia and Herzegovina
+2a10:bf85:9170::/45,EU,BA,Bosnia and Herzegovina
+2a0b:4e07:3:3660::/59,EU,BA,Bosnia and Herzegovina
+2a10:bf81:3478::/45,EU,BY,Belarus
+2a0a:eac0::/29,EU,BY,Belarus
+2a02:26f7:e10c:d498::/62,EU,BY,Belarus
+2a0f:9403:3a0::/44,EU,BY,Belarus
+2a10:bf86:a418::/45,EU,BY,Belarus
+31.130.200.0/21,EU,BY,Belarus
+153.72.26.64/26,EU,BY,Belarus
+90.156.244.0/24,EU,BY,Belarus
+2a11:f147::/36,EU,BY,Belarus
+2a10:bf87:7c30::/45,EU,BY,Belarus
+2001:470:71:308::/64,EU,BY,Belarus
+81.30.80.0/20,EU,BY,Belarus
+212.60.4.0/24,EU,BY,Belarus
+2a02:26f7:e100:d494::/62,EU,BY,Belarus
+2a10:bf80:5b18::/45,EU,BY,Belarus
+2a10:bf86:98f0::/45,EU,BY,Belarus
+2a02:26f7:e10c:d488::/61,EU,BY,Belarus
+2a09:bac2:fe8::/45,EU,BY,Belarus
+185.46.175.192/27,EU,BY,Belarus
+2001:67c:57c::/48,EU,BY,Belarus
+45.180.180.0/22,SA,PY,Paraguay
+45.74.19.135/32,SA,PY,Paraguay
+138.186.62.216/29,SA,PY,Paraguay
+57.74.216.0/22,SA,PY,Paraguay
+190.112.208.0/21,SA,PY,Paraguay
+138.16.17.0/24,SA,PY,Paraguay
+38.41.187.0/24,SA,PY,Paraguay
+186.182.82.0/25,SA,PY,Paraguay
+208.127.170.186/31,SA,PY,Paraguay
+104.28.173.42/32,SA,PY,Paraguay
+2800:3a0::/32,SA,PY,Paraguay
+34.100.32.0/22,SA,PY,Paraguay
+2803:8e80::/32,SA,PY,Paraguay
+136.227.141.36/31,SA,PY,Paraguay
+2801:15:800::/48,SA,PY,Paraguay
+2803:18a0::/32,SA,PY,Paraguay
+2801:11:1000::/48,SA,PY,Paraguay
+45.176.86.0/23,SA,PY,Paraguay
+2a02:26f7:d8c9:4000::/64,SA,PY,Paraguay
+2606:54c0:5020::/44,SA,PY,Paraguay
+185.223.180.212/32,AF,CI,Ivory Coast
+2c0f:eb00:300::/40,AF,CI,Ivory Coast
+38.199.142.0/25,AF,CI,Ivory Coast
+41.76.232.0/21,AF,CI,Ivory Coast
+2a10:bf83:fa88::/45,AF,CI,Ivory Coast
+2a10:bf81:8e60::/45,AF,CI,Ivory Coast
+5.62.60.106/31,AF,CI,Ivory Coast
+2a00:ca0:2035:c000::/52,AF,CI,Ivory Coast
+2a10:bf81:b970::/45,AF,CI,Ivory Coast
+2a10:bf87:9e70::/45,AF,CI,Ivory Coast
+2a10:bf87:6318::/45,AF,CI,Ivory Coast
+185.138.17.142/32,AF,CI,Ivory Coast
+102.215.252.0/22,AF,CI,Ivory Coast
+2a10:bf85:c5a8::/45,AF,CI,Ivory Coast
+196.45.240.0/20,AF,CI,Ivory Coast
+2a10:bf81:44c0::/45,AF,CI,Ivory Coast
+2a05:b0c2:e80::/42,AF,CI,Ivory Coast
+2a10:bf83:c5d0::/45,AF,CI,Ivory Coast
+2a10:bf87:cd18::/45,AF,CI,Ivory Coast
+197.149.152.0/22,AF,CI,Ivory Coast
+80.72.176.0/20,AS,KG,Kyrgyzstan
+160.25.104.124/32,AS,KG,Kyrgyzstan
+95.215.244.0/22,AS,KG,Kyrgyzstan
+131.222.133.0/24,AS,KG,Kyrgyzstan
+31.192.248.0/21,AS,KG,Kyrgyzstan
+2a02:26f7:ce44:4000::/64,AS,KG,Kyrgyzstan
+185.48.136.0/22,AS,KG,Kyrgyzstan
+104.28.234.132/30,AS,KG,Kyrgyzstan
+104.28.202.132/30,AS,KG,Kyrgyzstan
+104.28.65.33/32,AS,KG,Kyrgyzstan
+2a07:d887:7300::/40,AS,KG,Kyrgyzstan
+2a00:47a0::/32,AS,KG,Kyrgyzstan
+5.59.230.0/23,AS,KG,Kyrgyzstan
+91.212.107.0/24,AS,KG,Kyrgyzstan
+2a01:bfa0::/32,AS,KG,Kyrgyzstan
+2a02:26f7:ce40:4000::/64,AS,KG,Kyrgyzstan
+104.28.170.116/31,AS,KG,Kyrgyzstan
+2a09:bac4:1398::/45,AS,KG,Kyrgyzstan
+2001:470:7d1c::/48,AS,KG,Kyrgyzstan
+157.5.123.52/32,AS,KG,Kyrgyzstan
+197.234.36.32/29,AF,RE,Reunion
+92.130.102.0/23,AF,RE,Reunion
+2a02:26f7:d341:4000::/64,AF,RE,Reunion
+213.222.127.92/30,AF,RE,Reunion
+164.160.224.0/20,AF,RE,Reunion
+194.3.187.0/25,AF,RE,Reunion
+104.28.38.93/32,AF,RE,Reunion
+193.253.104.0/23,AF,RE,Reunion
+104.28.201.6/31,AF,RE,Reunion
+193.253.108.0/23,AF,RE,Reunion
+213.222.127.196/30,AF,RE,Reunion
+81.248.208.32/27,AF,RE,Reunion
+2c0f:3780::/28,AF,RE,Reunion
+194.28.98.208/31,AF,RE,Reunion
+213.222.126.128/27,AF,RE,Reunion
+213.222.86.0/23,AF,RE,Reunion
+194.3.169.80/32,AF,RE,Reunion
+83.198.244.0/24,AF,RE,Reunion
+194.3.153.176/29,AF,RE,Reunion
+213.222.85.0/24,AF,RE,Reunion
+2001:470:28f0::/48,OC,AS,American Samoa
+2a02:26f7:f683:4000::/64,OC,AS,American Samoa
+67.218.62.0/24,OC,AS,American Samoa
+2001:470:80eb::/48,OC,AS,American Samoa
+2001:470:d:14ae::/64,OC,AS,American Samoa
+2001:470:1f0f:a3::/64,OC,AS,American Samoa
+2001:470:81c6::/48,OC,AS,American Samoa
+2001:470:737f::/48,OC,AS,American Samoa
+2001:470:c929::/48,OC,AS,American Samoa
+2001:470:f888::/48,OC,AS,American Samoa
+2001:470:1f19:14c::/64,OC,AS,American Samoa
+2001:470:d:124d::/64,OC,AS,American Samoa
+2a12:f382:8a00::/40,OC,AS,American Samoa
+2a09:bac1:720::/64,OC,AS,American Samoa
+2001:470:b:458::/64,OC,AS,American Samoa
+2001:470:28f3::/48,OC,AS,American Samoa
+2001:470:1f05:39a::/64,OC,AS,American Samoa
+104.28.210.158/31,OC,AS,American Samoa
+2001:470:67:1ba::/63,OC,AS,American Samoa
+67.218.56.0/22,OC,AS,American Samoa
+2a06:9f81:5605::/48,NA,AI,Anguilla
+188.114.250.124/32,NA,AI,Anguilla
+146.75.148.2/31,NA,AI,Anguilla
+2a02:26f7:eb80:c020::/64,NA,AI,Anguilla
+104.28.8.13/32,NA,AI,Anguilla
+2a0a:6044:6398::/48,NA,AI,Anguilla
+2a09:bac6:48::/45,NA,AI,Anguilla
+2a02:26f7:eb8d:4000::/64,NA,AI,Anguilla
+172.225.238.16/28,NA,AI,Anguilla
+2a0a:6044:6390::/48,NA,AI,Anguilla
+2606:54c0:48::/45,NA,AI,Anguilla
+140.248.44.4/31,NA,AI,Anguilla
+172.225.204.0/27,NA,AI,Anguilla
+104.28.92.68/32,NA,AI,Anguilla
+2a14:1c6:5800::/37,NA,AI,Anguilla
+209.59.119.0/24,NA,AI,Anguilla
+69.57.234.0/24,NA,AI,Anguilla
+131.125.106.241/32,NA,AI,Anguilla
+2a12:ef85:3000::/36,NA,AI,Anguilla
+104.28.176.148/31,NA,AI,Anguilla
+2a04:4e41:3e11::/48,NA,AG,Antigua and Barbuda
+209.59.68.0/22,NA,AG,Antigua and Barbuda
+2a04:1d41:8300::/40,NA,AG,Antigua and Barbuda
+2001:b28:a000::/38,NA,AG,Antigua and Barbuda
+2001:b28:a440::/44,NA,AG,Antigua and Barbuda
+2001:b28:a450::/48,NA,AG,Antigua and Barbuda
+2a02:5745:37::/48,NA,AG,Antigua and Barbuda
+2001:470:7bb6::/48,NA,AG,Antigua and Barbuda
+2001:b28:f243::/48,NA,AG,Antigua and Barbuda
+2001:b28:3fc::/47,NA,AG,Antigua and Barbuda
+2001:b28:f400::/38,NA,AG,Antigua and Barbuda
+2a0f:9403:1d0::/44,NA,AG,Antigua and Barbuda
+2a0e:b107:21d0::/45,NA,AG,Antigua and Barbuda
+2001:b28:f250::/44,NA,AG,Antigua and Barbuda
+2001:b28:fc00::/39,NA,AG,Antigua and Barbuda
+2a01:528:8300::/40,NA,AG,Antigua and Barbuda
+2a02:26f7:ebc8:4000::/64,NA,AG,Antigua and Barbuda
+2a02:26f7:ebc3:4000::/64,NA,AG,Antigua and Barbuda
+104.28.8.12/32,NA,AG,Antigua and Barbuda
+2001:4b28:8300::/40,NA,AG,Antigua and Barbuda
+2a14:7580:cf0d::/48,NA,AW,Aruba
+170.84.254.0/24,NA,AW,Aruba
+2a14:1c1:c000::/37,NA,AW,Aruba
+2a09:bac1:8a0::/64,NA,AW,Aruba
+2a02:26f7:f885:4000::/64,NA,AW,Aruba
+2a04:1d47:8c00::/40,NA,AW,Aruba
+2a07:d887:d00::/40,NA,AW,Aruba
+104.28.94.114/31,NA,AW,Aruba
+2a14:7584:e750::/48,NA,AW,Aruba
+186.189.0.0/18,NA,AW,Aruba
+159.254.20.0/24,NA,AW,Aruba
+2a02:26f7:f891:4000::/64,NA,AW,Aruba
+104.28.78.57/32,NA,AW,Aruba
+172.225.250.0/27,NA,AW,Aruba
+2a05:dfc1:8c51::/48,NA,AW,Aruba
+200.80.154.48/29,NA,AW,Aruba
+172.94.70.0/24,NA,AW,Aruba
+194.50.99.14/32,NA,AW,Aruba
+2a12:bec4:12a8:1400::/56,NA,AW,Aruba
+2001:470:b:419::/64,NA,AW,Aruba
+2a02:5747:43::/48,NA,BS,Bahamas
+2607:6b80:2c::/48,NA,BS,Bahamas
+140.248.44.14/31,NA,BS,Bahamas
+157.167.224.7/32,NA,BS,Bahamas
+2a09:bac1:11e0::/64,NA,BS,Bahamas
+2001:470:b9ed::/48,NA,BS,Bahamas
+208.246.143.0/24,NA,BS,Bahamas
+2001:3786:bb01:300::/56,NA,BS,Bahamas
+5.62.56.25/32,NA,BS,Bahamas
+172.225.203.232/29,NA,BS,Bahamas
+172.225.92.32/28,NA,BS,Bahamas
+64.64.117.0/27,NA,BS,Bahamas
+2001:668:1f:da::/64,NA,BS,Bahamas
+104.28.76.2/31,NA,BS,Bahamas
+157.167.227.58/32,NA,BS,Bahamas
+2001:470:d37e::/48,NA,BS,Bahamas
+104.28.109.2/31,NA,BS,Bahamas
+2001:470:1f29:7b::/64,NA,BS,Bahamas
+2a0f:ca80:b00b:52::/64,NA,BS,Bahamas
+95.181.238.0/24,NA,BS,Bahamas
+2a06:9f81:5612::/48,NA,BB,Barbados
+2a12:bec4:12a4:b70::/62,NA,BB,Barbados
+2a02:5746:46::/48,NA,BB,Barbados
+192.235.48.0/20,NA,BB,Barbados
+104.28.139.152/32,NA,BB,Barbados
+69.80.54.0/24,NA,BB,Barbados
+192.65.160.0/21,NA,BB,Barbados
+65.48.217.0/24,NA,BB,Barbados
+192.171.120.0/21,NA,BB,Barbados
+2a04:4e41:3612::/48,NA,BB,Barbados
+2a04:4e41:3a15::/48,NA,BB,Barbados
+162.120.202.200/32,NA,BB,Barbados
+2a02:26f7:bf0d:4000::/64,NA,BB,Barbados
+69.73.210.0/23,NA,BB,Barbados
+131.125.104.232/32,NA,BB,Barbados
+2a0e:97c0:4b12::/48,NA,BB,Barbados
+69.80.51.0/24,NA,BB,Barbados
+2001:470:1f11:537::/64,NA,BB,Barbados
+190.242.193.0/24,NA,BB,Barbados
+2604:a180:5000::/36,NA,BB,Barbados
+2a09:bac3:1000::/45,NA,BZ,Belize
+202.181.177.136/29,NA,BZ,Belize
+200.123.208.0/21,NA,BZ,Belize
+2a02:5740:49::/48,NA,BZ,Belize
+2a13:a5c7:25ff:2400::/56,NA,BZ,Belize
+2803:80::/32,NA,BZ,Belize
+203.29.54.0/23,NA,BZ,Belize
+2a14:7583:ff87:1100::/56,NA,BZ,Belize
+2a07:e04:4000::/34,NA,BZ,Belize
+62.75.197.144/31,NA,BZ,Belize
+188.138.71.150/31,NA,BZ,Belize
+2a07:e05:4000::/34,NA,BZ,Belize
+2a07:e05:1000::/36,NA,BZ,Belize
+188.138.68.81/32,NA,BZ,Belize
+190.242.32.0/22,NA,BZ,Belize
+85.25.41.147/32,NA,BZ,Belize
+2a07:e02:800::/39,NA,BZ,Belize
+2001:470:fe82::/48,NA,BZ,Belize
+153.55.176.0/20,NA,BZ,Belize
+203.23.103.0/24,NA,BZ,Belize
+157.167.225.3/32,NA,BM,Bermuda
+2a14:7584:e734::/47,NA,BM,Bermuda
+136.23.15.33/32,NA,BM,Bermuda
+2a02:26f7:cc89:4000::/64,NA,BM,Bermuda
+216.249.32.0/20,NA,BM,Bermuda
+76.8.32.0/20,NA,BM,Bermuda
+2605:5b80::/32,NA,BM,Bermuda
+2a04:1d46:9900::/40,NA,BM,Bermuda
+209.240.32.0/20,NA,BM,Bermuda
+45.89.99.124/30,NA,BM,Bermuda
+208.82.164.0/22,NA,BM,Bermuda
+2a02:26f7:cc90:ca20::/63,NA,BM,Bermuda
+209.27.142.0/24,NA,BM,Bermuda
+66.54.159.32/29,NA,BM,Bermuda
+2606:40:16f0::/44,NA,BM,Bermuda
+199.16.248.0/23,NA,BM,Bermuda
+2a04:1d42:9900::/40,NA,BM,Bermuda
+196.12.64.0/18,NA,BM,Bermuda
+194.50.99.27/32,NA,BM,Bermuda
+199.193.228.0/22,NA,BM,Bermuda
+161.69.3.139/32,SA,BO,Bolivia
+165.85.224.64/26,SA,BO,Bolivia
+104.28.241.5/32,SA,BO,Bolivia
+190.129.160.32/27,SA,BO,Bolivia
+181.114.97.128/25,SA,BO,Bolivia
+200.75.160.0/20,SA,BO,Bolivia
+2a02:26f7:e585:4000::/64,SA,BO,Bolivia
+165.1.246.254/32,SA,BO,Bolivia
+190.114.5.0/24,SA,BO,Bolivia
+2a0a:a701:1000::/47,SA,BO,Bolivia
+138.84.36.0/23,SA,BO,Bolivia
+131.229.130.11/32,SA,BO,Bolivia
+45.89.99.108/30,SA,BO,Bolivia
+131.0.0.0/22,SA,BO,Bolivia
+190.129.128.0/19,SA,BO,Bolivia
+104.28.113.40/30,SA,BO,Bolivia
+185.93.173.0/24,SA,BO,Bolivia
+164.137.5.0/24,SA,BO,Bolivia
+186.66.8.240/29,SA,BO,Bolivia
+69.167.186.156/32,SA,BO,Bolivia
+131.125.107.21/32,NA,KY,Cayman Islands
+2001:470:36:22e::/64,NA,KY,Cayman Islands
+5.62.56.50/31,NA,KY,Cayman Islands
+206.191.134.0/24,NA,KY,Cayman Islands
+2a14:1c7:c000::/37,NA,KY,Cayman Islands
+104.28.201.62/31,NA,KY,Cayman Islands
+157.167.224.33/32,NA,KY,Cayman Islands
+2a14:7581:be0:2200::/58,NA,KY,Cayman Islands
+208.26.80.0/22,NA,KY,Cayman Islands
+64.239.119.0/24,NA,KY,Cayman Islands
+2a14:7581:b65::/48,NA,KY,Cayman Islands
+74.222.64.0/19,NA,KY,Cayman Islands
+2a04:4e41:3a28::/48,NA,KY,Cayman Islands
+82.102.6.174/32,NA,KY,Cayman Islands
+2001:3786:5003:300::/56,NA,KY,Cayman Islands
+76.76.15.0/24,NA,KY,Cayman Islands
+2001:470:b:f7::/64,NA,KY,Cayman Islands
+63.167.216.0/24,NA,KY,Cayman Islands
+2a0a:6044:f3f7::/48,NA,KY,Cayman Islands
+157.167.231.118/32,NA,KY,Cayman Islands
+2a09:bac1:1800::/64,OC,CK,Cook Islands
+185.198.8.104/32,OC,CK,Cook Islands
+179.65.134.0/23,OC,CK,Cook Islands
+2a0a:6044:77fe:2c::/64,OC,CK,Cook Islands
+2a14:7580:cf2c::/48,OC,CK,Cook Islands
+2606:54c3:0:4d7::/64,OC,CK,Cook Islands
+2001:470:1f13:44c::/64,OC,CK,Cook Islands
+2606:40:b10::/44,OC,CK,Cook Islands
+188.114.240.128/32,OC,CK,Cook Islands
+206.83.127.0/24,OC,CK,Cook Islands
+2a0c:9a46:3fe:2c::/64,OC,CK,Cook Islands
+2a06:9f81:562b::/48,OC,CK,Cook Islands
+2a04:4e41:6e09::/48,OC,CK,Cook Islands
+2a04:4e41:2809::/48,OC,CK,Cook Islands
+2401:4d20::/32,OC,CK,Cook Islands
+172.225.64.160/27,OC,CK,Cook Islands
+5.62.56.66/31,OC,CK,Cook Islands
+2a02:26f7:f648:4000::/64,OC,CK,Cook Islands
+2a04:1d42:aa00::/40,OC,CK,Cook Islands
+2a06:de06:38e::/48,OC,CK,Cook Islands
+149.57.7.0/24,NA,CR,Costa Rica
+168.197.98.0/29,NA,CR,Costa Rica
+168.197.98.208/28,NA,CR,Costa Rica
+2a02:26f7:bec8:42cc::/62,NA,CR,Costa Rica
+200.115.18.0/24,NA,CR,Costa Rica
+152.181.110.118/32,NA,CR,Costa Rica
+2803:3710::/32,NA,CR,Costa Rica
+2a02:26f7:bec2:4300::/56,NA,CR,Costa Rica
+2800:640::/32,NA,CR,Costa Rica
+168.197.99.0/25,NA,CR,Costa Rica
+82.27.217.0/24,NA,CR,Costa Rica
+2a02:26f7:bec2:4000::/55,NA,CR,Costa Rica
+199.33.68.0/24,NA,CR,Costa Rica
+181.174.170.24/29,NA,CR,Costa Rica
+190.242.88.0/24,NA,CR,Costa Rica
+2803:5ad0::/32,NA,CR,Costa Rica
+2a02:26f7:bed4::/46,NA,CR,Costa Rica
+2803:4e80::/32,NA,CR,Costa Rica
+38.3.135.0/24,NA,CR,Costa Rica
+2a02:5743:70::/48,NA,CR,Costa Rica
+152.207.235.128/25,NA,CU,Cuba
+152.206.160.0/20,NA,CU,Cuba
+2a02:5743:72::/48,NA,CU,Cuba
+2001:470:19:c1::/64,NA,CU,Cuba
+177.253.173.0/29,NA,CU,Cuba
+2a12:bec4:12a4:a9e::/63,NA,CU,Cuba
+152.207.64.0/18,NA,CU,Cuba
+200.55.186.0/24,NA,CU,Cuba
+2001:470:1d:1f1::/64,NA,CU,Cuba
+2a09:bac4:190::/45,NA,CU,Cuba
+201.220.192.0/19,NA,CU,Cuba
+200.55.179.0/24,NA,CU,Cuba
+2001:470:b:7a5::/64,NA,CU,Cuba
+152.206.128.0/19,NA,CU,Cuba
+152.207.235.64/28,NA,CU,Cuba
+2001:470:f629::/48,NA,CU,Cuba
+196.197.72.0/24,NA,CU,Cuba
+2001:470:f881::/48,NA,CU,Cuba
+2800:360::/32,NA,CU,Cuba
+138.16.61.0/24,NA,CU,Cuba
+2001:67c:a38:f467::/64,NA,DM,Dominica
+2a09:bac1:1fa0::/64,NA,DM,Dominica
+209.8.20.64/26,NA,DM,Dominica
+63.218.129.0/24,NA,DM,Dominica
+2a0a:6044:77fe:3b::/64,NA,DM,Dominica
+2a12:bec4:12a4:a82::/63,NA,DM,Dominica
+172.225.238.128/28,NA,DM,Dominica
+2001:504:63::/48,NA,DM,Dominica
+2605:59c8:6700::/41,NA,DM,Dominica
+2a0e:fa00:4000::/34,NA,DM,Dominica
+2a0e:fa00:8000::/33,NA,DM,Dominica
+104.28.109.57/32,NA,DM,Dominica
+2a09:bac1:1fe0::/64,NA,DM,Dominica
+2a0c:9a46:3fe:3b::/64,NA,DM,Dominica
+2a13:a5c7:253c::/48,NA,DM,Dominica
+199.127.198.0/24,NA,DM,Dominica
+45.11.243.128/26,NA,DM,Dominica
+172.226.79.0/28,NA,DM,Dominica
+2001:470:741f::/48,NA,DM,Dominica
+209.8.47.0/27,NA,DM,Dominica
+181.214.29.0/24,NA,DO,Dominican Republic
+216.185.33.0/24,NA,DO,Dominican Republic
+157.167.234.20/32,NA,DO,Dominican Republic
+66.251.192.0/24,NA,DO,Dominican Republic
+2803:7750::/32,NA,DO,Dominican Republic
+2a0e:4206:3008::/45,NA,DO,Dominican Republic
+2803:8b10::/32,NA,DO,Dominican Republic
+190.80.188.152/30,NA,DO,Dominican Republic
+2001:470:5:ae::/64,NA,DO,Dominican Republic
+190.166.224.0/19,NA,DO,Dominican Republic
+38.95.84.0/24,NA,DO,Dominican Republic
+2607:8940:252e::/47,NA,DO,Dominican Republic
+38.156.232.0/21,NA,DO,Dominican Republic
+5.133.215.42/31,NA,DO,Dominican Republic
+190.167.200.0/21,NA,DO,Dominican Republic
+45.237.48.0/22,NA,DO,Dominican Republic
+181.189.253.184/29,NA,DO,Dominican Republic
+104.28.233.96/32,NA,DO,Dominican Republic
+2803:7710::/32,NA,DO,Dominican Republic
+38.188.0.0/19,NA,DO,Dominican Republic
+2a10:bf84:f1b8::/45,NA,SV,El Salvador
+2a10:bf87:7d98::/45,NA,SV,El Salvador
+2a10:bf80:a68::/45,NA,SV,El Salvador
+2803:5320:a000::/40,NA,SV,El Salvador
+2a10:bf85:3548::/45,NA,SV,El Salvador
+190.242.120.0/22,NA,SV,El Salvador
+2a10:bf80:39f0::/45,NA,SV,El Salvador
+2a10:bf86:f490::/45,NA,SV,El Salvador
+2001:470:8:4be::/64,NA,SV,El Salvador
+185.197.131.116/30,NA,SV,El Salvador
+186.32.248.0/21,NA,SV,El Salvador
+2a10:bf87:188::/45,NA,SV,El Salvador
+2a10:bf85:aef8::/45,NA,SV,El Salvador
+2a10:bf81:f508::/45,NA,SV,El Salvador
+2a10:bf87:6ee8::/45,NA,SV,El Salvador
+2605:59c0:6200::/41,NA,SV,El Salvador
+2a10:bf87:2ec8::/45,NA,SV,El Salvador
+2a10:bf85:e5d0::/45,NA,SV,El Salvador
+2a10:bf86:f748::/45,NA,SV,El Salvador
+190.150.0.0/16,NA,SV,El Salvador
+2a12:bec4:12a4:a560::/59,SA,FK,Falkland Islands
+195.59.132.0/24,SA,FK,Falkland Islands
+2a0f:1cc5:1f8d::/48,SA,FK,Falkland Islands
+2a02:26f7:b488:4000::/64,SA,FK,Falkland Islands
+2605:59c8:4c00::/40,SA,FK,Falkland Islands
+2a12:bec4:12a4:a55a::/63,SA,FK,Falkland Islands
+2a04:4e41:7428::/48,SA,FK,Falkland Islands
+80.73.208.0/21,SA,FK,Falkland Islands
+62.208.72.0/25,SA,FK,Falkland Islands
+80.73.218.0/24,SA,FK,Falkland Islands
+2a02:26f7:b482:4000::/64,SA,FK,Falkland Islands
+140.248.40.206/31,SA,FK,Falkland Islands
+136.23.20.7/32,SA,FK,Falkland Islands
+146.75.168.190/31,SA,FK,Falkland Islands
+104.28.182.108/31,SA,FK,Falkland Islands
+2a12:bec4:12a4:a5a0::/61,SA,FK,Falkland Islands
+2a09:bac5:31d8::/45,SA,FK,Falkland Islands
+104.28.9.197/32,SA,FK,Falkland Islands
+2a12:bec4:12a4:a559::/64,SA,FK,Falkland Islands
+2a01:528:c200::/40,SA,FK,Falkland Islands
+157.167.232.52/32,OC,FJ,Fiji
+2001:dd8::/48,OC,FJ,Fiji
+202.151.16.0/20,OC,FJ,Fiji
+2a12:bec0:1ac::/48,OC,FJ,Fiji
+2401:b60:1480::/44,OC,FJ,Fiji
+2a0a:6044:f1c4::/46,OC,FJ,Fiji
+2001:df5:fa00::/48,OC,FJ,Fiji
+2a04:4e41:420a::/48,OC,FJ,Fiji
+2a14:c380:7e2::/48,OC,FJ,Fiji
+2a0f:85c1:81b:f3e0::/60,OC,FJ,Fiji
+157.5.122.47/32,OC,FJ,Fiji
+168.140.242.0/23,OC,FJ,Fiji
+103.116.156.0/24,OC,FJ,Fiji
+14.137.51.0/24,OC,FJ,Fiji
+157.167.235.52/32,OC,FJ,Fiji
+157.167.231.68/32,OC,FJ,Fiji
+2a0a:6044:f1c3::/48,OC,FJ,Fiji
+104.28.169.204/30,OC,FJ,Fiji
+2401:e600::/32,OC,FJ,Fiji
+202.0.158.0/24,OC,FJ,Fiji
+63.245.66.0/23,NA,GD,Grenada
+196.197.92.0/24,NA,GD,Grenada
+2a02:5745:92::/48,NA,GD,Grenada
+104.28.94.82/31,NA,GD,Grenada
+72.51.81.0/24,NA,GD,Grenada
+63.245.56.0/22,NA,GD,Grenada
+196.199.92.0/24,NA,GD,Grenada
+172.226.10.112/28,NA,GD,Grenada
+2a0c:9a46:34e::/48,NA,GD,Grenada
+69.16.242.148/30,NA,GD,Grenada
+205.214.207.0/24,NA,GD,Grenada
+23.155.216.0/24,NA,GD,Grenada
+2a02:26f7:e9c2:c260::/64,NA,GD,Grenada
+2a04:4e41:3a1f::/48,NA,GD,Grenada
+72.22.146.0/23,NA,GD,Grenada
+205.217.244.64/26,NA,GD,Grenada
+196.198.92.0/24,NA,GD,Grenada
+2a04:1d42:c600::/40,NA,GD,Grenada
+2a02:5747:92::/48,NA,GD,Grenada
+2a09:bac1:2960::/64,NA,GD,Grenada
+8.3.127.64/26,OC,GU,Guam
+8.3.127.200/30,OC,GU,Guam
+2a02:26f7:cd8c:4000::/64,OC,GU,Guam
+2406:2d40:ae00::/40,OC,GU,Guam
+103.3.240.0/22,OC,GU,Guam
+103.1.96.0/22,OC,GU,Guam
+203.95.14.0/23,OC,GU,Guam
+202.88.71.144/28,OC,GU,Guam
+2a0a:6044:67aa::/47,OC,GU,Guam
+2a01:528:d300::/40,OC,GU,Guam
+2a09:bac4:2d8::/45,OC,GU,Guam
+64.7.114.0/30,OC,GU,Guam
+63.70.143.0/24,OC,GU,Guam
+203.95.12.144/28,OC,GU,Guam
+2a12:bec4:12a6:82e8::/61,OC,GU,Guam
+2a13:a5c7:255c::/48,OC,GU,Guam
+209.164.184.0/21,OC,GU,Guam
+2001:470:36:855::/64,OC,GU,Guam
+204.44.190.0/23,OC,GU,Guam
+2405:7400::/32,OC,GU,Guam
+2a0a:6044:775e::/48,SA,GY,Guyana
+190.93.36.0/24,SA,GY,Guyana
+131.125.104.255/32,SA,GY,Guyana
+190.108.200.0/21,SA,GY,Guyana
+131.125.107.12/32,SA,GY,Guyana
+2a09:bac1:3120::/64,SA,GY,Guyana
+190.93.39.0/24,SA,GY,Guyana
+104.28.94.89/32,SA,GY,Guyana
+2a09:bac4:12e8::/45,SA,GY,Guyana
+140.248.4.38/31,SA,GY,Guyana
+181.209.15.160/27,SA,GY,Guyana
+2a04:4e41:3a23::/48,SA,GY,Guyana
+190.108.196.0/22,SA,GY,Guyana
+181.177.216.0/22,SA,GY,Guyana
+2a09:bac6:3978::/45,SA,GY,Guyana
+2a13:a5c7:25ff:5d00::/56,SA,GY,Guyana
+162.120.199.171/32,SA,GY,Guyana
+2a12:f382:d400::/40,SA,GY,Guyana
+2607:8940:4023:8200::/56,SA,GY,Guyana
+190.80.0.0/17,SA,GY,Guyana
+2a0f:85c1:81b:f4c0::/60,NA,HT,Haiti
+190.5.95.128/29,NA,HT,Haiti
+2607:8940:25b6::/47,NA,HT,Haiti
+64.86.54.169/32,NA,HT,Haiti
+2001:13c7:6003::/48,NA,HT,Haiti
+104.28.92.92/32,NA,HT,Haiti
+196.56.97.0/24,NA,HT,Haiti
+2a14:67c2:8d4::/48,NA,HT,Haiti
+2a09:4c0:6d00::/40,NA,HT,Haiti
+2a02:26f7:f790:4000::/64,NA,HT,Haiti
+104.28.32.68/31,NA,HT,Haiti
+2001:470:ec33::/48,NA,HT,Haiti
+190.166.91.96/29,NA,HT,Haiti
+2001:470:1f0b:424::/64,NA,HT,Haiti
+2a02:26f7:f78c:4000::/64,NA,HT,Haiti
+2a09:bac4:1310::/45,NA,HT,Haiti
+2a0a:6044:67cc::/46,NA,HT,Haiti
+2602:2a9:b60::/44,NA,HT,Haiti
+186.190.0.0/17,NA,HT,Haiti
+104.28.92.91/32,NA,HT,Haiti
+2803:4600:101c:400::/58,NA,HN,Honduras
+181.189.251.192/26,NA,HN,Honduras
+2a0a:6044:fe2a::/47,NA,HN,Honduras
+190.5.104.72/29,NA,HN,Honduras
+2001:470:5:23f::/64,NA,HN,Honduras
+181.189.241.112/28,NA,HN,Honduras
+2803:1ac0::/32,NA,HN,Honduras
+38.255.112.0/22,NA,HN,Honduras
+190.4.38.136/29,NA,HN,Honduras
+2a01:528:d600::/40,NA,HN,Honduras
+190.4.15.252/30,NA,HN,Honduras
+190.4.51.32/27,NA,HN,Honduras
+2a0a:6044:67d8::/45,NA,HN,Honduras
+200.189.44.0/22,NA,HN,Honduras
+190.5.89.112/29,NA,HN,Honduras
+2001:470:5:458::/64,NA,HN,Honduras
+190.4.37.16/29,NA,HN,Honduras
+2a0a:a703:7002::/48,NA,HN,Honduras
+157.167.227.28/32,NA,HN,Honduras
+38.225.232.0/22,NA,HN,Honduras
+164.137.39.0/24,NA,JM,Jamaica
+2a0a:6044:67f0::/46,NA,JM,Jamaica
+196.1.136.0/24,NA,JM,Jamaica
+66.96.117.192/26,NA,JM,Jamaica
+104.28.211.2/31,NA,JM,Jamaica
+67.213.147.0/25,NA,JM,Jamaica
+2606:40:e10::/44,NA,JM,Jamaica
+2a14:c380:797::/48,NA,JM,Jamaica
+196.3.184.0/21,NA,JM,Jamaica
+69.79.196.0/27,NA,JM,Jamaica
+57.74.98.0/23,NA,JM,Jamaica
+66.249.146.0/23,NA,JM,Jamaica
+205.164.204.0/22,NA,JM,Jamaica
+172.226.11.32/29,NA,JM,Jamaica
+2a02:26f7:bdca:4000::/64,NA,JM,Jamaica
+2a12:bec4:12a4:a18::/62,NA,JM,Jamaica
+2602:2a9:af0::/44,NA,JM,Jamaica
+2606:40:e04::/46,NA,JM,Jamaica
+209.236.40.0/22,NA,JM,Jamaica
+2606:c500::/32,NA,JM,Jamaica
+2a09:bac3:4660::/45,OC,KI,Kiribati
+157.5.122.50/32,OC,KI,Kiribati
+2a02:26f7:f541:4000::/64,OC,KI,Kiribati
+2a12:bec4:12a6:82e0::/61,OC,KI,Kiribati
+2a09:bac4:3a8::/45,OC,KI,Kiribati
+2a02:26f7:f5c1:4000::/64,OC,KI,Kiribati
+5.62.56.133/32,OC,KI,Kiribati
+2a0c:9a46:376::/48,OC,KI,Kiribati
+2a02:26f7:f583:4000::/64,OC,KI,Kiribati
+196.197.113.0/24,OC,KI,Kiribati
+104.28.203.112/31,OC,KI,Kiribati
+2a02:5745:113::/48,OC,KI,Kiribati
+162.120.200.153/32,OC,KI,Kiribati
+196.199.113.0/24,OC,KI,Kiribati
+2a04:1d42:6a00::/40,OC,KI,Kiribati
+2a04:1d44:6a00::/40,OC,KI,Kiribati
+2a14:67c2:8e0::/48,OC,KI,Kiribati
+104.28.35.54/31,OC,KI,Kiribati
+2001:470:ff39::/48,OC,KI,Kiribati
+2406:2d40:7500::/42,OC,KI,Kiribati
+172.226.143.64/27,NA,MS,Montserrat
+2a0a:6044:77fe:97::/64,NA,MS,Montserrat
+2a02:26f7:e848:c580::/64,NA,MS,Montserrat
+208.90.112.0/22,NA,MS,Montserrat
+172.225.33.128/27,NA,MS,Montserrat
+104.28.92.195/32,NA,MS,Montserrat
+146.75.252.8/31,NA,MS,Montserrat
+2a09:bac2:48c8::/45,NA,MS,Montserrat
+2a12:bec4:12a4:8c2::/63,NA,MS,Montserrat
+2a09:4c0:a000::/40,NA,MS,Montserrat
+45.138.10.32/30,NA,MS,Montserrat
+2a09:bac4:4b0::/45,NA,MS,Montserrat
+205.217.236.0/24,NA,MS,Montserrat
+5.62.56.137/32,NA,MS,Montserrat
+209.59.93.0/24,NA,MS,Montserrat
+150.48.179.80/31,NA,MS,Montserrat
+199.7.90.0/24,NA,MS,Montserrat
+2a09:bac1:4e60::/64,NA,MS,Montserrat
+2a14:7580:cf97::/48,NA,MS,Montserrat
+2a12:f382:4300::/40,NA,MS,Montserrat
+2a0c:9a46:3fe:a8::/64,OC,NR,Nauru
+2a02:5744:144::/48,OC,NR,Nauru
+2a01:528:3500::/40,OC,NR,Nauru
+2a02:5740:144::/48,OC,NR,Nauru
+140.248.40.170/31,OC,NR,Nauru
+2a04:1d47:3500::/40,OC,NR,Nauru
+2a04:4e41:1323::/48,OC,NR,Nauru
+103.49.174.0/23,OC,NR,Nauru
+2a14:67c2:807::/48,OC,NR,Nauru
+2a09:bac1:56c0:8::/64,OC,NR,Nauru
+5.175.190.197/32,OC,NR,Nauru
+104.28.214.235/32,OC,NR,Nauru
+2a09:bac5:4e88::/45,OC,NR,Nauru
+196.57.144.0/24,OC,NR,Nauru
+2a04:4e41:7619::/48,OC,NR,Nauru
+2606:40:2939:b800::/54,OC,NR,Nauru
+2a0f:9403:130::/44,OC,NR,Nauru
+2406:2d40:a200::/40,OC,NR,Nauru
+2001:470:d:5fd::/64,OC,NR,Nauru
+116.91.214.0/23,OC,NR,Nauru
+2a04:4e41:5e16::/48,OC,NC,New Caledonia
+2a12:bec4:12a8:a600::/56,OC,NC,New Caledonia
+2a12:bec4:12a6:83a0::/62,OC,NC,New Caledonia
+202.171.64.0/20,OC,NC,New Caledonia
+175.158.128.0/18,OC,NC,New Caledonia
+2a0a:6044:6608::/45,OC,NC,New Caledonia
+2a09:bac5:4d60::/45,OC,NC,New Caledonia
+104.28.199.181/32,OC,NC,New Caledonia
+162.120.204.53/32,OC,NC,New Caledonia
+203.147.64.0/20,OC,NC,New Caledonia
+104.28.29.43/32,OC,NC,New Caledonia
+172.225.63.192/27,OC,NC,New Caledonia
+104.28.125.68/31,OC,NC,New Caledonia
+2606:40:5b4::/46,OC,NC,New Caledonia
+146.75.160.96/31,OC,NC,New Caledonia
+46.193.202.139/32,OC,NC,New Caledonia
+103.17.44.0/22,OC,NC,New Caledonia
+2a0e:97c0:4ba2::/48,OC,NC,New Caledonia
+5.62.56.146/31,OC,NC,New Caledonia
+104.28.154.184/32,OC,NC,New Caledonia
+2a10:bf80:83d0::/45,NA,NI,Nicaragua
+2a10:bf84:2860::/45,NA,NI,Nicaragua
+2001:470:ff0c::/48,NA,NI,Nicaragua
+2a10:bf87:2950::/45,NA,NI,Nicaragua
+172.225.171.192/27,NA,NI,Nicaragua
+2803:800::/32,NA,NI,Nicaragua
+2a10:bf80:3058::/45,NA,NI,Nicaragua
+146.75.160.98/31,NA,NI,Nicaragua
+2a10:bf87:2c10::/45,NA,NI,Nicaragua
+2a10:bf83:7bb8::/45,NA,NI,Nicaragua
+2a10:bf86:bfa0::/45,NA,NI,Nicaragua
+2a10:bf84:43c8::/45,NA,NI,Nicaragua
+2a12:f381:3700::/40,NA,NI,Nicaragua
+2a10:bf84:75b0::/45,NA,NI,Nicaragua
+2a10:bf85:a60::/45,NA,NI,Nicaragua
+2a10:bf83:d548::/45,NA,NI,Nicaragua
+2a10:bf87:1c80::/45,NA,NI,Nicaragua
+2001:470:1f1b:3fe::/64,NA,NI,Nicaragua
+181.215.138.112/28,NA,NI,Nicaragua
+2a10:bf82:c830::/45,NA,NI,Nicaragua
+49.156.48.0/22,OC,NU,Niue
+2607:8940:4023:a200::/56,OC,NU,Niue
+2a02:26f7:f489:4000::/64,OC,NU,Niue
+2a14:7584:e79e::/47,OC,NU,Niue
+2402:1220::/32,OC,NU,Niue
+157.5.91.161/32,OC,NU,Niue
+104.28.209.124/32,OC,NU,Niue
+2600:70ff:a9f2::/48,OC,NU,Niue
+2606:40:1060::/44,OC,NU,Niue
+136.23.11.198/32,OC,NU,Niue
+2001:470:ffea::/48,OC,NU,Niue
+2a12:bec4:12a6:8374::/62,OC,NU,Niue
+157.5.73.226/32,OC,NU,Niue
+2a0c:9a40:95ba::/52,OC,NU,Niue
+2a13:a5c7:25ff:a900::/56,OC,NU,Niue
+2001:470:36:7b9::/64,OC,NU,Niue
+194.50.99.171/32,OC,NU,Niue
+2a12:f381:3400::/40,OC,NU,Niue
+2406:2d40:3800::/40,OC,NU,Niue
+2a0b:4e07:3:5700::/60,OC,NU,Niue
+104.28.28.91/32,OC,NF,Norfolk Island
+172.225.230.176/28,OC,NF,Norfolk Island
+2a12:f003:7000::/36,OC,NF,Norfolk Island
+2a04:1d43:3800::/40,OC,NF,Norfolk Island
+2a04:4e41:6803::/48,OC,NF,Norfolk Island
+2a12:bec4:12a6:8370::/62,OC,NF,Norfolk Island
+2a04:1d47:3800::/40,OC,NF,Norfolk Island
+2a12:bec4:12a8:a800::/56,OC,NF,Norfolk Island
+197.211.42.0/24,OC,NF,Norfolk Island
+2a0c:9a46:3a3::/48,OC,NF,Norfolk Island
+104.28.12.21/32,OC,NF,Norfolk Island
+2a0a:6044:f220::/48,OC,NF,Norfolk Island
+104.28.181.96/30,OC,NF,Norfolk Island
+2a09:bac1:5380::/64,OC,NF,Norfolk Island
+2a0a:6044:f21d::/48,OC,NF,Norfolk Island
+2001:df0:20c::/48,OC,NF,Norfolk Island
+5.175.190.156/32,OC,NF,Norfolk Island
+2a0a:6044:f21e::/47,OC,NF,Norfolk Island
+104.28.213.138/31,OC,NF,Norfolk Island
+2a09:bac1:53c0::/64,OC,NF,Norfolk Island
+2001:470:d:fb6::/64,AS,KP,North Korea
+175.45.176.0/22,AS,KP,North Korea
+2600:70ff:aaed::/48,AS,KP,North Korea
+2001:470:19:d0b::/64,AS,KP,North Korea
+2001:470:f39a:8500::/62,AS,KP,North Korea
+2a12:bec4:13f2::/48,AS,KP,North Korea
+2001:470:f6fe::/48,AS,KP,North Korea
+2001:470:ead8::/48,AS,KP,North Korea
+2001:470:f0c6::/48,AS,KP,North Korea
+2a0e:b107:1d16::/48,AS,KP,North Korea
+2001:470:19:b21::/64,AS,KP,North Korea
+2001:470:ffb7::/48,AS,KP,North Korea
+2001:470:67:d9::/64,AS,KP,North Korea
+2a12:bec4:12a6:30f8::/62,AS,KP,North Korea
+196.197.114.0/24,AS,KP,North Korea
+2001:470:24:1c9::/64,AS,KP,North Korea
+2001:470:1f07:17::/64,AS,KP,North Korea
+2001:470:d:30c::/64,AS,KP,North Korea
+2001:470:24:36::/64,AS,KP,North Korea
+2001:470:19:23::/64,AS,KP,North Korea
+2a0f:1cc5:1fe7::/48,OC,PW,Palau
+104.28.100.92/32,OC,PW,Palau
+57.70.176.0/23,OC,PW,Palau
+2a09:bac4:5b8::/45,OC,PW,Palau
+196.57.154.0/24,OC,PW,Palau
+104.28.184.155/32,OC,PW,Palau
+196.197.154.0/24,OC,PW,Palau
+2a0a:6044:77b9::/48,OC,PW,Palau
+104.28.100.91/32,OC,PW,Palau
+2a12:bec4:12a8:be00::/56,OC,PW,Palau
+2a12:f381:2600::/40,OC,PW,Palau
+2a09:bac3:5018::/45,OC,PW,Palau
+2a04:1d42:2600::/40,OC,PW,Palau
+2a04:4e41:640c::/48,OC,PW,Palau
+2a14:7581:be0:9240::/58,OC,PW,Palau
+2a04:4e41:5e1f::/48,OC,PW,Palau
+2a12:bec4:12a6:9630::/61,OC,PW,Palau
+2a02:5740:154::/48,OC,PW,Palau
+2a12:bec4:12a6:8340::/62,OC,PW,Palau
+2a0c:9a46:3b9::/48,OC,PW,Palau
+208.127.113.136/29,OC,PG,Papua New Guinea
+2a14:7580:cfaf::/48,OC,PG,Papua New Guinea
+14.137.35.0/24,OC,PG,Papua New Guinea
+2001:470:36:856::/64,OC,PG,Papua New Guinea
+2a02:5741:157::/48,OC,PG,Papua New Guinea
+103.99.174.0/23,OC,PG,Papua New Guinea
+103.20.76.0/22,OC,PG,Papua New Guinea
+144.125.22.64/26,OC,PG,Papua New Guinea
+104.28.12.106/32,OC,PG,Papua New Guinea
+154.197.40.0/23,OC,PG,Papua New Guinea
+157.167.236.65/32,OC,PG,Papua New Guinea
+2a12:bec4:12a6:9640::/58,OC,PG,Papua New Guinea
+165.1.231.0/25,OC,PG,Papua New Guinea
+202.42.179.40/29,OC,PG,Papua New Guinea
+2a14:67c2:8d8::/48,OC,PG,Papua New Guinea
+2405:9f40::/32,OC,PG,Papua New Guinea
+2a09:bac4:570::/45,OC,PG,Papua New Guinea
+104.28.182.132/31,OC,PG,Papua New Guinea
+203.83.16.0/21,OC,PG,Papua New Guinea
+2a0f:85c1:81b:f890::/60,OC,PG,Papua New Guinea
+179.65.132.0/23,OC,PN,Pitcairn
+2001:470:36:7bf::/64,OC,PN,Pitcairn
+206.83.126.0/24,OC,PN,Pitcairn
+5.62.56.190/31,OC,PN,Pitcairn
+162.120.228.75/32,OC,PN,Pitcairn
+2a14:7581:be0:9900::/58,OC,PN,Pitcairn
+2600:70ff:d09e::/48,OC,PN,Pitcairn
+194.50.99.182/32,OC,PN,Pitcairn
+2a04:1d43:2900::/40,OC,PN,Pitcairn
+2a12:f381:2900::/40,OC,PN,Pitcairn
+2a06:9801:284::/48,OC,PN,Pitcairn
+190.216.218.132/30,OC,PN,Pitcairn
+2a07:d887:b300::/40,OC,PN,Pitcairn
+2a13:a5c7:25ff:b400::/56,OC,PN,Pitcairn
+2606:40:2939:ac00::/54,OC,PN,Pitcairn
+2a04:1d44:2900::/40,OC,PN,Pitcairn
+2401:b60:1b40::/44,OC,PN,Pitcairn
+136.23.3.231/32,OC,PN,Pitcairn
+2a0c:9a46:3b5::/48,OC,PN,Pitcairn
+2606:40:1070::/44,OC,PN,Pitcairn
+2607:fb90:c144:f000::/53,NA,PR,Puerto Rico
+2604:ca00:133::/48,NA,PR,Puerto Rico
+38.120.163.16/28,NA,PR,Puerto Rico
+72.46.156.0/22,NA,PR,Puerto Rico
+23.167.80.0/23,NA,PR,Puerto Rico
+199.85.204.0/22,NA,PR,Puerto Rico
+2607:fb90:c135:c000::/51,NA,PR,Puerto Rico
+2607:fb90:c14e::/49,NA,PR,Puerto Rico
+2607:fb90:c154:f000::/53,NA,PR,Puerto Rico
+200.30.20.0/22,NA,PR,Puerto Rico
+136.145.0.0/16,NA,PR,Puerto Rico
+2607:fb90:c153:f800::/54,NA,PR,Puerto Rico
+2607:fb90:c133:fc00::/55,NA,PR,Puerto Rico
+67.142.165.0/24,NA,PR,Puerto Rico
+2607:fb90:c149:8000::/50,NA,PR,Puerto Rico
+2607:fb90:c14f::/49,NA,PR,Puerto Rico
+2607:fb90:c137:8000::/50,NA,PR,Puerto Rico
+2607:fb90:c158:ff00::/57,NA,PR,Puerto Rico
+23.182.144.0/24,NA,PR,Puerto Rico
+162.120.186.126/32,NA,PR,Puerto Rico
+2a0f:9403:310::/44,NA,KN,Saint Kitts and Nevis
+2a12:bec4:12a4:830::/61,NA,KN,Saint Kitts and Nevis
+196.48.165.0/24,NA,KN,Saint Kitts and Nevis
+2a02:26f7:e8c0:cb20::/63,NA,KN,Saint Kitts and Nevis
+2a09:bac1:3e60::/64,NA,KN,Saint Kitts and Nevis
+131.125.107.19/32,NA,KN,Saint Kitts and Nevis
+2001:470:26:7cc::/64,NA,KN,Saint Kitts and Nevis
+196.199.165.0/24,NA,KN,Saint Kitts and Nevis
+157.167.124.0/24,NA,KN,Saint Kitts and Nevis
+2a04:4e41:7019::/48,NA,KN,Saint Kitts and Nevis
+2605:59c0:7300::/40,NA,KN,Saint Kitts and Nevis
+69.57.253.0/24,NA,KN,Saint Kitts and Nevis
+2604:a180:4000::/36,NA,KN,Saint Kitts and Nevis
+205.214.203.0/24,NA,KN,Saint Kitts and Nevis
+2001:478:100::/40,NA,KN,Saint Kitts and Nevis
+153.67.162.0/23,NA,KN,Saint Kitts and Nevis
+196.198.165.0/24,NA,KN,Saint Kitts and Nevis
+2001:478:66::/47,NA,KN,Saint Kitts and Nevis
+2a0a:6044:77fe:77::/64,NA,KN,Saint Kitts and Nevis
+131.125.105.6/32,NA,KN,Saint Kitts and Nevis
+5.62.58.176/30,NA,LC,Saint Lucia
+204.145.147.0/24,NA,LC,Saint Lucia
+2a14:1c4:a000::/37,NA,LC,Saint Lucia
+2a09:bac1:4260::/64,NA,LC,Saint Lucia
+69.79.10.0/23,NA,LC,Saint Lucia
+162.212.208.0/23,NA,LC,Saint Lucia
+2a0a:6044:7780::/48,NA,LC,Saint Lucia
+2001:470:b:36::/64,NA,LC,Saint Lucia
+196.57.166.0/24,NA,LC,Saint Lucia
+2a0e:97c0:4b81::/48,NA,LC,Saint Lucia
+2a12:bec4:12a4:4aa::/64,NA,LC,Saint Lucia
+2a02:5741:166::/48,NA,LC,Saint Lucia
+2a14:67c2:803::/48,NA,LC,Saint Lucia
+5.175.190.48/31,NA,LC,Saint Lucia
+2a04:1d42:5b00::/40,NA,LC,Saint Lucia
+66.96.125.128/26,NA,LC,Saint Lucia
+2a09:bac3:4798::/45,NA,LC,Saint Lucia
+2a04:4e41:3017::/48,NA,LC,Saint Lucia
+24.92.144.0/20,NA,LC,Saint Lucia
+2a12:bec4:12a4:490::/60,NA,LC,Saint Lucia
+2a01:528:f200::/40,NA,VC,Saint Vincent and the Grenadines
+2a02:5746:167::/48,NA,VC,Saint Vincent and the Grenadines
+2a02:26f7:e744:c920::/64,NA,VC,Saint Vincent and the Grenadines
+2a0b:4e07:3:6700::/60,NA,VC,Saint Vincent and the Grenadines
+207.191.240.0/21,NA,VC,Saint Vincent and the Grenadines
+72.51.87.0/24,NA,VC,Saint Vincent and the Grenadines
+2a0a:6044:77fe:ec::/64,NA,VC,Saint Vincent and the Grenadines
+2a12:f382:f200::/40,NA,VC,Saint Vincent and the Grenadines
+136.23.27.32/32,NA,VC,Saint Vincent and the Grenadines
+69.73.202.0/24,NA,VC,Saint Vincent and the Grenadines
+199.127.199.0/24,NA,VC,Saint Vincent and the Grenadines
+2a02:26f7:e745:4000::/64,NA,VC,Saint Vincent and the Grenadines
+104.28.221.57/32,NA,VC,Saint Vincent and the Grenadines
+2a0a:6044:77ed::/48,NA,VC,Saint Vincent and the Grenadines
+2a02:5744:167::/48,NA,VC,Saint Vincent and the Grenadines
+162.210.156.0/24,NA,VC,Saint Vincent and the Grenadines
+2a02:26f7:e740:4000::/64,NA,VC,Saint Vincent and the Grenadines
+2803:9810:5480::/42,NA,VC,Saint Vincent and the Grenadines
+2a0c:9a46:3ed::/48,NA,VC,Saint Vincent and the Grenadines
+196.56.167.0/24,NA,VC,Saint Vincent and the Grenadines
+172.225.231.48/28,OC,SB,Solomon Islands
+2a12:bec4:12a6:96b5::/64,OC,SB,Solomon Islands
+2a04:4e41:280f::/48,OC,SB,Solomon Islands
+104.28.171.146/32,OC,SB,Solomon Islands
+104.28.12.204/31,OC,SB,Solomon Islands
+2a0a:6044:f250::/45,OC,SB,Solomon Islands
+104.28.235.164/30,OC,SB,Solomon Islands
+2a0f:9403:190::/44,OC,SB,Solomon Islands
+2a04:1d42:1c00::/40,OC,SB,Solomon Islands
+2a04:4e41:6e0f::/48,OC,SB,Solomon Islands
+157.5.114.31/32,OC,SB,Solomon Islands
+196.48.177.0/24,OC,SB,Solomon Islands
+2405:1cc0::/32,OC,SB,Solomon Islands
+2a14:7581:3bd3::/48,OC,SB,Solomon Islands
+2a14:1c2:f800::/37,OC,SB,Solomon Islands
+103.115.80.0/23,OC,SB,Solomon Islands
+2a12:bec4:12a6:8448::/63,OC,SB,Solomon Islands
+2a04:1d46:1c00::/40,OC,SB,Solomon Islands
+2606:40:217f:6000::/54,OC,SB,Solomon Islands
+2a02:5745:177::/48,OC,SB,Solomon Islands
+2607:8940:2682::/47,SA,SR,Suriname
+2a0a:6044:77fe:ce::/64,SA,SR,Suriname
+2a0e:97c0:4bd0::/48,SA,SR,Suriname
+2001:470:6a00::/48,SA,SR,Suriname
+104.28.92.136/31,SA,SR,Suriname
+2a09:bac2:5540::/44,SA,SR,Suriname
+172.68.131.0/24,SA,SR,Suriname
+196.48.184.0/24,SA,SR,Suriname
+2a04:1d42:1100::/40,SA,SR,Suriname
+104.28.13.42/32,SA,SR,Suriname
+2001:470:8806::/48,SA,SR,Suriname
+2a09:bac1:69e0::/64,SA,SR,Suriname
+2a02:26f7:e78d:4000::/64,SA,SR,Suriname
+2a10:500:c800::/40,SA,SR,Suriname
+217.217.240.0/24,SA,SR,Suriname
+2a04:4e41:3e1b::/48,SA,SR,Suriname
+2400:cb00:236::/48,SA,SR,Suriname
+45.11.243.0/26,SA,SR,Suriname
+2801:1a:2000::/48,SA,SR,Suriname
+2803:ff40::/32,SA,SR,Suriname
+160.119.208.0/23,AF,SZ,Eswatini
+2a09:bac1:6cc0::/64,AF,SZ,Eswatini
+2a12:bec4:12a5:853e::/64,AF,SZ,Eswatini
+102.23.132.0/22,AF,SZ,Eswatini
+102.68.48.0/22,AF,SZ,Eswatini
+143.105.154.0/23,AF,SZ,Eswatini
+104.28.82.104/32,AF,SZ,Eswatini
+104.28.25.192/30,AF,SZ,Eswatini
+2a14:1c2:8800::/37,AF,SZ,Eswatini
+2a06:9f81:56d3::/48,AF,SZ,Eswatini
+41.77.232.0/21,AF,SZ,Eswatini
+41.215.144.0/20,AF,SZ,Eswatini
+2a0d:3341:b240::/42,AF,SZ,Eswatini
+2a12:f005:4000::/36,AF,SZ,Eswatini
+104.28.229.202/31,AF,SZ,Eswatini
+2a02:5744:85::/48,AF,SZ,Eswatini
+172.225.197.48/28,AF,SZ,Eswatini
+102.214.160.0/22,AF,SZ,Eswatini
+2a13:a5c7:25ff:d400::/56,AF,SZ,Eswatini
+102.209.176.0/22,AF,SZ,Eswatini
+2a0a:6044:77dc::/48,OC,TK,Tokelau
+2a09:bac1:7040::/64,OC,TK,Tokelau
+2a0e:97c0:4bdd::/48,OC,TK,Tokelau
+2a0e:b107:d61::/48,OC,TK,Tokelau
+2001:470:4b:16::/64,OC,TK,Tokelau
+104.28.90.59/32,OC,TK,Tokelau
+2a04:4e41:7625::/48,OC,TK,Tokelau
+2600:70ff:c03b::/48,OC,TK,Tokelau
+2001:678:58::/48,OC,TK,Tokelau
+157.5.115.62/32,OC,TK,Tokelau
+5.62.58.204/30,OC,TK,Tokelau
+2a0e:b107:d60:aff0::/61,OC,TK,Tokelau
+2001:470:f691::/48,OC,TK,Tokelau
+2a12:f381:e300::/40,OC,TK,Tokelau
+146.75.132.144/31,OC,TK,Tokelau
+2001:470:24:9a::/64,OC,TK,Tokelau
+2a0e:b107:d64::/47,OC,TK,Tokelau
+2a04:1d47:e300::/40,OC,TK,Tokelau
+2a0e:b107:d60:afc0::/59,OC,TK,Tokelau
+2402:7200::/32,OC,TK,Tokelau
+2a07:d887:de00::/40,OC,TO,Tonga
+2400:6400::/32,OC,TO,Tonga
+2a14:1c5:2800::/37,OC,TO,Tonga
+2a04:4e41:2610::/48,OC,TO,Tonga
+2a02:26f7:f289:4000::/64,OC,TO,Tonga
+104.28.28.99/32,OC,TO,Tonga
+2a02:26f7:f284:4000::/64,OC,TO,Tonga
+2a02:5747:192::/48,OC,TO,Tonga
+104.28.218.176/32,OC,TO,Tonga
+2a01:528:fe00::/40,OC,TO,Tonga
+2a06:9f81:56de::/48,OC,TO,Tonga
+2a02:5746:192::/48,OC,TO,Tonga
+104.28.186.120/30,OC,TO,Tonga
+2a04:4e41:680a::/48,OC,TO,Tonga
+5.62.56.229/32,OC,TO,Tonga
+2a14:7581:3be7::/48,OC,TO,Tonga
+103.154.96.0/23,OC,TO,Tonga
+2607:8940:2932::/47,OC,TO,Tonga
+104.28.13.103/32,OC,TO,Tonga
+2a02:5744:192::/48,OC,TO,Tonga
+172.225.167.192/27,NA,TT,Trinidad and Tobago
+190.97.104.0/22,NA,TT,Trinidad and Tobago
+138.59.24.0/22,NA,TT,Trinidad and Tobago
+190.93.66.0/24,NA,TT,Trinidad and Tobago
+2606:40:20f6:4000::/54,NA,TT,Trinidad and Tobago
+146.75.132.150/31,NA,TT,Trinidad and Tobago
+2001:470:62d1::/48,NA,TT,Trinidad and Tobago
+144.223.214.168/29,NA,TT,Trinidad and Tobago
+190.93.68.0/22,NA,TT,Trinidad and Tobago
+2a0c:9a40:95bd:f000::/52,NA,TT,Trinidad and Tobago
+2a02:5747:193::/48,NA,TT,Trinidad and Tobago
+2606:54c3:0:eb8::/64,NA,TT,Trinidad and Tobago
+2a07:d887:e000::/40,NA,TT,Trinidad and Tobago
+172.226.11.144/28,NA,TT,Trinidad and Tobago
+45.185.20.0/22,NA,TT,Trinidad and Tobago
+201.221.92.0/22,NA,TT,Trinidad and Tobago
+172.71.116.0/24,NA,TT,Trinidad and Tobago
+190.98.133.232/29,NA,TT,Trinidad and Tobago
+147.75.159.0/24,NA,TT,Trinidad and Tobago
+150.48.180.80/29,NA,TT,Trinidad and Tobago
+2a09:bac1:6d60::/64,NA,TC,Turks and Caicos Islands
+2a02:26f7:f743:c820::/64,NA,TC,Turks and Caicos Islands
+65.255.48.0/20,NA,TC,Turks and Caicos Islands
+2a14:7584:e72e::/47,NA,TC,Turks and Caicos Islands
+204.110.56.0/21,NA,TC,Turks and Caicos Islands
+2a14:7584:e6e0::/43,NA,TC,Turks and Caicos Islands
+2a12:f382:e900::/40,NA,TC,Turks and Caicos Islands
+5.62.58.216/30,NA,TC,Turks and Caicos Islands
+208.169.72.0/24,NA,TC,Turks and Caicos Islands
+2a14:7581:be0:c700::/58,NA,TC,Turks and Caicos Islands
+2a06:9f81:56d4::/47,NA,TC,Turks and Caicos Islands
+2a02:26f7:f74c:4000::/64,NA,TC,Turks and Caicos Islands
+104.28.25.38/32,NA,TC,Turks and Caicos Islands
+2a0a:6044:f6ca::/47,NA,TC,Turks and Caicos Islands
+209.236.52.0/24,NA,TC,Turks and Caicos Islands
+2a0a:6044:66cc::/48,NA,TC,Turks and Caicos Islands
+200.50.90.0/24,NA,TC,Turks and Caicos Islands
+2a02:26f7:f744:c820::/64,NA,TC,Turks and Caicos Islands
+2a02:26f7:f750:4000::/64,NA,TC,Turks and Caicos Islands
+140.248.44.96/31,NA,TC,Turks and Caicos Islands
+2a02:26f7:f245:4000::/64,OC,TV,Tuvalu
+66.96.121.64/26,OC,TV,Tuvalu
+2a09:bac4:1708::/45,OC,TV,Tuvalu
+2a12:bec4:12a6:8414::/64,OC,TV,Tuvalu
+2a04:4e41:5e29::/48,OC,TV,Tuvalu
+2a14:7580:202::/48,OC,TV,Tuvalu
+2a02:5746:196::/48,OC,TV,Tuvalu
+2a0c:9a46:3fe:e2::/64,OC,TV,Tuvalu
+2406:2d40:7440::/42,OC,TV,Tuvalu
+2a0d:2587:3540::/42,OC,TV,Tuvalu
+2a02:5745:196::/48,OC,TV,Tuvalu
+2a05:dfc1:8c26::/48,OC,TV,Tuvalu
+2a0d:2587:c000::/35,OC,TV,Tuvalu
+2a12:f381:fc00::/40,OC,TV,Tuvalu
+172.225.62.192/27,OC,TV,Tuvalu
+104.28.220.240/31,OC,TV,Tuvalu
+104.28.252.240/31,OC,TV,Tuvalu
+2a13:a5c7:25ff:e200::/56,OC,TV,Tuvalu
+2a02:26f7:f241:4000::/64,OC,TV,Tuvalu
+2a13:a5c7:25e2::/48,OC,TV,Tuvalu
+136.227.141.76/30,SA,UY,Uruguay
+157.167.224.81/32,SA,UY,Uruguay
+57.75.80.0/20,SA,UY,Uruguay
+164.73.0.0/16,SA,UY,Uruguay
+164.137.22.0/24,SA,UY,Uruguay
+2a14:7581:be0:d680::/58,SA,UY,Uruguay
+2a0f:ca80:616:2d7::/64,SA,UY,Uruguay
+179.43.183.132/30,SA,UY,Uruguay
+196.199.201.0/24,SA,UY,Uruguay
+131.229.134.150/32,SA,UY,Uruguay
+2800:250::/32,SA,UY,Uruguay
+2a0a:6044:77ea::/48,SA,UY,Uruguay
+185.125.225.28/32,SA,UY,Uruguay
+131.229.182.28/32,SA,UY,Uruguay
+2a09:bac4:1740::/45,SA,UY,Uruguay
+2a09:bac1:7700:8::/64,SA,UY,Uruguay
+198.145.158.0/24,SA,UY,Uruguay
+179.43.183.200/30,SA,UY,Uruguay
+177.8.77.0/29,SA,UY,Uruguay
+2a06:9f81:56e8::/48,SA,UY,Uruguay
+2606:40:690::/45,OC,VU,Vanuatu
+2a14:67c2:8c0::/48,OC,VU,Vanuatu
+2a12:bec4:12a6:96d4::/64,OC,VU,Vanuatu
+104.28.35.66/31,OC,VU,Vanuatu
+138.226.239.0/24,OC,VU,Vanuatu
+2403:fbc0:5800::/37,OC,VU,Vanuatu
+2a07:d884:8000::/33,OC,VU,Vanuatu
+2001:470:f82a::/48,OC,VU,Vanuatu
+2a02:26f7:f209:4000::/64,OC,VU,Vanuatu
+2403:fbc0:3010::/44,OC,VU,Vanuatu
+2a09:bac1:7b60::/64,OC,VU,Vanuatu
+2403:fbc0:1010::/44,OC,VU,Vanuatu
+113.11.240.0/21,OC,VU,Vanuatu
+2a07:d885:4000::/34,OC,VU,Vanuatu
+2401:7a40::/32,OC,VU,Vanuatu
+2a02:26f7:f201:4000::/64,OC,VU,Vanuatu
+2a07:d881:4000::/34,OC,VU,Vanuatu
+2a0c:9a46:3f2::/48,OC,VU,Vanuatu
+2403:fbc0:3008::/45,OC,VU,Vanuatu
+2403:fbc0:1100::/40,OC,VU,Vanuatu
+204.199.176.0/20,SA,VE,Venezuela
+2a10:bf82:e230::/45,SA,VE,Venezuela
+104.28.181.76/30,SA,VE,Venezuela
+2803:ec10::/32,SA,VE,Venezuela
+2a10:bf86:3018::/45,SA,VE,Venezuela
+156.255.140.0/22,SA,VE,Venezuela
+216.72.239.0/24,SA,VE,Venezuela
+2a10:bf83:d340::/45,SA,VE,Venezuela
+2a10:bf83:6df8::/45,SA,VE,Venezuela
+2a10:bf82:4118::/45,SA,VE,Venezuela
+154.200.239.0/24,SA,VE,Venezuela
+190.114.240.0/21,SA,VE,Venezuela
+2a10:bf87:4f48::/45,SA,VE,Venezuela
+200.125.184.0/21,SA,VE,Venezuela
+161.69.105.151/32,SA,VE,Venezuela
+45.192.245.0/24,SA,VE,Venezuela
+2803:b50::/32,SA,VE,Venezuela
+104.28.236.168/30,SA,VE,Venezuela
+2a10:bf85:dea8::/45,SA,VE,Venezuela
+2803:b8d0::/32,SA,VE,Venezuela
+2a0e:97c0:4bb5::/48,NA,PM,Saint Pierre and Miquelon
+2a02:26f7:e5c3:4000::/64,NA,PM,Saint Pierre and Miquelon
+104.28.207.90/32,NA,PM,Saint Pierre and Miquelon
+104.28.39.22/32,NA,PM,Saint Pierre and Miquelon
+2001:470:f560::/48,NA,PM,Saint Pierre and Miquelon
+2a0f:1cc5:1f40::/48,NA,PM,Saint Pierre and Miquelon
+2a02:26f7:e5c9:4000::/64,NA,PM,Saint Pierre and Miquelon
+2a13:a5c7:25ff:b300::/56,NA,PM,Saint Pierre and Miquelon
+2607:8940:40f0:9a00::/56,NA,PM,Saint Pierre and Miquelon
+209.198.150.0/24,NA,PM,Saint Pierre and Miquelon
+104.28.175.54/31,NA,PM,Saint Pierre and Miquelon
+2607:8940:4023:af00::/56,NA,PM,Saint Pierre and Miquelon
+2a02:26f7:e5c0:c6c0::/64,NA,PM,Saint Pierre and Miquelon
+2a12:bec4:12a4:527::/64,NA,PM,Saint Pierre and Miquelon
+2606:54c0:4fc0::/45,NA,PM,Saint Pierre and Miquelon
+2a07:d887:b200::/40,NA,PM,Saint Pierre and Miquelon
+104.28.132.52/32,NA,PM,Saint Pierre and Miquelon
+2a0a:6044:f65b::/48,NA,PM,Saint Pierre and Miquelon
+104.28.57.52/32,NA,PM,Saint Pierre and Miquelon
+2a04:4e41:4a16::/48,NA,PM,Saint Pierre and Miquelon
+2a13:a5c7:25ff:f300::/56,OC,WS,Samoa
+2a09:bac4:1790::/45,OC,WS,Samoa
+2a02:26f7:f182:c980::/64,OC,WS,Samoa
+2a12:bec4:12a6:8450::/61,OC,WS,Samoa
+2a0c:9a46:3f4::/48,OC,WS,Samoa
+2a09:bac1:7c20::/64,OC,WS,Samoa
+103.143.149.0/24,OC,WS,Samoa
+103.9.228.0/22,OC,WS,Samoa
+2001:df1:4c40::/48,OC,WS,Samoa
+2a12:bec4:12a8:fa00::/56,OC,WS,Samoa
+172.225.241.128/27,OC,WS,Samoa
+2a09:bac4:790::/45,OC,WS,Samoa
+2001:4b28:b00::/40,OC,WS,Samoa
+104.28.244.234/31,OC,WS,Samoa
+2001:470:ec3e::/48,OC,WS,Samoa
+2a09:bac6:d480::/45,OC,WS,Samoa
+2a14:7580:cff3::/48,OC,WS,Samoa
+2a0a:6044:f240::/45,OC,WS,Samoa
+103.55.178.0/24,OC,WS,Samoa
+2607:8940:41e0:4c00::/56,OC,WS,Samoa
+146.75.185.0/31,EU,AD,Andorra
+94.46.55.141/32,EU,AD,Andorra
+2a02:26f7:f149:4000::/64,EU,AD,Andorra
+2a14:c380:340::/44,EU,AD,Andorra
+2a0a:6044:7701::/48,EU,AD,Andorra
+208.127.104.30/31,EU,AD,Andorra
+34.103.158.64/29,EU,AD,Andorra
+2001:470:5:103::/64,EU,AD,Andorra
+2001:470:1f13:385::/64,EU,AD,Andorra
+208.127.57.112/28,EU,AD,Andorra
+2001:3786:5005:300::/56,EU,AD,Andorra
+104.28.22.48/32,EU,AD,Andorra
+2606:f18b:1000::/46,EU,AD,Andorra
+2a0b:4340:51::/48,EU,AD,Andorra
+165.1.191.96/30,EU,AD,Andorra
+2001:470:1f13:78::/64,EU,AD,Andorra
+196.56.35.0/24,EU,AD,Andorra
+2a14:7580:cf00::/48,EU,AD,Andorra
+2a02:5745:35::/48,EU,AD,Andorra
+130.41.119.128/25,EU,AD,Andorra
+163.47.80.0/21,AS,BD,Bangladesh
+2001:df6:3840::/48,AS,BD,Bangladesh
+2001:470:b890::/48,AS,BD,Bangladesh
+2a10:bf82:8138::/45,AS,BD,Bangladesh
+2001:df6:7e80::/48,AS,BD,Bangladesh
+103.189.236.0/23,AS,BD,Bangladesh
+103.131.58.0/23,AS,BD,Bangladesh
+103.31.254.192/27,AS,BD,Bangladesh
+103.162.184.0/22,AS,BD,Bangladesh
+104.28.165.154/32,AS,BD,Bangladesh
+43.228.208.0/22,AS,BD,Bangladesh
+2400:96e0::/32,AS,BD,Bangladesh
+103.12.176.0/22,AS,BD,Bangladesh
+160.191.20.0/23,AS,BD,Bangladesh
+103.56.0.0/22,AS,BD,Bangladesh
+2001:df6:6d80::/48,AS,BD,Bangladesh
+2400:cb00:234::/48,AS,BD,Bangladesh
+2001:470:b7c2::/48,AS,BD,Bangladesh
+2404:3080::/32,AS,BD,Bangladesh
+2404:2b80::/32,AS,BD,Bangladesh
+104.28.212.156/30,AF,BJ,Benin
+2606:54c0:510::/45,AF,BJ,Benin
+104.28.87.6/31,AF,BJ,Benin
+2c0f:52c0::/32,AF,BJ,Benin
+2a02:26f7:f0c2:4000::/64,AF,BJ,Benin
+2a12:bec4:12a5:8190::/61,AF,BJ,Benin
+2c0f:2480::/32,AF,BJ,Benin
+2a02:26f7:f0c4:4000::/64,AF,BJ,Benin
+162.120.214.0/32,AF,BJ,Benin
+2a12:bec4:12a5:8174::/62,AF,BJ,Benin
+2620:134:b054:100::50/127,AF,BJ,Benin
+45.221.224.0/19,AF,BJ,Benin
+2a02:26f7:f0cc:cd20::/63,AF,BJ,Benin
+2a0a:6044:6924::/46,AF,BJ,Benin
+160.119.144.0/22,AF,BJ,Benin
+2a02:5747:50::/48,AF,BJ,Benin
+2a0f:9403:980::/44,AF,BJ,Benin
+2a02:26f7:f0cd:4000::/64,AF,BJ,Benin
+2a09:bac6:528::/45,AF,BJ,Benin
+2a13:a5c7:25ff:1800::/56,AF,BJ,Benin
+2a0a:8e00:2000::/47,AS,BT,Bhutan
+2606:9607:2000::/47,AS,BT,Bhutan
+2404:5540::/32,AS,BT,Bhutan
+2a09:4c0:2f00::/40,AS,BT,Bhutan
+103.71.40.0/22,AS,BT,Bhutan
+103.78.111.0/24,AS,BT,Bhutan
+140.248.20.4/31,AS,BT,Bhutan
+2606:54c0:fd8::/45,AS,BT,Bhutan
+220.158.236.0/22,AS,BT,Bhutan
+163.227.18.0/23,AS,BT,Bhutan
+45.89.99.116/30,AS,BT,Bhutan
+2a02:26f7:cec9:cf00::/62,AS,BT,Bhutan
+157.5.112.69/32,AS,BT,Bhutan
+2001:470:d:1e9::/64,AS,BT,Bhutan
+2a02:26f7:ced0:cf04::/64,AS,BT,Bhutan
+103.234.126.0/23,AS,BT,Bhutan
+2a0e:97c0:4b21::/48,AS,BT,Bhutan
+45.89.99.52/30,AS,BT,Bhutan
+2a02:26f7:cec0:4000::/64,AS,BT,Bhutan
+103.179.206.0/23,AS,BT,Bhutan
+196.57.54.0/24,AF,BW,Botswana
+2c0f:fac8::/32,AF,BW,Botswana
+104.28.37.23/32,AF,BW,Botswana
+2001:470:1f0b:81a::/64,AF,BW,Botswana
+2a14:c380:7fc::/48,AF,BW,Botswana
+185.138.17.156/32,AF,BW,Botswana
+2a02:26f7:d789:4000::/64,AF,BW,Botswana
+41.87.184.0/21,AF,BW,Botswana
+2001:470:74f8::/48,AF,BW,Botswana
+102.207.236.0/22,AF,BW,Botswana
+2a0f:85c1:81b:f1b0::/60,AF,BW,Botswana
+104.28.180.14/31,AF,BW,Botswana
+2a04:1d44:a100::/40,AF,BW,Botswana
+154.73.84.0/22,AF,BW,Botswana
+2a02:26f7:d784:4000::/64,AF,BW,Botswana
+41.191.216.0/22,AF,BW,Botswana
+2a0a:6044:f93e::/48,AF,BW,Botswana
+188.114.247.141/32,AF,BW,Botswana
+2a12:ef86:5000::/36,AF,BW,Botswana
+199.19.254.16/28,AF,BW,Botswana
+2a10:bf82:44a0::/45,AS,BN,Brunei
+2a10:bf86:adf0::/45,AS,BN,Brunei
+2a10:bf86:4868::/45,AS,BN,Brunei
+2a10:bf85:a608::/45,AS,BN,Brunei
+2a10:bf84:b618::/45,AS,BN,Brunei
+2a10:bf81:6240::/45,AS,BN,Brunei
+2a10:bf81:c620::/45,AS,BN,Brunei
+103.170.170.0/24,AS,BN,Brunei
+2a10:bf83:9a68::/45,AS,BN,Brunei
+2a10:bf83:3758::/45,AS,BN,Brunei
+2a10:bf81:e430::/45,AS,BN,Brunei
+2a10:bf87:eb20::/45,AS,BN,Brunei
+2a10:bf84:1900::/45,AS,BN,Brunei
+2a10:bf84:c9d0::/45,AS,BN,Brunei
+2a10:bf83:cd88::/45,AS,BN,Brunei
+2a10:bf81:1410::/45,AS,BN,Brunei
+192.94.122.0/24,AS,BN,Brunei
+2a10:bf85:8908::/45,AS,BN,Brunei
+2a12:bec4:12a6:ad0::/63,AS,BN,Brunei
+2a10:bf83:4540::/45,AS,BN,Brunei
+104.28.219.54/31,AF,BF,Burkina Faso
+104.28.8.110/31,AF,BF,Burkina Faso
+2001:43f8:b60::/47,AF,BF,Burkina Faso
+2001:43f8:1190::/48,AF,BF,Burkina Faso
+2a14:67c2:8a9::/48,AF,BF,Burkina Faso
+102.214.40.0/22,AF,BF,Burkina Faso
+2001:470:82a9::/48,AF,BF,Burkina Faso
+196.60.76.0/24,AF,BF,Burkina Faso
+2a0a:6040:f60::/48,AF,BF,Burkina Faso
+2c0f:ec58::/32,AF,BF,Burkina Faso
+102.64.104.0/24,AF,BF,Burkina Faso
+2a0f:9403:9a0::/44,AF,BF,Burkina Faso
+2001:470:fff5::/48,AF,BF,Burkina Faso
+2c0f:fd80::/32,AF,BF,Burkina Faso
+2a0a:6044:693f::/48,AF,BF,Burkina Faso
+2a04:4e41:4103::/48,AF,BF,Burkina Faso
+2c0f:4ac0::/32,AF,BF,Burkina Faso
+2a12:bec4:12a5:8238::/62,AF,BF,Burkina Faso
+2c0f:1a40::/32,AF,BF,Burkina Faso
+105.235.188.0/22,AF,BF,Burkina Faso
+172.225.192.48/28,AF,CV,Cabo Verde
+2a12:bec4:12a5:82e0::/60,AF,CV,Cabo Verde
+2a12:bec4:12a5:82f2::/64,AF,CV,Cabo Verde
+2a09:bac1:1bc0::/64,AF,CV,Cabo Verde
+196.58.63.0/24,AF,CV,Cabo Verde
+2a14:1c0:2000::/37,AF,CV,Cabo Verde
+2a12:f381:b100::/40,AF,CV,Cabo Verde
+2001:470:829f::/48,AF,CV,Cabo Verde
+2a02:26f7:cc42:c180::/64,AF,CV,Cabo Verde
+196.49.96.0/24,AF,CV,Cabo Verde
+2a0c:9a40:95b2:5000::/52,AF,CV,Cabo Verde
+157.5.101.36/32,AF,CV,Cabo Verde
+162.120.205.1/32,AF,CV,Cabo Verde
+169.239.12.0/22,AF,CV,Cabo Verde
+2a04:4e41:7806::/48,AF,CV,Cabo Verde
+104.28.9.60/31,AF,CV,Cabo Verde
+2a09:bac4:1198::/45,AF,CV,Cabo Verde
+5.62.60.74/31,AF,CV,Cabo Verde
+2a0b:4e07:3:1320::/60,AF,CV,Cabo Verde
+2a04:4e41:160d::/48,AF,CV,Cabo Verde
+2001:470:6d:5bd::/64,AF,CF,Central African Republic
+2001:470:50ac::/48,AF,CF,Central African Republic
+2a0a:6044:7729::/48,AF,CF,Central African Republic
+2607:8940:203e::/47,AF,CF,Central African Republic
+2a04:4e41:740a::/48,AF,CF,Central African Republic
+197.242.176.0/21,AF,CF,Central African Republic
+2a0a:6044:77fe:28::/64,AF,CF,Central African Republic
+2a04:4e41:4104::/48,AF,CF,Central African Republic
+146.75.168.16/31,AF,CF,Central African Republic
+104.28.60.23/32,AF,CF,Central African Republic
+2a04:1d47:a700::/40,AF,CF,Central African Republic
+104.28.34.18/32,AF,CF,Central African Republic
+104.28.218.168/31,AF,CF,Central African Republic
+2a12:bec4:12a5:82f4::/62,AF,CF,Central African Republic
+146.75.182.6/31,AF,CF,Central African Republic
+2607:8940:4171:1a00::/56,AF,CF,Central African Republic
+104.28.46.12/32,AF,CF,Central African Republic
+2001:470:70c2::/48,AF,CF,Central African Republic
+2a04:1d45:a700::/40,AF,CF,Central African Republic
+2a12:bec4:12a5:8300::/60,AF,CF,Central African Republic
+2a02:26f7:ec8c:4000::/64,AF,TD,Chad
+157.5.101.178/32,AF,TD,Chad
+2a09:bac1:6dc0::/64,AF,TD,Chad
+146.75.169.224/31,AF,TD,Chad
+2a09:bac4:16a8::/45,AF,TD,Chad
+2a02:5740:65::/48,AF,TD,Chad
+2606:40:22a1:8000::/54,AF,TD,Chad
+196.199.65.0/24,AF,TD,Chad
+157.5.109.178/32,AF,TD,Chad
+2606:54c3:0:932::/64,AF,TD,Chad
+2001:43fd:2000::/48,AF,TD,Chad
+217.113.76.64/27,AF,TD,Chad
+2a14:7581:be0:2500::/58,AF,TD,Chad
+217.113.68.192/27,AF,TD,Chad
+2606:40:1ab0::/44,AF,TD,Chad
+2a04:1d42:e800::/40,AF,TD,Chad
+77.70.157.72/29,AF,TD,Chad
+2a02:26f7:ec88:c840::/64,AF,TD,Chad
+2001:470:d:10db::/64,AF,TD,Chad
+81.199.101.0/24,AF,TD,Chad
+2a12:bec4:12a6:5bf0::/63,OC,CX,Christmas Island
+2606:40:6d0::/45,OC,CX,Christmas Island
+2001:470:1f2d:3b1::/64,OC,CX,Christmas Island
+2a14:7581:be0:2880::/58,OC,CX,Christmas Island
+2a14:67c1:a129::/48,OC,CX,Christmas Island
+2001:470:fc49::/48,OC,CX,Christmas Island
+2a14:1c3:a000::/37,OC,CX,Christmas Island
+2606:40:6d8::/46,OC,CX,Christmas Island
+2a0c:9a46:336::/48,OC,CX,Christmas Island
+2001:470:d:318::/64,OC,CX,Christmas Island
+2600:70ff:a7bd::/48,OC,CX,Christmas Island
+2600:70ff:c1f5::/48,OC,CX,Christmas Island
+2a0a:6044:f1b0::/47,OC,CX,Christmas Island
+2a04:1d46:b200::/40,OC,CX,Christmas Island
+2a14:7581:b4a::/48,OC,CX,Christmas Island
+2001:470:1f0f:c5::/64,OC,CX,Christmas Island
+2001:470:24:d6::/64,OC,CX,Christmas Island
+2001:470:fe69::/48,OC,CX,Christmas Island
+2001:470:b920::/48,OC,CX,Christmas Island
+2001:470:fb6a::/48,OC,CX,Christmas Island
+2001:470:1f1d:1ce::/64,AS,CC,Cocos Islands
+2a0a:6044:f1b2::/47,AS,CC,Cocos Islands
+150.48.183.36/31,AS,CC,Cocos Islands
+2a14:7580:cf26::/48,AS,CC,Cocos Islands
+2a09:bac4:1130::/45,AS,CC,Cocos Islands
+2607:8940:28a2::/47,AS,CC,Cocos Islands
+2a0e:97c0:4b27::/48,AS,CC,Cocos Islands
+2a0e:b107:2318::/45,AS,CC,Cocos Islands
+104.28.9.12/31,AS,CC,Cocos Islands
+2a14:7581:b4b::/48,AS,CC,Cocos Islands
+179.65.146.0/23,AS,CC,Cocos Islands
+2a12:ef86:7000::/36,AS,CC,Cocos Islands
+2a14:7581:3b36::/48,AS,CC,Cocos Islands
+136.23.11.197/32,AS,CC,Cocos Islands
+2606:40:6e0::/45,AS,CC,Cocos Islands
+2a12:f381:a500::/40,AS,CC,Cocos Islands
+2a04:1d44:a500::/40,AS,CC,Cocos Islands
+2606:40:6e8::/46,AS,CC,Cocos Islands
+2a04:1d43:a500::/40,AS,CC,Cocos Islands
+157.5.101.187/32,AS,CC,Cocos Islands
+212.32.80.0/24,AF,KM,Comoros
+67.227.221.11/32,AF,KM,Comoros
+5.62.60.97/32,AF,KM,Comoros
+2a02:26f7:d609:4000::/64,AF,KM,Comoros
+67.227.214.234/32,AF,KM,Comoros
+67.225.129.6/31,AF,KM,Comoros
+102.207.176.0/22,AF,KM,Comoros
+67.225.161.207/32,AF,KM,Comoros
+2a09:bac1:3d80::/64,AF,KM,Comoros
+104.28.82.17/32,AF,KM,Comoros
+67.227.210.2/32,AF,KM,Comoros
+67.227.210.10/32,AF,KM,Comoros
+2a04:1d42:6b00::/40,AF,KM,Comoros
+67.227.213.170/32,AF,KM,Comoros
+67.227.212.200/32,AF,KM,Comoros
+2a04:1d44:6b00::/40,AF,KM,Comoros
+157.5.109.100/32,AF,KM,Comoros
+67.227.214.109/32,AF,KM,Comoros
+2a0a:6044:6980::/45,AF,KM,Comoros
+67.225.255.150/32,AF,KM,Comoros
+104.28.220.148/31,AF,GQ,Equatorial Guinea
+2a02:26f7:ee09:4000::/64,AF,GQ,Equatorial Guinea
+2a0f:9403:a50::/44,AF,GQ,Equatorial Guinea
+2c0f:f840::/32,AF,GQ,Equatorial Guinea
+2a01:528:cf00::/40,AF,GQ,Equatorial Guinea
+2a11:f141:9000::/36,AF,GQ,Equatorial Guinea
+104.28.252.146/31,AF,GQ,Equatorial Guinea
+2a02:5741:83::/48,AF,GQ,Equatorial Guinea
+104.28.252.145/32,AF,GQ,Equatorial Guinea
+2606:40:11a0::/43,AF,GQ,Equatorial Guinea
+2a12:f381:cf00::/40,AF,GQ,Equatorial Guinea
+102.164.248.0/21,AF,GQ,Equatorial Guinea
+2a09:bac5:3910::/45,AF,GQ,Equatorial Guinea
+2a02:26f7:ee00:cde0::/63,AF,GQ,Equatorial Guinea
+154.73.58.0/23,AF,GQ,Equatorial Guinea
+104.28.188.92/32,AF,GQ,Equatorial Guinea
+2a04:1d47:cf00::/40,AF,GQ,Equatorial Guinea
+2a02:5745:83::/48,AF,GQ,Equatorial Guinea
+2a02:5747:83::/48,AF,GQ,Equatorial Guinea
+2a0f:85c1:81b:f390::/60,AF,GQ,Equatorial Guinea
+104.28.60.52/31,AF,ER,Eritrea
+2001:67c:a38:f291::/64,AF,ER,Eritrea
+2a14:7581:be0:3a00::/58,AF,ER,Eritrea
+2a02:5742:84::/48,AF,ER,Eritrea
+2a09:bac1:2300::/64,AF,ER,Eritrea
+104.28.130.27/32,AF,ER,Eritrea
+196.197.84.0/24,AF,ER,Eritrea
+104.28.9.168/31,AF,ER,Eritrea
+104.28.106.43/32,AF,ER,Eritrea
+2a02:26f7:e08d:4000::/64,AF,ER,Eritrea
+140.248.36.104/31,AF,ER,Eritrea
+2a02:26f7:e08c:c200::/64,AF,ER,Eritrea
+104.28.237.148/31,AF,ER,Eritrea
+2001:470:fc9a::/48,AF,ER,Eritrea
+2a14:1c4:6800::/37,AF,ER,Eritrea
+2a02:26f7:e080:4000::/64,AF,ER,Eritrea
+2a14:7580:cf42::/48,AF,ER,Eritrea
+2607:8940:4191:3100::/56,AF,ER,Eritrea
+2a04:4e41:5611::/48,AF,ER,Eritrea
+2401:b60:1430::/44,AF,ER,Eritrea
+196.189.84.0/25,AF,ET,Ethiopia
+2a14:1c0:1800::/37,AF,ET,Ethiopia
+197.154.0.0/16,AF,ET,Ethiopia
+2a04:4e41:5209::/48,AF,ET,Ethiopia
+193.220.157.248/29,AF,ET,Ethiopia
+82.102.6.177/32,AF,ET,Ethiopia
+2a0c:9a46:3fe:44::/64,AF,ET,Ethiopia
+172.225.120.64/27,AF,ET,Ethiopia
+2a04:1d42:bf00::/40,AF,ET,Ethiopia
+2c0f:eb00:1100::/40,AF,ET,Ethiopia
+2606:40:a68::/45,AF,ET,Ethiopia
+102.212.68.0/22,AF,ET,Ethiopia
+212.32.81.0/24,AF,ET,Ethiopia
+162.120.210.4/32,AF,ET,Ethiopia
+2a02:5746:86::/48,AF,ET,Ethiopia
+5.62.62.124/30,AF,ET,Ethiopia
+2a0a:6044:69b7::/48,AF,ET,Ethiopia
+157.167.99.0/24,AF,ET,Ethiopia
+2a02:5742:86::/48,AF,ET,Ethiopia
+2a12:bec4:12a5:85cc::/63,AF,ET,Ethiopia
+46.227.112.0/21,EU,FO,Faroe Islands
+2a09:bac1:2700::/64,EU,FO,Faroe Islands
+136.23.4.101/32,EU,FO,Faroe Islands
+212.55.50.128/25,EU,FO,Faroe Islands
+172.225.196.16/28,EU,FO,Faroe Islands
+2606:54c0:3198::/45,EU,FO,Faroe Islands
+2001:470:36:c6::/64,EU,FO,Faroe Islands
+2a0e:97c0:4b4b::/48,EU,FO,Faroe Islands
+157.5.86.34/32,EU,FO,Faroe Islands
+2a12:ef87:b000::/36,EU,FO,Faroe Islands
+104.28.105.6/31,EU,FO,Faroe Islands
+185.171.172.0/22,EU,FO,Faroe Islands
+2a0a:6044:774a::/48,EU,FO,Faroe Islands
+2a12:bec4:12a5:219a::/63,EU,FO,Faroe Islands
+2a0f:38c0::/29,EU,FO,Faroe Islands
+2a0b:4e07:e1::/48,EU,FO,Faroe Islands
+2a12:bec4:12a5:219c::/62,EU,FO,Faroe Islands
+2a12:bec4:12a5:21a0::/60,EU,FO,Faroe Islands
+212.55.32.0/20,EU,FO,Faroe Islands
+2a14:7580:cf49::/48,EU,FO,Faroe Islands
+2a02:5745:88::/48,AF,GA,Gabon
+2607:8940:4171:3500::/56,AF,GA,Gabon
+2606:40:a30::/45,AF,GA,Gabon
+77.70.136.48/29,AF,GA,Gabon
+84.46.95.204/30,AF,GA,Gabon
+41.78.98.0/24,AF,GA,Gabon
+102.164.124.0/22,AF,GA,Gabon
+102.142.0.0/16,AF,GA,Gabon
+172.224.230.112/28,AF,GA,Gabon
+2a12:bec4:12a5:85d0::/60,AF,GA,Gabon
+217.113.76.128/27,AF,GA,Gabon
+2a04:1d41:c500::/40,AF,GA,Gabon
+2a0a:6044:f9f0::/47,AF,GA,Gabon
+2a12:ef87:c000::/36,AF,GA,Gabon
+2a12:bec4:12a5:85e8::/63,AF,GA,Gabon
+217.113.75.0/24,AF,GA,Gabon
+212.90.135.240/29,AF,GA,Gabon
+2a10:500:1c00::/40,AF,GA,Gabon
+2a00:ca0:2038::/50,AF,GA,Gabon
+2a04:1d44:c500::/40,AF,GA,Gabon
+2a0a:6044:77fe:54::/64,AF,GM,Gambia
+104.28.188.172/31,AF,GM,Gambia
+2a0a:6044:f9f3::/48,AF,GM,Gambia
+66.96.121.0/26,AF,GM,Gambia
+57.82.164.0/23,AF,GM,Gambia
+104.28.252.225/32,AF,GM,Gambia
+2a01:528:cd00::/40,AF,GM,Gambia
+196.199.89.0/24,AF,GM,Gambia
+2a14:7580:cf54::/48,AF,GM,Gambia
+2a09:bac5:38f8::/45,AF,GM,Gambia
+2c0f:fd08::/32,AF,GM,Gambia
+2a06:a001:a0f2::/47,AF,GM,Gambia
+2606:54c0:3890::/45,AF,GM,Gambia
+172.225.212.176/28,AF,GM,Gambia
+104.28.220.230/32,AF,GM,Gambia
+172.225.121.0/27,AF,GM,Gambia
+2606:54c3:0:29a::/64,AF,GM,Gambia
+2a0c:9a46:3fe:54::/64,AF,GM,Gambia
+104.28.252.230/32,AF,GM,Gambia
+2c0f:540::/32,AF,GM,Gambia
+104.28.86.31/32,NA,GL,Greenland
+5.62.62.156/30,NA,GL,Greenland
+188.72.71.0/24,NA,GL,Greenland
+46.16.16.0/21,NA,GL,Greenland
+2a0a:6044:7754::/48,NA,GL,Greenland
+192.38.0.0/22,NA,GL,Greenland
+2606:54c3:0:1621::/64,NA,GL,Greenland
+37.230.216.0/22,NA,GL,Greenland
+2a09:bac2:3870::/44,NA,GL,Greenland
+185.21.228.0/22,NA,GL,Greenland
+2a02:26f7:e600:d122::/63,NA,GL,Greenland
+157.5.91.172/32,NA,GL,Greenland
+185.82.102.112/29,NA,GL,Greenland
+2a12:f381:cc00::/40,NA,GL,Greenland
+2a00:1fa8::/32,NA,GL,Greenland
+2a02:26f7:e605:4000::/64,NA,GL,Greenland
+2001:470:f4c9::/48,NA,GL,Greenland
+188.114.240.129/32,NA,GL,Greenland
+185.157.200.0/22,NA,GL,Greenland
+2a02:26f7:d004:4000::/64,NA,GL,Greenland
+2a02:26f7:cbc6:c340::/64,AF,GW,Guinea-Bissau
+2a02:26f7:cbc7:4000::/64,AF,GW,Guinea-Bissau
+2001:470:24:56d::/64,AF,GW,Guinea-Bissau
+2a02:26f7:cbcd:4000::/64,AF,GW,Guinea-Bissau
+2a0a:6044:fa2c::/47,AF,GW,Guinea-Bissau
+143.105.184.0/23,AF,GW,Guinea-Bissau
+2a09:bac4:12e0::/45,AF,GW,Guinea-Bissau
+136.23.5.163/32,AF,GW,Guinea-Bissau
+2a02:5743:95::/48,AF,GW,Guinea-Bissau
+216.147.159.0/24,AF,GW,Guinea-Bissau
+5.62.60.170/31,AF,GW,Guinea-Bissau
+104.28.10.110/31,AF,GW,Guinea-Bissau
+2607:8940:4191:4100::/56,AF,GW,Guinea-Bissau
+2a09:4c0:6700::/40,AF,GW,Guinea-Bissau
+2a02:26f7:cbc4:c340::/64,AF,GW,Guinea-Bissau
+2a0a:6044:77fe:5c::/64,AF,GW,Guinea-Bissau
+2a0a:6044:fa28::/46,AF,GW,Guinea-Bissau
+2a10:500:2000::/40,AF,GW,Guinea-Bissau
+104.28.182.145/32,AF,GW,Guinea-Bissau
+2001:470:f699::/48,AF,GW,Guinea-Bissau
+2c0f:f180:400::/38,AF,GN,Guinea
+179.64.90.0/23,AF,GN,Guinea
+135.136.26.128/25,AF,GN,Guinea
+2001:43f8:c60::/47,AF,GN,Guinea
+41.79.200.0/22,AF,GN,Guinea
+104.28.61.82/32,AF,GN,Guinea
+135.136.25.128/25,AF,GN,Guinea
+2a14:7581:3b64::/48,AF,GN,Guinea
+2606:54c0:3898::/45,AF,GN,Guinea
+2a02:26f7:cc09:4000::/64,AF,GN,Guinea
+196.58.94.0/24,AF,GN,Guinea
+2a0c:9a46:356::/48,AF,GN,Guinea
+102.211.199.0/24,AF,GN,Guinea
+164.137.124.0/24,AF,GN,Guinea
+2c0f:f180:2000::/35,AF,GN,Guinea
+2606:40:2241:2000::/54,AF,GN,Guinea
+2c0f:ef78:7::/48,AF,GN,Guinea
+2a06:9f81:5654::/48,AF,GN,Guinea
+2a0f:9403:ac0::/44,AF,GN,Guinea
+2c0f:5b80::/32,AF,GN,Guinea
+2a10:bf86:b0d0::/44,AS,KW,Kuwait
+165.1.195.200/29,AS,KW,Kuwait
+2a10:bf85:a658::/45,AS,KW,Kuwait
+208.127.58.128/29,AS,KW,Kuwait
+2a10:bf84:1c28::/45,AS,KW,Kuwait
+185.46.144.0/22,AS,KW,Kuwait
+2a10:bf81:1f78::/45,AS,KW,Kuwait
+37.36.0.0/14,AS,KW,Kuwait
+193.22.172.0/24,AS,KW,Kuwait
+165.85.143.96/27,AS,KW,Kuwait
+2a10:bf86:1e68::/45,AS,KW,Kuwait
+2a10:bf80:7f68::/45,AS,KW,Kuwait
+2a10:bf81:1c20::/45,AS,KW,Kuwait
+2a10:bf86:6440::/45,AS,KW,Kuwait
+2a10:bf82:8fb0::/45,AS,KW,Kuwait
+172.225.227.0/28,AS,KW,Kuwait
+2a10:bf86:57c8::/45,AS,KW,Kuwait
+2a14:c380:7a9::/48,AS,KW,Kuwait
+2a09:bac1:3f80::/58,AS,KW,Kuwait
+2a10:bf87:3e98::/45,AS,KW,Kuwait
+104.28.182.60/30,AS,LA,Laos
+2001:df0:bf::/48,AS,LA,Laos
+2a09:bac4:3e0::/45,AS,LA,Laos
+103.67.247.0/24,AS,LA,Laos
+172.225.58.224/27,AS,LA,Laos
+2a02:5740:118::/48,AS,LA,Laos
+202.136.240.0/21,AS,LA,Laos
+150.48.165.228/31,AS,LA,Laos
+115.84.64.0/18,AS,LA,Laos
+104.28.11.159/32,AS,LA,Laos
+2a02:26f7:c744:4000::/64,AS,LA,Laos
+203.76.252.0/22,AS,LA,Laos
+185.227.132.0/24,AS,LA,Laos
+172.225.79.128/27,AS,LA,Laos
+2a09:4c0:8700::/40,AS,LA,Laos
+2001:df4:6400::/48,AS,LA,Laos
+2a01:528:5e00::/40,AS,LA,Laos
+2607:74c0:120::/44,AS,LA,Laos
+2a04:4e41:5e0f::/48,AS,LA,Laos
+2a0a:6044:f128::/46,AS,LA,Laos
+2a13:a5c7:25ff:8300::/56,AF,LS,Lesotho
+196.197.120.0/24,AF,LS,Lesotho
+2a0b:4e07:3:4260::/60,AF,LS,Lesotho
+212.96.31.0/24,AF,LS,Lesotho
+2a02:26f7:d580:c4a0::/64,AF,LS,Lesotho
+69.167.167.27/32,AF,LS,Lesotho
+2a02:26f7:d580:4000::/64,AF,LS,Lesotho
+2a14:7581:3b84::/48,AF,LS,Lesotho
+2607:8940:2102::/47,AF,LS,Lesotho
+2a0a:6044:fa3e::/47,AF,LS,Lesotho
+2c0f:3480::/32,AF,LS,Lesotho
+2001:470:6d:77d::/64,AF,LS,Lesotho
+196.202.245.0/26,AF,LS,Lesotho
+69.167.136.18/32,AF,LS,Lesotho
+74.244.80.0/23,AF,LS,Lesotho
+2a09:4c0:8c00::/40,AF,LS,Lesotho
+2a09:bac4:410::/45,AF,LS,Lesotho
+104.28.46.46/32,AF,LS,Lesotho
+2001:470:36:118::/64,AF,LS,Lesotho
+2a13:a5c7:2584::/48,AF,LS,Lesotho
+2a09:bac1:43c0::/64,AF,LR,Liberia
+104.28.168.238/31,AF,LR,Liberia
+164.137.234.0/24,AF,LR,Liberia
+196.49.16.0/24,AF,LR,Liberia
+2001:470:5:23d::/64,AF,LR,Liberia
+2a01:528:5800::/40,AF,LR,Liberia
+2c0f:ef88::/32,AF,LR,Liberia
+172.225.118.32/27,AF,LR,Liberia
+2a0a:6044:fa4e::/47,AF,LR,Liberia
+2a09:bac1:43c0:140::/64,AF,LR,Liberia
+197.231.152.0/21,AF,LR,Liberia
+2a09:bac3:47c0::/45,AF,LR,Liberia
+2606:40:824::/46,AF,LR,Liberia
+196.199.121.0/24,AF,LR,Liberia
+2a0a:6044:fa50::/45,AF,LR,Liberia
+2606:54c0:47b8::/45,AF,LR,Liberia
+162.120.214.13/32,AF,LR,Liberia
+104.28.146.41/32,AF,LR,Liberia
+2a0a:6044:6a58::/46,AF,LR,Liberia
+2a02:26f7:cb81:4000::/64,AF,LR,Liberia
+102.218.196.0/22,AF,LY,Libya
+2a00:ca0:2051:c000::/50,AF,LY,Libya
+2a06:9f81:5686::/48,AF,LY,Libya
+2a0a:6044:6a68::/47,AF,LY,Libya
+2a0a:6044:6a60::/47,AF,LY,Libya
+104.28.181.88/30,AF,LY,Libya
+102.204.184.0/22,AF,LY,Libya
+2a04:1d41:5300::/40,AF,LY,Libya
+2a0a:6040:f68::/48,AF,LY,Libya
+2a0f:1cc5:1f68::/48,AF,LY,Libya
+102.222.252.0/23,AF,LY,Libya
+104.28.213.132/30,AF,LY,Libya
+102.213.180.0/22,AF,LY,Libya
+2a00:ca0:2050:5000::/52,AF,LY,Libya
+104.28.60.107/32,AF,LY,Libya
+2c0f:fb10::/32,AF,LY,Libya
+82.205.174.208/28,AF,LY,Libya
+196.196.122.0/24,AF,LY,Libya
+5.62.60.230/31,AF,LY,Libya
+104.28.181.92/31,AF,LY,Libya
+2a0e:b107:1bc::/46,AS,MO,Macao
+2001:4b28:4700::/40,AS,MO,Macao
+2409:895a:3a40::/43,AS,MO,Macao
+2409:895a:f260::/43,AS,MO,Macao
+2001:470:36:24f::/64,AS,MO,Macao
+2001:470:fbc7::/48,AS,MO,Macao
+2a10:bf87:b200::/45,AS,MO,Macao
+2001:470:19:10d6::/64,AS,MO,Macao
+146.75.136.10/31,AS,MO,Macao
+2a04:4e41:4600:4000::/52,AS,MO,Macao
+2a10:bf87:edd8::/45,AS,MO,Macao
+2403:300:1c20::/47,AS,MO,Macao
+205.198.52.0/23,AS,MO,Macao
+2409:895a:db5f::/48,AS,MO,Macao
+2409:895a:4ca0::/45,AS,MO,Macao
+2a10:bf80:d7d8::/45,AS,MO,Macao
+2a10:bf87:cf28::/45,AS,MO,Macao
+2409:895a:9480::/43,AS,MO,Macao
+2409:895a:9200::/41,AS,MO,Macao
+2a10:bf83:f248::/45,AS,MO,Macao
+2a02:5742:125::/48,AF,MG,Madagascar
+2a09:bac2:4858::/45,AF,MG,Madagascar
+2001:470:24:8aa::/64,AF,MG,Madagascar
+2001:470:1f0b:110b::/64,AF,MG,Madagascar
+2602:2a9:a70::/44,AF,MG,Madagascar
+196.49.13.0/24,AF,MG,Madagascar
+74.118.126.140/30,AF,MG,Madagascar
+104.28.11.208/31,AF,MG,Madagascar
+104.28.217.106/32,AF,MG,Madagascar
+104.28.217.102/31,AF,MG,Madagascar
+41.242.96.0/20,AF,MG,Madagascar
+2a11:a580:4f00::/40,AF,MG,Madagascar
+2a04:1d46:4d00::/40,AF,MG,Madagascar
+2607:8940:2132::/47,AF,MG,Madagascar
+2a11:f142:6000::/36,AF,MG,Madagascar
+172.225.221.16/28,AF,MG,Madagascar
+102.206.28.0/22,AF,MG,Madagascar
+2a12:f002:7000::/36,AF,MG,Madagascar
+2620:171:ae::/48,AF,MG,Madagascar
+164.137.128.0/24,AF,MG,Madagascar
+2a10:bf82:4998::/45,AF,MW,Malawi
+2a10:bf80:5aa8::/45,AF,MW,Malawi
+2a10:bf83:e0a8::/45,AF,MW,Malawi
+102.211.20.0/23,AF,MW,Malawi
+2a10:bf82:4f90::/45,AF,MW,Malawi
+2a10:bf80:6458::/45,AF,MW,Malawi
+2a10:bf81:a18::/45,AF,MW,Malawi
+2a10:bf85:fc48::/45,AF,MW,Malawi
+2a10:bf85:7dc0::/45,AF,MW,Malawi
+2a10:bf80:7d50::/45,AF,MW,Malawi
+2a10:bf84:1c18::/45,AF,MW,Malawi
+2a10:bf87:d4c8::/45,AF,MW,Malawi
+2a12:bec4:12a5:87fc::/62,AF,MW,Malawi
+2a10:bf80:ff00::/45,AF,MW,Malawi
+5.62.62.244/30,AF,MW,Malawi
+2a10:bf81:3cb0::/45,AF,MW,Malawi
+2a10:bf81:3878::/45,AF,MW,Malawi
+2a10:bf87:d390::/45,AF,MW,Malawi
+2a10:bf84:a428::/45,AF,MW,Malawi
+2a10:bf80:33c8::/45,AF,MW,Malawi
+2a02:26f7:ba80:4000::/64,AS,MV,Maldives
+2600:70ff:ac5a::/48,AS,MV,Maldives
+2001:470:f36d::/48,AS,MV,Maldives
+2a04:1d45:4000::/40,AS,MV,Maldives
+104.28.243.216/31,AS,MV,Maldives
+104.28.122.81/32,AS,MV,Maldives
+196.198.128.0/24,AS,MV,Maldives
+2a02:5744:128::/48,AS,MV,Maldives
+104.28.155.6/32,AS,MV,Maldives
+2a0a:6044:f151::/48,AS,MV,Maldives
+198.54.100.20/31,AS,MV,Maldives
+2a0a:6044:779b::/48,AS,MV,Maldives
+2a04:1d47:4000::/40,AS,MV,Maldives
+104.28.179.172/30,AS,MV,Maldives
+2a04:1d43:4000::/40,AS,MV,Maldives
+103.15.52.0/22,AS,MV,Maldives
+104.28.158.68/32,AS,MV,Maldives
+2001:470:36:872::/64,AS,MV,Maldives
+104.28.211.212/30,AS,MV,Maldives
+2001:470:d:4fd::/64,AS,MV,Maldives
+164.137.239.0/24,AF,ML,Mali
+196.60.46.0/24,AF,ML,Mali
+66.102.47.192/26,AF,ML,Mali
+41.188.100.136/29,AF,ML,Mali
+85.255.21.112/28,AF,ML,Mali
+2a01:c9c0:c018::/48,AF,ML,Mali
+2a13:a5c7:25ff:9000::/56,AF,ML,Mali
+2001:43f8:10e0::/48,AF,ML,Mali
+2a04:1d44:4a00::/40,AF,ML,Mali
+2a02:26f7:c2c4:ce80::/62,AF,ML,Mali
+2001:470:26:7c9::/64,AF,ML,Mali
+2a09:bac4:478::/45,AF,ML,Mali
+2001:470:36:136::/64,AF,ML,Mali
+140.248.41.82/31,AF,ML,Mali
+197.155.128.0/18,AF,ML,Mali
+5.62.62.252/30,AF,ML,Mali
+104.28.189.174/31,AF,ML,Mali
+104.28.221.238/32,AF,ML,Mali
+102.222.204.0/22,AF,ML,Mali
+102.217.24.0/22,AF,ML,Mali
+2a12:f382:4400::/40,AF,MR,Mauritania
+2a0a:6044:faa6::/48,AF,MR,Mauritania
+159.26.127.104/30,AF,MR,Mauritania
+157.5.101.126/32,AF,MR,Mauritania
+104.28.11.236/31,AF,MR,Mauritania
+5.62.61.12/30,AF,MR,Mauritania
+2c0f:2640::/32,AF,MR,Mauritania
+2a11:f142:9000::/36,AF,MR,Mauritania
+2a04:4e41:410f::/48,AF,MR,Mauritania
+2a07:d887:9600::/40,AF,MR,Mauritania
+102.216.216.0/22,AF,MR,Mauritania
+2a12:bec4:12a5:8880::/60,AF,MR,Mauritania
+2a0f:85c1:81b:f710::/60,AF,MR,Mauritania
+41.188.100.128/29,AF,MR,Mauritania
+104.28.231.27/32,AF,MR,Mauritania
+2a02:5745:132::/48,AF,MR,Mauritania
+2a02:26f7:edc2:c560::/64,AF,MR,Mauritania
+2606:40:22e1:c000::/54,AF,MR,Mauritania
+57.82.168.0/23,AF,MR,Mauritania
+146.75.182.46/31,AF,MR,Mauritania
+2c0f:6990::/28,AF,MU,Mauritius
+196.49.126.0/23,AF,MU,Mauritius
+41.191.160.0/19,AF,MU,Mauritius
+2c0f:ecb9::/32,AF,MU,Mauritius
+2c0f:f90::/28,AF,MU,Mauritius
+2c0f:fe91::/32,AF,MU,Mauritius
+2c0f:fe40:2::73/128,AF,MU,Mauritius
+41.245.136.0/21,AF,MU,Mauritius
+2c0f:ec1a::/31,AF,MU,Mauritius
+2c0f:fcfc::/30,AF,MU,Mauritius
+2c0f:2760::/27,AF,MU,Mauritius
+2c0f:3801::/32,AF,MU,Mauritius
+2c0f:f3ca::/31,AF,MU,Mauritius
+2c0f:7082::/31,AF,MU,Mauritius
+2c0f:fe40:2:0:5:11:12:101/128,AF,MU,Mauritius
+2001:43f8:52::/47,AF,MU,Mauritius
+2001:43ff:8804::/46,AF,MU,Mauritius
+2001:4208::/29,AF,MU,Mauritius
+2c0f:15c1::/32,AF,MU,Mauritius
+2c0e:6200::/23,AF,MU,Mauritius
+2a10:bf82:ac18::/45,EU,MC,Monaco
+34.103.239.0/24,EU,MC,Monaco
+2a10:bf86:c158::/45,EU,MC,Monaco
+2a10:bf82:3448::/45,EU,MC,Monaco
+213.133.74.12/32,EU,MC,Monaco
+2a10:bf84:b408::/45,EU,MC,Monaco
+2a04:1d44:5100::/40,EU,MC,Monaco
+151.240.79.64/28,EU,MC,Monaco
+188.191.139.0/32,EU,MC,Monaco
+144.125.135.160/27,EU,MC,Monaco
+2a04:1d41:5100::/40,EU,MC,Monaco
+91.198.207.0/24,EU,MC,Monaco
+2a10:bf86:7bc0::/45,EU,MC,Monaco
+2a10:bf84:46a0::/45,EU,MC,Monaco
+69.84.203.0/26,EU,MC,Monaco
+196.196.137.0/24,EU,MC,Monaco
+165.1.191.176/31,EU,MC,Monaco
+188.191.143.112/31,EU,MC,Monaco
+2a12:bec4:12a5:26fc::/62,EU,MC,Monaco
+2a10:bf80:b2a8::/45,EU,MC,Monaco
+2001:df2:7f40::/48,AS,MN,Mongolia
+2a02:5745:138::/48,AS,MN,Mongolia
+154.219.73.0/24,AS,MN,Mongolia
+198.54.100.52/31,AS,MN,Mongolia
+2001:df3:a340::/48,AS,MN,Mongolia
+218.100.84.0/24,AS,MN,Mongolia
+2001:470:24:48a::/64,AS,MN,Mongolia
+2a02:26f7:b640:ce00::/63,AS,MN,Mongolia
+180.149.117.128/25,AS,MN,Mongolia
+103.153.141.0/24,AS,MN,Mongolia
+103.98.68.0/22,AS,MN,Mongolia
+2a0a:6044:f16e::/48,AS,MN,Mongolia
+2400:d4e0::/32,AS,MN,Mongolia
+2a0a:6044:77fe:92::/64,AS,MN,Mongolia
+196.48.138.0/24,AS,MN,Mongolia
+2a0a:6044:f168::/46,AS,MN,Mongolia
+2001:470:8c1c::/48,AS,MN,Mongolia
+2a10:500:5800::/40,AS,MN,Mongolia
+103.254.120.0/23,AS,MN,Mongolia
+146.75.154.4/30,AS,MN,Mongolia
+185.12.40.0/22,EU,ME,Montenegro
+2a12:bec4:12a5:26e5::/64,EU,ME,Montenegro
+104.28.11.201/32,EU,ME,Montenegro
+2001:470:f63d::/48,EU,ME,Montenegro
+2a12:bec4:12a5:26e8::/61,EU,ME,Montenegro
+46.161.64.0/18,EU,ME,Montenegro
+2a02:5745:139::/48,EU,ME,Montenegro
+2001:67c:f94::/48,EU,ME,Montenegro
+213.206.136.238/32,EU,ME,Montenegro
+2a07:d887:8b00::/40,EU,ME,Montenegro
+104.28.98.72/31,EU,ME,Montenegro
+2a05:7b40::/29,EU,ME,Montenegro
+147.90.21.0/24,EU,ME,Montenegro
+178.254.179.0/24,EU,ME,Montenegro
+2a0f:9403:510::/44,EU,ME,Montenegro
+104.28.130.102/31,EU,ME,Montenegro
+212.134.229.0/24,EU,ME,Montenegro
+150.48.141.112/31,EU,ME,Montenegro
+2001:470:d:895::/64,EU,ME,Montenegro
+2a10:9007:4:1::/64,EU,ME,Montenegro
+2a10:500:2b00::/40,AF,MA,Morocco
+81.192.152.0/21,AF,MA,Morocco
+46.229.251.80/31,AF,MA,Morocco
+81.192.147.192/26,AF,MA,Morocco
+85.237.97.192/27,AF,MA,Morocco
+162.120.213.165/32,AF,MA,Morocco
+41.216.224.0/22,AF,MA,Morocco
+196.245.140.0/22,AF,MA,Morocco
+41.77.119.0/29,AF,MA,Morocco
+2a0a:6044:fab6::/47,AF,MA,Morocco
+161.69.22.52/32,AF,MA,Morocco
+2a04:1d44:5200::/40,AF,MA,Morocco
+157.167.231.132/32,AF,MA,Morocco
+185.143.7.88/30,AF,MA,Morocco
+2001:43ff:3000::/48,AF,MA,Morocco
+95.181.232.0/24,AF,MA,Morocco
+2c0f:fb20::/32,AF,MA,Morocco
+2a09:bac6:48b0::/44,AF,MA,Morocco
+2a02:26f7:c304:4940::/60,AF,MA,Morocco
+104.28.174.96/30,AF,MA,Morocco
+157.167.237.87/32,AF,MZ,Mozambique
+2a10:bf80:2d08::/45,AF,MZ,Mozambique
+2a10:bf85:d2a8::/45,AF,MZ,Mozambique
+2a10:bf83:5ed8::/45,AF,MZ,Mozambique
+2a10:bf86:4c00::/45,AF,MZ,Mozambique
+2a10:bf85:50b0::/45,AF,MZ,Mozambique
+2a10:bf83:f800::/45,AF,MZ,Mozambique
+2a10:bf81:e5c0::/45,AF,MZ,Mozambique
+2a10:bf81:c970::/45,AF,MZ,Mozambique
+2a10:bf84:2378::/45,AF,MZ,Mozambique
+157.167.237.88/32,AF,MZ,Mozambique
+2a10:bf82:1568::/45,AF,MZ,Mozambique
+5.62.63.34/31,AF,MZ,Mozambique
+196.56.141.0/24,AF,MZ,Mozambique
+2a10:bf80:ecf0::/45,AF,MZ,Mozambique
+2a10:bf80:4ae8::/45,AF,MZ,Mozambique
+2a10:bf87:8750::/45,AF,MZ,Mozambique
+2a10:bf87:e140::/45,AF,MZ,Mozambique
+2a10:bf86:f828::/45,AF,MZ,Mozambique
+2a10:bf87:4670::/45,AF,MZ,Mozambique
+103.219.156.0/22,AS,MM,Myanmar
+2a02:26f7:d500:4000::/64,AS,MM,Myanmar
+117.55.252.0/23,AS,MM,Myanmar
+2001:470:1f13:3d4::/64,AS,MM,Myanmar
+208.127.223.194/31,AS,MM,Myanmar
+103.139.208.0/23,AS,MM,Myanmar
+2400:e160::/32,AS,MM,Myanmar
+103.149.50.0/23,AS,MM,Myanmar
+103.135.37.0/24,AS,MM,Myanmar
+196.199.142.0/24,AS,MM,Myanmar
+63.246.42.64/26,AS,MM,Myanmar
+128.1.124.0/24,AS,MM,Myanmar
+2001:470:8cdd::/48,AS,MM,Myanmar
+5.62.63.38/31,AS,MM,Myanmar
+2600:70ff:ac58::/48,AS,MM,Myanmar
+208.127.221.136/29,AS,MM,Myanmar
+2001:df0:8940::/48,AS,MM,Myanmar
+160.25.32.0/24,AS,MM,Myanmar
+104.28.156.184/31,AS,MM,Myanmar
+2001:470:36:39a::/64,AS,MM,Myanmar
+104.28.232.59/32,AF,NA,Namibia
+2a04:1d44:3b00::/40,AF,NA,Namibia
+2a04:1d47:3b00::/40,AF,NA,Namibia
+41.182.0.0/16,AF,NA,Namibia
+41.218.79.224/28,AF,NA,Namibia
+196.44.148.192/27,AF,NA,Namibia
+2a12:bec4:12a8:a500::/56,AF,NA,Namibia
+2a0b:4342:a:4::/62,AF,NA,Namibia
+196.44.149.0/24,AF,NA,Namibia
+41.218.114.56/29,AF,NA,Namibia
+41.218.113.16/28,AF,NA,Namibia
+2607:8940:4171:8700::/56,AF,NA,Namibia
+41.218.116.224/27,AF,NA,Namibia
+41.218.105.128/27,AF,NA,Namibia
+2a0b:4342:a:0:100:92:20:0/107,AF,NA,Namibia
+146.75.182.48/31,AF,NA,Namibia
+41.218.112.32/29,AF,NA,Namibia
+196.216.63.144/28,AF,NA,Namibia
+196.216.54.255/32,AF,NA,Namibia
+196.216.49.232/29,AF,NA,Namibia
+103.175.192.0/23,AS,NP,Nepal
+2400:9700::/32,AS,NP,Nepal
+154.95.68.0/24,AS,NP,Nepal
+103.90.84.0/22,AS,NP,Nepal
+131.229.248.146/32,AS,NP,Nepal
+2001:df5:5040::/48,AS,NP,Nepal
+2001:470:1f15:b9::/64,AS,NP,Nepal
+2a09:bac1:5660::/64,AS,NP,Nepal
+104.28.158.183/32,AS,NP,Nepal
+2400:cb00:695::/48,AS,NP,Nepal
+103.127.48.0/23,AS,NP,Nepal
+131.229.170.146/32,AS,NP,Nepal
+140.248.38.40/31,AS,NP,Nepal
+103.114.24.0/22,AS,NP,Nepal
+103.93.122.0/23,AS,NP,Nepal
+2001:df5:6380::/48,AS,NP,Nepal
+160.30.132.0/24,AS,NP,Nepal
+131.229.192.18/32,AS,NP,Nepal
+2001:df3:5840::/48,AS,NP,Nepal
+2400:cb00:347::/48,AS,NP,Nepal
+104.28.60.118/32,AF,NE,Niger
+2607:8940:216a::/47,AF,NE,Niger
+85.255.21.80/28,AF,NE,Niger
+51.124.219.160/28,AF,NE,Niger
+51.124.232.123/32,AF,NE,Niger
+2a12:f006:f000::/36,AF,NE,Niger
+2a0c:9a46:3fe:a1::/64,AF,NE,Niger
+51.124.219.200/30,AF,NE,Niger
+109.70.128.194/31,AF,NE,Niger
+2c0f:6880::/32,AF,NE,Niger
+154.127.80.0/20,AF,NE,Niger
+2a02:26f7:ed88:c600::/64,AF,NE,Niger
+2a14:c380:7f6::/48,AF,NE,Niger
+2a09:bac1:5320::/64,AF,NE,Niger
+172.225.159.48/28,AF,NE,Niger
+2a02:5740:148::/48,AF,NE,Niger
+2a02:5746:148::/48,AF,NE,Niger
+196.56.148.0/24,AF,NE,Niger
+2a02:26f7:ed8c:c600::/64,AF,NE,Niger
+196.198.148.0/24,AF,NE,Niger
+41.76.152.0/21,AF,NG,Nigeria
+64.91.241.87/32,AF,NG,Nigeria
+2a02:26f7:ed4c:d5e6::/63,AF,NG,Nigeria
+41.58.0.0/16,AF,NG,Nigeria
+2a09:bac1:5420:80::/64,AF,NG,Nigeria
+67.225.149.82/31,AF,NG,Nigeria
+2c0f:7000::/32,AF,NG,Nigeria
+172.111.128.0/24,AF,NG,Nigeria
+162.120.187.245/32,AF,NG,Nigeria
+2a10:bf83:1f88::/45,AF,NG,Nigeria
+102.205.92.0/22,AF,NG,Nigeria
+2a02:26f7:ed42:d5ec::/64,AF,NG,Nigeria
+102.38.208.0/20,AF,NG,Nigeria
+104.28.199.104/30,AF,NG,Nigeria
+2a10:bf86:6020::/45,AF,NG,Nigeria
+2a10:bf83:3040::/45,AF,NG,Nigeria
+79.99.198.168/29,AF,NG,Nigeria
+196.223.112.0/20,AF,NG,Nigeria
+197.255.0.0/18,AF,NG,Nigeria
+2a02:26f7:ed4c:d5ec::/64,AF,NG,Nigeria
+206.84.152.0/21,AS,PK,Pakistan
+94.103.189.0/24,AS,PK,Pakistan
+221.120.192.0/18,AS,PK,Pakistan
+2a10:bf87:cb70::/45,AS,PK,Pakistan
+2a10:bf82:6130::/45,AS,PK,Pakistan
+2a10:bf87:3c40::/45,AS,PK,Pakistan
+103.101.232.0/24,AS,PK,Pakistan
+2a10:bf87:4a80::/45,AS,PK,Pakistan
+103.203.88.0/23,AS,PK,Pakistan
+5.133.205.96/31,AS,PK,Pakistan
+104.28.223.144/30,AS,PK,Pakistan
+2001:470:1f11:7d::/64,AS,PK,Pakistan
+2001:dec:8000::/48,AS,PK,Pakistan
+62.75.179.237/32,AS,PK,Pakistan
+148.64.22.160/27,AS,PK,Pakistan
+2a10:bf85:f098::/45,AS,PK,Pakistan
+62.75.238.84/32,AS,PK,Pakistan
+139.190.212.0/24,AS,PK,Pakistan
+2001:df0:16c0::/48,AS,PK,Pakistan
+123.108.92.0/22,AS,PK,Pakistan
+2a02:26f7:c84d:4000::/64,AF,DJ,Djibouti
+154.209.21.0/24,AF,DJ,Djibouti
+2a09:bac3:2fd8::/45,AF,DJ,Djibouti
+2a04:1d47:b500::/40,AF,DJ,Djibouti
+104.28.9.138/31,AF,DJ,Djibouti
+2600:70ff:d814::/48,AF,DJ,Djibouti
+2a02:26f7:c849:4000::/64,AF,DJ,Djibouti
+157.5.101.38/32,AF,DJ,Djibouti
+2a04:1d41:b500::/40,AF,DJ,Djibouti
+185.112.132.63/32,AF,DJ,Djibouti
+196.49.10.0/24,AF,DJ,Djibouti
+164.137.226.0/24,AF,DJ,Djibouti
+104.28.27.56/30,AF,DJ,Djibouti
+2a0c:9a46:3fe:39::/64,AF,DJ,Djibouti
+41.189.224.0/22,AF,DJ,Djibouti
+149.11.242.194/31,AF,DJ,Djibouti
+2606:40:a48::/48,AF,DJ,Djibouti
+196.48.76.0/24,AF,DJ,Djibouti
+164.137.117.0/24,AF,DJ,Djibouti
+2a0a:6044:77fe:39::/64,AF,DJ,Djibouti
+88.202.9.0/24,AF,CG,Republic of the Congo
+2a09:bac1:16e0::/64,AF,CG,Republic of the Congo
+2a02:26f7:f00c:4000::/64,AF,CG,Republic of the Congo
+2001:470:1f1b:c3::/64,AF,CG,Republic of the Congo
+164.160.16.0/22,AF,CG,Republic of the Congo
+102.204.124.0/24,AF,CG,Republic of the Congo
+2001:470:72d6::/48,AF,CG,Republic of the Congo
+102.129.80.0/20,AF,CG,Republic of the Congo
+2606:54c0:1d58::/45,AF,CG,Republic of the Congo
+2a07:d887:2900::/40,AF,CG,Republic of the Congo
+104.28.82.21/32,AF,CG,Republic of the Congo
+194.50.99.42/32,AF,CG,Republic of the Congo
+102.67.169.52/30,AF,CG,Republic of the Congo
+104.28.201.210/31,AF,CG,Republic of the Congo
+2a02:5746:163::/48,AF,CG,Republic of the Congo
+2a02:26f7:f00c:caa0::/63,AF,CG,Republic of the Congo
+2a02:26f7:f000:4000::/64,AF,CG,Republic of the Congo
+2a04:4e41:4e04::/48,AF,CG,Republic of the Congo
+2a13:a5c7:25ff:2900::/56,AF,CG,Republic of the Congo
+2a09:bac1:1680::/64,AF,CG,Republic of the Congo
+2a04:1d43:1f00::/40,AF,RW,Rwanda
+2a02:5741:164::/48,AF,RW,Rwanda
+41.197.0.0/19,AF,RW,Rwanda
+102.22.128.0/18,AF,RW,Rwanda
+2a00:ca0:2002:e000::/52,AF,RW,Rwanda
+79.135.105.128/30,AF,RW,Rwanda
+102.207.141.0/24,AF,RW,Rwanda
+2a09:bac1:6260::/64,AF,RW,Rwanda
+95.210.62.0/24,AF,RW,Rwanda
+2a04:4e41:1325::/48,AF,RW,Rwanda
+164.137.141.0/24,AF,RW,Rwanda
+102.130.32.0/21,AF,RW,Rwanda
+41.197.46.0/24,AF,RW,Rwanda
+185.138.17.133/32,AF,RW,Rwanda
+2a12:bec4:12a5:8c85::/64,AF,RW,Rwanda
+157.5.101.155/32,AF,RW,Rwanda
+2a02:26f7:db8d:4000::/64,AF,RW,Rwanda
+102.211.72.0/22,AF,RW,Rwanda
+104.28.174.194/31,AF,RW,Rwanda
+2a09:bac3:5110::/45,AF,RW,Rwanda
+2607:8940:4240:4900::/56,AF,SH,Saint Helena
+2a0c:9a46:3c7::/48,AF,SH,Saint Helena
+2a0b:4e07:68::/47,AF,SH,Saint Helena
+2a12:bec4:12a5:9230::/60,AF,SH,Saint Helena
+2606:40:1240::/43,AF,SH,Saint Helena
+2a09:4c0:cd00::/40,AF,SH,Saint Helena
+2a14:7584:e7ae::/47,AF,SH,Saint Helena
+162.120.214.14/32,AF,SH,Saint Helena
+2a12:f381:1700::/40,AF,SH,Saint Helena
+136.23.1.141/32,AF,SH,Saint Helena
+5.62.61.112/30,AF,SH,Saint Helena
+2a04:1d43:1700::/40,AF,SH,Saint Helena
+2a14:7580:cfc6::/48,AF,SH,Saint Helena
+104.28.13.16/31,AF,SH,Saint Helena
+2a14:7581:be0:a380::/58,AF,SH,Saint Helena
+2a0c:9a46:3fe:c6::/64,AF,SH,Saint Helena
+2a14:7584:eff3::/48,AF,SH,Saint Helena
+2a13:a5c7:25ff:c600::/56,AF,SH,Saint Helena
+157.5.84.73/32,AF,SH,Saint Helena
+185.198.10.70/32,AF,SH,Saint Helena
+185.21.119.128/25,EU,SM,San Marino
+2a02:5741:169::/48,EU,SM,San Marino
+104.28.60.168/31,EU,SM,San Marino
+2a0a:6044:77fe:cb::/64,EU,SM,San Marino
+2606:40:2190:a000::/54,EU,SM,San Marino
+2a02:5744:169::/48,EU,SM,San Marino
+2a09:bac6:5618::/45,EU,SM,San Marino
+157.5.85.126/32,EU,SM,San Marino
+192.145.48.0/22,EU,SM,San Marino
+193.84.183.240/28,EU,SM,San Marino
+2a07:50c0::/29,EU,SM,San Marino
+5.62.63.98/31,EU,SM,San Marino
+185.146.131.0/24,EU,SM,San Marino
+104.28.213.248/32,EU,SM,San Marino
+2606:54c3:0:864::/64,EU,SM,San Marino
+2a12:bec4:12a8:d100::/56,EU,SM,San Marino
+77.242.208.0/20,EU,SM,San Marino
+213.152.194.128/26,EU,SM,San Marino
+109.233.80.0/21,EU,SM,San Marino
+78.108.62.80/28,EU,SM,San Marino
+2a02:5746:170::/48,AF,ST,Sao Tome and Principe
+2a02:26f7:eccd:4000::/64,AF,ST,Sao Tome and Principe
+196.48.170.0/24,AF,ST,Sao Tome and Principe
+2606:54c3:0:192e::/64,AF,ST,Sao Tome and Principe
+150.228.96.0/23,AF,ST,Sao Tome and Principe
+2a04:1d41:ee00::/40,AF,ST,Sao Tome and Principe
+2a0e:97c0:4bd2::/48,AF,ST,Sao Tome and Principe
+2a09:bac1:6aa0::/64,AF,ST,Sao Tome and Principe
+2a02:26f7:eccc:c7e0::/64,AF,ST,Sao Tome and Principe
+102.206.44.0/22,AF,ST,Sao Tome and Principe
+2a02:26f7:ecc2:c7e0::/64,AF,ST,Sao Tome and Principe
+2a12:f005::/36,AF,ST,Sao Tome and Principe
+136.23.4.97/32,AF,ST,Sao Tome and Principe
+197.159.160.0/19,AF,ST,Sao Tome and Principe
+2a14:67c2:865::/48,AF,ST,Sao Tome and Principe
+2001:470:36:19e::/64,AF,ST,Sao Tome and Principe
+2a09:bac3:5558::/45,AF,ST,Sao Tome and Principe
+104.28.13.48/32,AF,ST,Sao Tome and Principe
+2a04:1d45:ee00::/40,AF,ST,Sao Tome and Principe
+2a02:26f7:ecc5:4000::/64,AF,ST,Sao Tome and Principe
+2a10:bf86:6108::/45,AF,SN,Senegal
+2a10:bf86:7c18::/45,AF,SN,Senegal
+2a10:bf80:8d60::/45,AF,SN,Senegal
+2a10:bf87:12e0::/45,AF,SN,Senegal
+2a02:26f7:c4c4:ce22::/64,AF,SN,Senegal
+41.216.216.0/27,AF,SN,Senegal
+154.73.172.0/22,AF,SN,Senegal
+2a10:bf80:fb40::/45,AF,SN,Senegal
+2a10:bf86:cb80::/45,AF,SN,Senegal
+2606:40:2241:e000::/54,AF,SN,Senegal
+2604:b040:13::4:5:0/112,AF,SN,Senegal
+2a10:bf84:d530::/45,AF,SN,Senegal
+2a10:bf81:ba78::/45,AF,SN,Senegal
+2a10:bf85:5e50::/45,AF,SN,Senegal
+2605:59c8:5400::/40,AF,SN,Senegal
+2a10:bf87:910::/45,AF,SN,Senegal
+2a10:bf83:57b0::/45,AF,SN,Senegal
+2a10:bf80:f098::/45,AF,SN,Senegal
+2c0f:f170:6000::/35,AF,SN,Senegal
+2001:43f8:17a0::/48,AF,SN,Senegal
+2a09:4c0:d100::/40,AF,SL,Sierra Leone
+193.118.245.184/29,AF,SL,Sierra Leone
+197.215.84.0/23,AF,SL,Sierra Leone
+195.110.176.0/21,AF,SL,Sierra Leone
+77.70.157.84/30,AF,SL,Sierra Leone
+41.191.251.0/24,AF,SL,Sierra Leone
+185.112.132.81/32,AF,SL,Sierra Leone
+2607:8940:21ae::/47,AF,SL,Sierra Leone
+102.210.52.0/24,AF,SL,Sierra Leone
+74.118.126.196/30,AF,SL,Sierra Leone
+162.120.204.80/32,AF,SL,Sierra Leone
+5.62.61.136/30,AF,SL,Sierra Leone
+102.176.188.0/22,AF,SL,Sierra Leone
+197.215.126.128/25,AF,SL,Sierra Leone
+57.82.158.0/23,AF,SL,Sierra Leone
+104.28.178.139/32,AF,SL,Sierra Leone
+197.215.115.0/24,AF,SL,Sierra Leone
+5.62.63.117/32,AF,SL,Sierra Leone
+2a02:26f7:cac6:c760::/64,AF,SL,Sierra Leone
+2a02:26f7:cac2:c760::/64,AF,SL,Sierra Leone
+154.72.48.0/22,AF,SO,Somalia
+2001:678:10ec:f004::/64,AF,SO,Somalia
+2606:40:14e0::/44,AF,SO,Somalia
+2a11:f143:5000::/36,AF,SO,Somalia
+196.199.178.0/24,AF,SO,Somalia
+196.192.171.124/30,AF,SO,Somalia
+2001:470:24:3d6::/64,AF,SO,Somalia
+103.243.66.232/29,AF,SO,Somalia
+41.138.248.96/28,AF,SO,Somalia
+102.128.128.0/21,AF,SO,Somalia
+102.223.188.0/22,AF,SO,Somalia
+2a12:bec4:12a5:8d6e::/64,AF,SO,Somalia
+67.227.241.181/32,AF,SO,Somalia
+2606:54c0:5538::/45,AF,SO,Somalia
+192.145.168.0/21,AF,SO,Somalia
+2a07:d887:cc00::/40,AF,SO,Somalia
+2001:470:8835::/48,AF,SO,Somalia
+2001:470:7c:30a::/64,AF,SO,Somalia
+2a00:ca0:201c:a000::/52,AF,SO,Somalia
+2001:470:89b1::/48,AF,SO,Somalia
+2001:470:b:52e::/63,AS,LK,Sri Lanka
+153.80.135.0/24,AS,LK,Sri Lanka
+2a09:bac0:237::/48,AS,LK,Sri Lanka
+45.200.174.0/24,AS,LK,Sri Lanka
+2a0f:9403:8a0::/44,AS,LK,Sri Lanka
+157.167.232.25/32,AS,LK,Sri Lanka
+119.235.10.0/24,AS,LK,Sri Lanka
+157.167.232.26/32,AS,LK,Sri Lanka
+150.48.166.16/28,AS,LK,Sri Lanka
+2001:470:b:3ca::/64,AS,LK,Sri Lanka
+2607:8940:41a1:8900::/56,AS,LK,Sri Lanka
+104.28.166.147/32,AS,LK,Sri Lanka
+2a0f:85c1:81b:fa60::/60,AS,LK,Sri Lanka
+172.226.43.128/26,AS,LK,Sri Lanka
+203.81.96.0/20,AS,LK,Sri Lanka
+2001:470:b:4ff::/64,AS,LK,Sri Lanka
+2a04:4e41:5e10::/48,AS,LK,Sri Lanka
+91.218.176.0/23,AS,LK,Sri Lanka
+203.189.64.0/20,AS,LK,Sri Lanka
+23.209.80.0/23,AS,LK,Sri Lanka
+102.218.99.0/24,AF,SD,Sudan
+2001:470:b:25a::/64,AF,SD,Sudan
+104.28.80.248/31,AF,SD,Sudan
+2a09:bac1:6400::/64,AF,SD,Sudan
+104.28.212.188/30,AF,SD,Sudan
+74.244.188.0/23,AF,SD,Sudan
+62.12.96.0/20,AF,SD,Sudan
+104.28.172.4/31,AF,SD,Sudan
+2a10:9007:2:18::/64,AF,SD,Sudan
+159.26.127.140/30,AF,SD,Sudan
+2001:470:e99a::/48,AF,SD,Sudan
+2a14:67c2:88d::/48,AF,SD,Sudan
+104.28.98.95/32,AF,SD,Sudan
+2a0c:9a46:3fe:c3::/64,AF,SD,Sudan
+79.135.105.148/30,AF,SD,Sudan
+196.29.160.0/19,AF,SD,Sudan
+2a06:9f81:56c2::/48,AF,SD,Sudan
+104.28.212.192/32,AF,SD,Sudan
+2a02:26f7:db44:4000::/64,AF,SD,Sudan
+196.199.183.0/24,AF,SD,Sudan
+2606:40:21c2::/54,EU,SJ,Svalbard and Jan Mayen
+2606:40:22e9:2000::/54,EU,SJ,Svalbard and Jan Mayen
+2606:40:16b0::/44,EU,SJ,Svalbard and Jan Mayen
+43.249.224.0/22,EU,SJ,Svalbard and Jan Mayen
+136.23.4.176/32,EU,SJ,Svalbard and Jan Mayen
+2a13:a5c7:25c8::/48,EU,SJ,Svalbard and Jan Mayen
+2607:8940:4163:fd00::/56,EU,SJ,Svalbard and Jan Mayen
+2a12:bec4:12a5:2878::/61,EU,SJ,Svalbard and Jan Mayen
+2600:70ff:aaa3::/48,EU,SJ,Svalbard and Jan Mayen
+2a0d:3344:1264::/47,EU,SJ,Svalbard and Jan Mayen
+2a0a:6040:f33::/48,EU,SJ,Svalbard and Jan Mayen
+2a0d:3344:1258::/45,EU,SJ,Svalbard and Jan Mayen
+157.5.107.253/32,EU,SJ,Svalbard and Jan Mayen
+2a0d:3344:1260::/46,EU,SJ,Svalbard and Jan Mayen
+2606:40:16c0::/44,EU,SJ,Svalbard and Jan Mayen
+2a04:1d41:1500::/40,EU,SJ,Svalbard and Jan Mayen
+2a14:1c7:2800::/37,EU,SJ,Svalbard and Jan Mayen
+2600:70ff:a952::/48,EU,SJ,Svalbard and Jan Mayen
+2a0d:3344:1278::/45,EU,SJ,Svalbard and Jan Mayen
+2a09:bac4:638::/45,EU,SJ,Svalbard and Jan Mayen
+2a02:5740:191::/48,AF,TG,Togo
+2a09:bac3:55b8::/45,AF,TG,Togo
+146.75.185.178/31,AF,TG,Togo
+2001:67c:a38:f228::/64,AF,TG,Togo
+41.207.160.0/19,AF,TG,Togo
+95.210.138.0/23,AF,TG,Togo
+2a10:500:3a00::/40,AF,TG,Togo
+2a0a:6044:77d9::/48,AF,TG,Togo
+2607:8940:21d2::/47,AF,TG,Togo
+2a00:ca0:203b:4000::/50,AF,TG,Togo
+104.28.193.149/32,AF,TG,Togo
+104.28.193.152/31,AF,TG,Togo
+2a04:1d41:e600::/40,AF,TG,Togo
+104.28.193.150/31,AF,TG,Togo
+2a0f:85c1:81b:fb10::/60,AF,TG,Togo
+102.217.12.0/22,AF,TG,Togo
+2a02:26f7:c444:4000::/64,AF,TG,Togo
+172.225.179.16/28,AF,TG,Togo
+2a13:a5c7:25d8::/48,AF,TG,Togo
+2a02:26f7:c44c:4000::/64,AF,TG,Togo
+2a09:bac1:71e0::/64,AF,TN,Tunisia
+102.219.176.0/22,AF,TN,Tunisia
+2a12:f381:ff00::/40,AF,TN,Tunisia
+14.139.173.160/28,AF,TN,Tunisia
+161.69.16.10/32,AF,TN,Tunisia
+104.28.243.80/30,AF,TN,Tunisia
+196.184.0.0/14,AF,TN,Tunisia
+2a04:5fc0::/29,AF,TN,Tunisia
+2607:8940:4191:b600::/55,AF,TN,Tunisia
+2c0f:f7c8::/32,AF,TN,Tunisia
+155.2.175.112/29,AF,TN,Tunisia
+2606:40:1600::/44,AF,TN,Tunisia
+2001:470:1f2f:21::/64,AF,TN,Tunisia
+131.229.150.10/32,AF,TN,Tunisia
+57.82.40.0/22,AF,TN,Tunisia
+2a0a:6044:77fe:de::/64,AF,TN,Tunisia
+104.28.146.191/32,AF,TN,Tunisia
+85.237.118.6/32,AF,TN,Tunisia
+2a00:ca0:205a:a000::/52,AF,TN,Tunisia
+148.230.46.224/32,AF,TN,Tunisia
+2001:470:1f07:a25::/64,AS,TM,Turkmenistan
+2a04:4e41:218::/48,AS,TM,Turkmenistan
+2a02:26f7:da44:4000::/64,AS,TM,Turkmenistan
+2a10:9007:0:5::/64,AS,TM,Turkmenistan
+2a04:1d46:e100::/40,AS,TM,Turkmenistan
+136.23.21.35/32,AS,TM,Turkmenistan
+192.109.41.240/29,AS,TM,Turkmenistan
+2606:40:1190::/44,AS,TM,Turkmenistan
+196.48.195.0/24,AS,TM,Turkmenistan
+2a09:bac1:7120::/64,AS,TM,Turkmenistan
+45.89.99.68/30,AS,TM,Turkmenistan
+2001:470:36:1206::/64,AS,TM,Turkmenistan
+194.117.52.192/26,AS,TM,Turkmenistan
+2a02:5743:195::/48,AS,TM,Turkmenistan
+2001:470:1f1b:3dc::/64,AS,TM,Turkmenistan
+2607:8940:3d30::/46,AS,TM,Turkmenistan
+2a13:a5c7:25dd::/48,AS,TM,Turkmenistan
+5.62.63.170/31,AS,TM,Turkmenistan
+2a0c:9a40:95be:2000::/52,AS,TM,Turkmenistan
+2607:8940:4192:2f00::/56,AS,TM,Turkmenistan
+2606:54c0:d3a0::/45,AS,YE,Yemen
+185.80.44.24/30,AS,YE,Yemen
+185.138.17.112/32,AS,YE,Yemen
+185.80.46.0/26,AS,YE,Yemen
+185.80.140.0/22,AS,YE,Yemen
+164.137.153.0/24,AS,YE,Yemen
+2a09:bac1:7c80:18::/64,AS,YE,Yemen
+2a09:bac3:d3a0::/45,AS,YE,Yemen
+2a0c:9a40:95bf:4a40::/58,AS,YE,Yemen
+2a12:f382:a00::/40,AS,YE,Yemen
+2606:40:820::/46,AS,YE,Yemen
+2a04:1d45:a00::/40,AS,YE,Yemen
+196.57.207.0/24,AS,YE,Yemen
+2a13:a5c7:25f5::/48,AS,YE,Yemen
+185.80.47.0/26,AS,YE,Yemen
+2a02:2718::/29,AS,YE,Yemen
+2a0b:4e07:3:8870::/60,AS,YE,Yemen
+196.198.207.0/24,AS,YE,Yemen
+185.80.44.64/27,AS,YE,Yemen
+185.80.44.116/30,AS,YE,Yemen
+197.221.224.160/28,AF,ZW,Zimbabwe
+2001:470:28:69f::/64,AF,ZW,Zimbabwe
+104.30.172.76/32,AF,ZW,Zimbabwe
+146.75.198.38/31,AF,ZW,Zimbabwe
+157.167.239.130/32,AF,ZW,Zimbabwe
+2a0c:9a40:95bf:6400::/55,AF,ZW,Zimbabwe
+2a09:bac1:7ee0:7d0::/64,AF,ZW,Zimbabwe
+2c0f:4a40::/32,AF,ZW,Zimbabwe
+2605:59c0:3d00::/40,AF,ZW,Zimbabwe
+41.60.214.0/24,AF,ZW,Zimbabwe
+217.74.235.0/24,AF,ZW,Zimbabwe
+196.220.96.0/19,AF,ZW,Zimbabwe
+2a0a:6044:77fe:f8::/64,AF,ZW,Zimbabwe
+2a02:26f7:d1c0:d2a8::/62,AF,ZW,Zimbabwe
+196.43.96.0/20,AF,ZW,Zimbabwe
+2a02:26f7:d1c9:4000::/64,AF,ZW,Zimbabwe
+188.164.17.0/26,AF,ZW,Zimbabwe
+2a02:26f7:d1c4:4000::/64,AF,ZW,Zimbabwe
+196.49.46.0/24,AF,ZW,Zimbabwe
+196.57.209.0/24,AF,ZW,Zimbabwe
+165.101.20.0/23,AS,AF,Afghanistan
+2a0e:b107:2113::/48,AS,AF,Afghanistan
+2401:b60:1000::/44,AS,AF,Afghanistan
+2001:470:1f13:3c4::/64,AS,AF,Afghanistan
+2a0e:b107:aee::/48,AS,AF,Afghanistan
+202.174.155.128/29,AS,AF,Afghanistan
+137.59.120.0/22,AS,AF,Afghanistan
+2001:470:216a::/48,AS,AF,Afghanistan
+2a0c:9a46:3fe:2::/64,AS,AF,Afghanistan
+103.212.160.0/23,AS,AF,Afghanistan
+2a0b:4e07:3:40::/60,AS,AF,Afghanistan
+2001:470:1f1b:340::/64,AS,AF,Afghanistan
+2001:470:24:28::/64,AS,AF,Afghanistan
+103.112.177.0/24,AS,AF,Afghanistan
+2001:470:1f29:2dd::/64,AS,AF,Afghanistan
+67.227.204.24/32,AS,AF,Afghanistan
+2407:6b40::/32,AS,AF,Afghanistan
+196.198.32.0/24,AS,AF,Afghanistan
+2001:470:1f21:10::/64,AS,AF,Afghanistan
+2001:470:71:6b8::/64,AS,AF,Afghanistan
+37.35.64.128/25,EU,AL,Albania
+46.99.113.0/24,EU,AL,Albania
+185.224.100.0/22,EU,AL,Albania
+2001:3786:9600::/41,EU,AL,Albania
+45.12.35.0/24,EU,AL,Albania
+2001:3786:5008:1000::/52,EU,AL,Albania
+185.190.135.0/24,EU,AL,Albania
+2001:3786:2016::/47,EU,AL,Albania
+209.23.44.0/22,EU,AL,Albania
+178.132.217.246/31,EU,AL,Albania
+91.148.239.224/28,EU,AL,Albania
+162.120.216.48/32,EU,AL,Albania
+94.100.60.32/27,EU,AL,Albania
+199.168.120.0/22,EU,AL,Albania
+2a03:4b80:ca::/48,EU,AL,Albania
+185.53.100.0/22,EU,AL,Albania
+2a0f:f44:b004::/46,EU,AL,Albania
+2001:3786:bb98::/48,EU,AL,Albania
+2a12:4045::/32,EU,AL,Albania
+154.50.208.36/32,EU,AL,Albania
+2001:470:b62f::/48,AF,DZ,Algeria
+2604:b040:13:1400:0:2:1:0/112,AF,DZ,Algeria
+2a0f:1cc5:1f6a::/48,AF,DZ,Algeria
+102.218.188.0/22,AF,DZ,Algeria
+162.120.187.52/31,AF,DZ,Algeria
+2607:740:4b::/48,AF,DZ,Algeria
+2a04:4e41:7807::/48,AF,DZ,Algeria
+150.48.150.32/31,AF,DZ,Algeria
+157.167.239.29/32,AF,DZ,Algeria
+157.167.231.196/32,AF,DZ,Algeria
+2a13:a5c7:253e::/48,AF,DZ,Algeria
+2001:470:19:ac::/64,AF,DZ,Algeria
+2001:470:26:47d::/64,AF,DZ,Algeria
+2001:4b50:ce0::/48,AF,DZ,Algeria
+41.210.122.64/26,AF,DZ,Algeria
+157.167.237.30/32,AF,DZ,Algeria
+157.167.229.29/32,AF,DZ,Algeria
+196.46.253.0/24,AF,DZ,Algeria
+2a0a:6040:f6a::/48,AF,DZ,Algeria
+157.167.240.145/32,AF,DZ,Algeria
+2401:b60:1010::/44,EU,AX,Aland Islands
+2a02:26f7:d198:e046::/64,EU,AX,Aland Islands
+2a0b:c142::/31,EU,AX,Aland Islands
+2a09:bac1:960::/64,EU,AX,Aland Islands
+194.110.177.96/28,EU,AX,Aland Islands
+213.204.37.192/27,EU,AX,Aland Islands
+185.36.150.144/28,EU,AX,Aland Islands
+2001:470:1f0f:20d::/64,EU,AX,Aland Islands
+194.110.184.160/27,EU,AX,Aland Islands
+194.110.179.152/29,EU,AX,Aland Islands
+2a0a:6044:77fe:e::/64,EU,AX,Aland Islands
+2001:470:df5c::/48,EU,AX,Aland Islands
+2001:470:1f13:3b3::/64,EU,AX,Aland Islands
+79.133.0.0/19,EU,AX,Aland Islands
+2a04:4e41:180b::/48,EU,AX,Aland Islands
+213.204.37.64/27,EU,AX,Aland Islands
+104.28.8.84/31,EU,AX,Aland Islands
+2401:b60:e01d::/48,EU,AX,Aland Islands
+104.28.27.103/32,EU,AX,Aland Islands
+5.62.63.245/32,EU,AX,Aland Islands
+2a0a:3440:40::/42,EU,IM,Isle of Man
+2001:470:1f0b:199::/64,EU,IM,Isle of Man
+193.31.213.120/29,EU,IM,Isle of Man
+2a02:26f7:fa89:4000::/64,EU,IM,Isle of Man
+62.197.148.0/24,EU,IM,Isle of Man
+136.23.0.241/32,EU,IM,Isle of Man
+83.218.21.64/26,EU,IM,Isle of Man
+213.137.22.128/25,EU,IM,Isle of Man
+213.137.24.68/30,EU,IM,Isle of Man
+213.137.7.72/29,EU,IM,Isle of Man
+2607:8940:4182:fa00::/56,EU,IM,Isle of Man
+81.88.172.32/28,EU,IM,Isle of Man
+5.62.91.119/32,EU,IM,Isle of Man
+109.70.47.172/30,EU,IM,Isle of Man
+2a14:c380:714::/48,EU,IM,Isle of Man
+81.88.161.200/29,EU,IM,Isle of Man
+81.88.161.64/26,EU,IM,Isle of Man
+104.28.86.138/31,EU,IM,Isle of Man
+83.218.16.120/29,EU,IM,Isle of Man
+81.88.163.208/28,EU,IM,Isle of Man
+104.28.207.184/31,EU,GG,Guernsey
+195.226.147.24/29,EU,GG,Guernsey
+2a09:bac5:38b0::/45,EU,GG,Guernsey
+93.189.161.0/24,EU,GG,Guernsey
+2a12:bec0:393::/48,EU,GG,Guernsey
+2a07:2fc0:2::/47,EU,GG,Guernsey
+78.41.6.64/27,EU,GG,Guernsey
+78.41.7.236/30,EU,GG,Guernsey
+195.226.130.16/30,EU,GG,Guernsey
+2a07:2fc2::/31,EU,GG,Guernsey
+2a0a:6044:f4ea::/48,EU,GG,Guernsey
+85.204.71.0/24,EU,GG,Guernsey
+2a0d:3341:fa00::/40,EU,GG,Guernsey
+2a0c:9a46:351::/48,EU,GG,Guernsey
+78.41.6.224/29,EU,GG,Guernsey
+2a14:1c6:4000::/37,EU,GG,Guernsey
+93.187.6.0/23,EU,GG,Guernsey
+2a07:2fc0:2000::/35,EU,GG,Guernsey
+195.226.147.52/32,EU,GG,Guernsey
+2a0d:3344:640::/42,EU,GG,Guernsey
+104.28.199.165/32,AF,YT,Mayotte
+104.28.46.16/32,AF,YT,Mayotte
+41.75.89.148/30,AF,YT,Mayotte
+2a09:bac5:d4a8::/45,AF,YT,Mayotte
+194.3.218.19/32,AF,YT,Mayotte
+2a0a:6044:f5ae::/47,AF,YT,Mayotte
+194.3.219.0/24,AF,YT,Mayotte
+2001:470:36:3e7::/64,AF,YT,Mayotte
+140.248.41.92/31,AF,YT,Mayotte
+2a04:4e41:7424::/48,AF,YT,Mayotte
+2a0a:6044:f5b8::/46,AF,YT,Mayotte
+2a09:bac1:7d00::/64,AF,YT,Mayotte
+194.3.194.0/23,AF,YT,Mayotte
+2a01:cb22:8000::/41,AF,YT,Mayotte
+109.122.176.0/20,AF,YT,Mayotte
+2a0a:6044:77f6::/48,AF,YT,Mayotte
+194.3.202.38/31,AF,YT,Mayotte
+2607:8940:21f6::/47,AF,YT,Mayotte
+2606:54c3:0:1455::/64,AF,YT,Mayotte
+2a09:bac4:17a0::/45,AF,YT,Mayotte
+46.193.202.4/32,NA,MQ,Martinique
+213.246.44.160/28,NA,MQ,Martinique
+46.193.54.64/31,NA,MQ,Martinique
+2a04:4e41:721e::/48,NA,MQ,Martinique
+172.224.236.32/27,NA,MQ,Martinique
+104.28.92.141/32,NA,MQ,Martinique
+92.144.0.0/20,NA,MQ,Martinique
+2a01:cde0:8109:774d:7800::/69,NA,MQ,Martinique
+37.8.176.0/20,NA,MQ,Martinique
+46.193.54.13/32,NA,MQ,Martinique
+81.248.96.0/21,NA,MQ,Martinique
+2a04:1d42:4500::/40,NA,MQ,Martinique
+104.28.20.107/32,NA,MQ,Martinique
+46.16.205.0/24,NA,MQ,Martinique
+2a0a:6044:7796::/48,NA,MQ,Martinique
+81.248.110.0/23,NA,MQ,Martinique
+109.62.24.0/23,NA,MQ,Martinique
+89.157.112.182/31,NA,MQ,Martinique
+89.157.112.192/26,NA,MQ,Martinique
+2001:470:fdc8::/48,NA,MQ,Martinique
+2a09:bac1:48a0:8::/64,NA,MF,Saint Martin
+2a12:bec4:12a4:50e::/64,NA,MF,Saint Martin
+2a14:1c3:b000::/37,NA,MF,Saint Martin
+2a14:7580:cf8c::/48,NA,MF,Saint Martin
+2607:8940:40b1:c00::/56,NA,MF,Saint Martin
+2a02:26f7:bd8c:4000::/64,NA,MF,Saint Martin
+2001:470:28:f07::/64,NA,MF,Saint Martin
+2a14:7581:be0:a5c0::/58,NA,MF,Saint Martin
+148.64.60.0/23,NA,MF,Saint Martin
+193.248.96.0/20,NA,MF,Saint Martin
+2a12:bec4:12a4:4f8::/61,NA,MF,Saint Martin
+2a02:26f7:bd89:4000::/64,NA,MF,Saint Martin
+83.137.199.136/29,NA,MF,Saint Martin
+2a12:bec4:12a4:4f7::/64,NA,MF,Saint Martin
+104.28.11.204/31,NA,MF,Saint Martin
+131.125.105.12/32,NA,MF,Saint Martin
+2607:8940:4143:8e00::/56,NA,MF,Saint Martin
+2001:4b28:4e00::/40,NA,MF,Saint Martin
+2a13:a5c7:25ff:8c00::/56,NA,MF,Saint Martin
+2401:b60:1c10::/44,NA,MF,Saint Martin
+2a12:bec4:12a4:a5c0::/60,SA,GF,French Guiana
+2a12:ef87:e000::/36,SA,GF,French Guiana
+2a04:1d43:c800::/40,SA,GF,French Guiana
+2a0a:6040:f85::/48,SA,GF,French Guiana
+92.142.34.0/23,SA,GF,French Guiana
+83.137.199.144/29,SA,GF,French Guiana
+81.248.56.0/21,SA,GF,French Guiana
+2a01:cde0:8109:800::/53,SA,GF,French Guiana
+2001:470:1f29:2fa::/64,SA,GF,French Guiana
+92.142.18.0/24,SA,GF,French Guiana
+2a09:bac2:3840::/45,SA,GF,French Guiana
+46.193.53.128/32,SA,GF,French Guiana
+92.142.48.0/20,SA,GF,French Guiana
+2a01:cde0:8109:6000::/52,SA,GF,French Guiana
+46.193.201.229/32,SA,GF,French Guiana
+92.142.36.0/22,SA,GF,French Guiana
+81.248.40.0/21,SA,GF,French Guiana
+2a01:cde0:8109:146:8000::/65,SA,GF,French Guiana
+2a09:bac4:278::/45,SA,GF,French Guiana
+2a01:cde0:8109:7400::/55,SA,GF,French Guiana
+104.28.92.129/32,NA,CW,Curacao
+2a02:26f7:b544:4000::/64,NA,CW,Curacao
+190.6.64.152/30,NA,CW,Curacao
+2606:40:d60::/43,NA,CW,Curacao
+2001:470:1f0f:b3::/64,NA,CW,Curacao
+104.28.30.94/32,NA,CW,Curacao
+200.61.253.0/24,NA,CW,Curacao
+2605:59c0:7200::/40,NA,CW,Curacao
+2a04:1d42:7b00::/40,NA,CW,Curacao
+104.28.239.226/32,NA,CW,Curacao
+104.28.9.64/31,NA,CW,Curacao
+91.194.236.0/23,NA,CW,Curacao
+2a14:7581:3b40::/48,NA,CW,Curacao
+131.0.169.48/29,NA,CW,Curacao
+2001:470:28:bab::/64,NA,CW,Curacao
+2a0f:5684::/30,NA,CW,Curacao
+170.168.7.0/24,NA,CW,Curacao
+72.52.250.158/32,NA,CW,Curacao
+172.224.234.80/28,NA,CW,Curacao
+138.99.215.176/28,NA,CW,Curacao
+72.252.8.0/21,NA,SX,Sint Maarten
+2a12:bec4:12a4:4e3::/64,NA,SX,Sint Maarten
+143.105.124.0/23,NA,SX,Sint Maarten
+2a04:4e41:3a3b::/48,NA,SX,Sint Maarten
+2a14:67c2:8b0::/48,NA,SX,Sint Maarten
+140.248.14.46/31,NA,SX,Sint Maarten
+104.28.252.112/30,NA,SX,Sint Maarten
+190.123.17.64/26,NA,SX,Sint Maarten
+2606:54c3:0:2ef::/64,NA,SX,Sint Maarten
+190.185.70.0/24,NA,SX,Sint Maarten
+190.185.66.0/24,NA,SX,Sint Maarten
+2a0b:4e07:3:5340::/60,NA,SX,Sint Maarten
+2a06:9f81:56d1::/48,NA,SX,Sint Maarten
+172.226.13.128/28,NA,SX,Sint Maarten
+190.123.17.128/25,NA,SX,Sint Maarten
+2a09:4c0:d900::/40,NA,SX,Sint Maarten
+2a14:7584:e73c::/48,NA,SX,Sint Maarten
+2607:8940:40b1:1500::/56,NA,SX,Sint Maarten
+2800:280::/32,NA,SX,Sint Maarten
+2a02:26f7:b4d1:4000::/64,NA,SX,Sint Maarten
+2a14:7584:e75a::/48,AS,IO,British Indian Ocean Territory
+2001:470:1f11:99::/64,AS,IO,British Indian Ocean Territory
+2001:470:fbee::/48,AS,IO,British Indian Ocean Territory
+2a12:f381:df00::/40,AS,IO,British Indian Ocean Territory
+104.28.22.228/30,AS,IO,British Indian Ocean Territory
+2a0c:9a46:3fe:69::/64,AS,IO,British Indian Ocean Territory
+2001:470:36:b55::/64,AS,IO,British Indian Ocean Territory
+2a0c:9a40:95b2::/52,AS,IO,British Indian Ocean Territory
+2a0a:6044:776a::/48,AS,IO,British Indian Ocean Territory
+202.44.112.0/22,AS,IO,British Indian Ocean Territory
+2a02:26f7:d680:c3a0::/64,AS,IO,British Indian Ocean Territory
+2001:470:19:2ae::/64,AS,IO,British Indian Ocean Territory
+2a13:a5c7:25ff:6900::/56,AS,IO,British Indian Ocean Territory
+2001:470:24:8bc::/64,AS,IO,British Indian Ocean Territory
+2606:40:294e:cc00::/54,AS,IO,British Indian Ocean Territory
+2a04:1d44:df00::/40,AS,IO,British Indian Ocean Territory
+2a09:bac1:3700::/64,AS,IO,British Indian Ocean Territory
+2a02:26f7:d689:4000::/64,AS,IO,British Indian Ocean Territory
+2001:470:f6a1::/48,AS,IO,British Indian Ocean Territory
+2a14:7580:cf69::/48,AS,IO,British Indian Ocean Territory
+2a0a:6044:f498::/47,OC,PF,French Polynesia
+2a14:7581:3b55::/48,OC,PF,French Polynesia
+157.5.91.165/32,OC,PF,French Polynesia
+2a09:bac1:59c0:8::/64,OC,PF,French Polynesia
+104.28.150.195/32,OC,PF,French Polynesia
+2001:470:d:efb::/64,OC,PF,French Polynesia
+157.5.83.206/32,OC,PF,French Polynesia
+2607:8940:4010:ce00::/56,OC,PF,French Polynesia
+2606:40:2158:4000::/54,OC,PF,French Polynesia
+104.28.125.54/31,OC,PF,French Polynesia
+2a12:bec4:12a6:8292::/64,OC,PF,French Polynesia
+2a09:bac1:59c0:230::/64,OC,PF,French Polynesia
+136.23.25.18/32,OC,PF,French Polynesia
+194.50.99.176/32,OC,PF,French Polynesia
+2a09:bac1:5980:238::/64,OC,PF,French Polynesia
+2400:5f00::/32,OC,PF,French Polynesia
+2a0b:4e07:3:2580::/60,OC,PF,French Polynesia
+2a02:26f7:f351:4000::/64,OC,PF,French Polynesia
+2606:40:b30::/44,OC,PF,French Polynesia
+104.28.158.195/32,OC,PF,French Polynesia
+2a04:1d45:e700::/40,AN,TF,French Southern Territories
+2a09:4c0:de00::/40,AN,TF,French Southern Territories
+2001:470:f827::/48,AN,TF,French Southern Territories
+2a0a:6044:acad::/48,AN,TF,French Southern Territories
+2a04:1d46:e700::/40,AN,TF,French Southern Territories
+2a14:7584:e7b4::/47,AN,TF,French Southern Territories
+2a12:bec4:12a5:9260::/62,AN,TF,French Southern Territories
+2a0b:4e07:3:2600::/60,AN,TF,French Southern Territories
+2a12:f382:e700::/40,AN,TF,French Southern Territories
+104.28.13.67/32,AN,TF,French Southern Territories
+2a04:1d42:e700::/40,AN,TF,French Southern Territories
+2a0f:9400:6148::/48,AN,TF,French Southern Territories
+2a14:7581:b4d::/48,AN,TF,French Southern Territories
+2a13:a5c7:25d7::/48,AN,TF,French Southern Territories
+2001:470:24:1a9::/64,AN,TF,French Southern Territories
+2a09:bac4:16b0::/45,AN,TF,French Southern Territories
+2a12:bec4:12a8:dd00::/56,AN,TF,French Southern Territories
+2a04:1d41:e700::/40,AN,TF,French Southern Territories
+2a0a:6044:77fe:d7::/64,AN,TF,French Southern Territories
+2a12:bec4:12a5:9248::/61,AN,TF,French Southern Territories
+2a12:bec4:12a8:4800::/56,AF,EH,Western Sahara
+82.196.25.188/31,AF,EH,Western Sahara
+136.23.20.2/32,AF,EH,Western Sahara
+2a05:dfc1:8c0c::/48,AF,EH,Western Sahara
+5.175.190.185/32,AF,EH,Western Sahara
+2607:8940:4191:2f00::/56,AF,EH,Western Sahara
+2001:470:1f0f:1fd::/64,AF,EH,Western Sahara
+162.120.213.3/32,AF,EH,Western Sahara
+2a0c:9a40:95bf:3000::/52,AF,EH,Western Sahara
+2a12:bec4:12a5:9270::/60,AF,EH,Western Sahara
+2a0c:9a46:3fe:41::/64,AF,EH,Western Sahara
+162.120.204.70/32,AF,EH,Western Sahara
+2a0b:4e07:3:7320::/60,AF,EH,Western Sahara
+2001:4b28:bd00::/40,AF,EH,Western Sahara
+2001:470:54a6::/48,AF,EH,Western Sahara
+2001:470:d:392::/64,AF,EH,Western Sahara
+2001:470:36:12d::/64,AF,EH,Western Sahara
+2a04:1d47:bd00::/40,AF,EH,Western Sahara
+2a09:bac4:208::/45,AF,EH,Western Sahara
+2a14:7584:e7b9::/48,AF,EH,Western Sahara
+2a0b:4e07:3:2390::/60,AN,GS,South Georgia and the South Sandwich Islands
+136.23.21.42/32,AN,GS,South Georgia and the South Sandwich Islands
+104.28.10.101/32,AN,GS,South Georgia and the South Sandwich Islands
+2a12:bec4:12a4:a5d4::/62,AN,GS,South Georgia and the South Sandwich Islands
+2a12:bec4:12a4:a5f8::/62,AN,GS,South Georgia and the South Sandwich Islands
+2a13:a5c7:25ff:5900::/56,AN,GS,South Georgia and the South Sandwich Islands
+2001:470:fff9::/48,AN,GS,South Georgia and the South Sandwich Islands
+2a12:bec4:12a4:a5d8::/61,AN,GS,South Georgia and the South Sandwich Islands
+2a01:528:d100::/40,AN,GS,South Georgia and the South Sandwich Islands
+2a09:bac4:12c8::/45,AN,GS,South Georgia and the South Sandwich Islands
+2a14:7581:be0:3bc0::/58,AN,GS,South Georgia and the South Sandwich Islands
+5.175.190.186/32,AN,GS,South Georgia and the South Sandwich Islands
+2a09:4c0:6400::/40,AN,GS,South Georgia and the South Sandwich Islands
+104.28.10.102/31,AN,GS,South Georgia and the South Sandwich Islands
+41.78.229.53/32,AN,GS,South Georgia and the South Sandwich Islands
+2a04:1d42:d100::/40,AN,GS,South Georgia and the South Sandwich Islands
+2a06:9f81:5658::/48,AN,GS,South Georgia and the South Sandwich Islands
+2a05:dfc1:8c11::/48,AN,GS,South Georgia and the South Sandwich Islands
+179.64.28.0/23,AN,GS,South Georgia and the South Sandwich Islands
+194.50.99.91/32,AN,GS,South Georgia and the South Sandwich Islands
+103.235.110.0/23,OC,WF,Wallis and Futuna
+2a0c:9a40:95bf:2840::/58,OC,WF,Wallis and Futuna
+2406:2540::/32,OC,WF,Wallis and Futuna
+2a0a:6044:66f6::/47,OC,WF,Wallis and Futuna
+2001:470:d:a0a::/64,OC,WF,Wallis and Futuna
+2a02:26f7:f1c9:4000::/64,OC,WF,Wallis and Futuna
+2001:4b28:c00::/40,OC,WF,Wallis and Futuna
+2a14:7584:e7d8::/48,OC,WF,Wallis and Futuna
+2a0b:4e07:3:8760::/60,OC,WF,Wallis and Futuna
+2a09:bac4:788::/45,OC,WF,Wallis and Futuna
+104.28.207.84/32,OC,WF,Wallis and Futuna
+2001:470:d:506::/64,OC,WF,Wallis and Futuna
+27.125.192.0/22,OC,WF,Wallis and Futuna
+2001:470:d:12a8::/64,OC,WF,Wallis and Futuna
+2a0c:9a40:95bf:2820::/59,OC,WF,Wallis and Futuna
+179.65.154.0/23,OC,WF,Wallis and Futuna
+104.28.207.83/32,OC,WF,Wallis and Futuna
+2a04:1d41:c00::/40,OC,WF,Wallis and Futuna
+5.175.190.216/32,OC,WF,Wallis and Futuna
+2a04:4e41:7815::/48,OC,WF,Wallis and Futuna
+143.105.250.0/23,NA,BL,Saint Barthelemy
+172.226.13.176/28,NA,BL,Saint Barthelemy
+2602:fb77::/48,NA,BL,Saint Barthelemy
+2a06:9f81:561a::/48,NA,BL,Saint Barthelemy
+2a02:26f7:eb41:4000::/64,NA,BL,Saint Barthelemy
+104.28.241.196/32,NA,BL,Saint Barthelemy
+194.50.99.26/32,NA,BL,Saint Barthelemy
+2a02:26f7:eb4d:4000::/64,NA,BL,Saint Barthelemy
+2a09:bac5:530::/45,NA,BL,Saint Barthelemy
+62.200.28.112/28,NA,BL,Saint Barthelemy
+2600:70ff:a451::/48,NA,BL,Saint Barthelemy
+2001:470:36:10::/64,NA,BL,Saint Barthelemy
+2a12:f382:9800::/40,NA,BL,Saint Barthelemy
+2a12:f381:9800::/40,NA,BL,Saint Barthelemy
+2a12:bec4:12a4:83c::/62,NA,BL,Saint Barthelemy
+104.28.241.192/30,NA,BL,Saint Barthelemy
+2a13:a5c7:25ff:1900::/56,NA,BL,Saint Barthelemy
+2606:40:2306::/54,NA,BL,Saint Barthelemy
+2001:504:111::/48,NA,BL,Saint Barthelemy
+2a02:26f7:eb4c:4000::/64,NA,BL,Saint Barthelemy
+2a04:1d47:4600::/40,OC,MP,Northern Mariana Islands
+2a02:26f7:b904:c540::/64,OC,MP,Northern Mariana Islands
+2a04:1d42:4600::/40,OC,MP,Northern Mariana Islands
+2a0b:4e07:3:5800::/60,OC,MP,Northern Mariana Islands
+194.50.99.150/32,OC,MP,Northern Mariana Islands
+210.23.80.0/21,OC,MP,Northern Mariana Islands
+2001:470:36:6d::/64,OC,MP,Northern Mariana Islands
+2a14:7580:cf94::/48,OC,MP,Northern Mariana Islands
+2a02:26f7:b909:4000::/64,OC,MP,Northern Mariana Islands
+2001:470:1f0b:120e::/64,OC,MP,Northern Mariana Islands
+2a12:f002:c000::/36,OC,MP,Northern Mariana Islands
+2a09:bac4:498::/45,OC,MP,Northern Mariana Islands
+2001:470:8cb2::/48,OC,MP,Northern Mariana Islands
+104.28.255.40/31,OC,MP,Northern Mariana Islands
+2a0e:97c0:4b96::/48,OC,MP,Northern Mariana Islands
+2406:2d40:ad00::/40,OC,MP,Northern Mariana Islands
+2a09:bac1:4ca0::/64,OC,MP,Northern Mariana Islands
+104.28.190.234/31,OC,MP,Northern Mariana Islands
+2606:54c0:48b0::/45,OC,MP,Northern Mariana Islands
+2607:8940:41b0:d200::/56,OC,MP,Northern Mariana Islands
+172.225.54.32/27,OC,FM,Micronesia
+2a02:26f7:ba00:4000::/64,OC,FM,Micronesia
+104.28.179.87/32,OC,FM,Micronesia
+2a02:5745:135::/48,OC,FM,Micronesia
+2606:40:b00::/44,OC,FM,Micronesia
+2001:470:36:447::/64,OC,FM,Micronesia
+2001:470:eead::/48,OC,FM,Micronesia
+104.28.9.202/32,OC,FM,Micronesia
+104.28.241.130/32,OC,FM,Micronesia
+2a09:bac5:31e0::/44,OC,FM,Micronesia
+2001:470:26:7c3::/64,OC,FM,Micronesia
+2a02:26f7:ba04:4000::/64,OC,FM,Micronesia
+2600:70ff:a41e::/48,OC,FM,Micronesia
+2a02:26f7:e404:cae0::/63,OC,FM,Micronesia
+104.28.209.128/31,OC,FM,Micronesia
+136.23.22.32/32,OC,FM,Micronesia
+203.24.106.0/24,OC,FM,Micronesia
+2a02:26f7:ba09:4000::/64,OC,FM,Micronesia
+104.28.211.128/31,OC,FM,Micronesia
+2600:70ff:a403::/48,OC,FM,Micronesia
+2a02:5742:79::/48,OC,TL,Timor Leste
+2001:4b28:e200::/40,OC,TL,Timor Leste
+103.238.116.0/22,OC,TL,Timor Leste
+103.193.252.0/23,OC,TL,Timor Leste
+2a09:4c0:e300::/40,OC,TL,Timor Leste
+104.28.71.122/31,OC,TL,Timor Leste
+131.125.103.101/32,OC,TL,Timor Leste
+43.254.56.0/22,OC,TL,Timor Leste
+2401:b660::/32,OC,TL,Timor Leste
+2402:51e0::/32,OC,TL,Timor Leste
+2a04:1d45:e200::/40,OC,TL,Timor Leste
+2001:470:19:1256::/64,OC,TL,Timor Leste
+2a09:bac4:16d8::/45,OC,TL,Timor Leste
+2a01:e281:aafb::/48,OC,TL,Timor Leste
+104.28.240.200/30,OC,TL,Timor Leste
+196.48.79.0/24,OC,TL,Timor Leste
+163.223.148.0/23,OC,TL,Timor Leste
+2405:d540::/32,OC,TL,Timor Leste
+196.199.79.0/24,OC,TL,Timor Leste
+2a04:1d44:e200::/40,OC,TL,Timor Leste
+178.223.250.2/31,EU,XK,Kosovo
+185.112.132.26/32,EU,XK,Kosovo
+2a14:1c3:8800::/37,EU,XK,Kosovo
+2a03:4b80:ffff:ffe0::/60,EU,XK,Kosovo
+213.163.123.8/29,EU,XK,Kosovo
+46.99.124.0/23,EU,XK,Kosovo
+2a0c:b340:200::/39,EU,XK,Kosovo
+2a02:26f7:dc84:d887::/64,EU,XK,Kosovo
+213.163.120.144/28,EU,XK,Kosovo
+2a03:4b80:2000::/35,EU,XK,Kosovo
+2a03:4b80:0:200::/55,EU,XK,Kosovo
+2a03:4b80:ffff:f000::/53,EU,XK,Kosovo
+135.136.24.0/25,EU,XK,Kosovo
+94.100.62.0/24,EU,XK,Kosovo
+2a03:4b80:81::/48,EU,XK,Kosovo
+2a0c:b340:8::/45,EU,XK,Kosovo
+82.114.67.0/29,EU,XK,Kosovo
+2600:70ff:a8ab::/48,EU,XK,Kosovo
+178.132.222.160/27,EU,XK,Kosovo
+2607:8940:3794::/47,EU,XK,Kosovo
+2a04:1d43:ef00::/40,AF,SS,South Sudan
+2a14:1c7:4800::/37,AF,SS,South Sudan
+2a04:1d44:ef00::/40,AF,SS,South Sudan
+2a02:26f7:db0c:4000::/64,AF,SS,South Sudan
+2a0b:4e07:3:7280::/60,AF,SS,South Sudan
+2a13:a5c7:25cf::/48,AF,SS,South Sudan
+2a12:f382:ef00::/40,AF,SS,South Sudan
+102.64.125.48/29,AF,SS,South Sudan
+2001:67c:a38:f211::/64,AF,SS,South Sudan
+2a12:f381:ef00::/40,AF,SS,South Sudan
+102.208.196.0/22,AF,SS,South Sudan
+2a02:26f7:db10:c7c0::/64,AF,SS,South Sudan
+2a02:5740:180::/48,AF,SS,South Sudan
+169.255.136.0/22,AF,SS,South Sudan
+102.208.132.0/22,AF,SS,South Sudan
+102.67.170.16/28,AF,SS,South Sudan
+102.215.16.0/22,AF,SS,South Sudan
+154.65.51.0/24,AF,SS,South Sudan
+172.225.96.96/27,AF,SS,South Sudan
+104.28.207.36/31,AF,SS,South Sudan
+2a09:bac6:4910::/45,OC,MH,Marshall Islands
+2a04:1d45:4c00::/40,OC,MH,Marshall Islands
+45.254.247.0/24,OC,MH,Marshall Islands
+104.28.247.94/31,OC,MH,Marshall Islands
+2a02:26f7:e3c0:c500::/64,OC,MH,Marshall Islands
+2a04:1d46:4c00::/40,OC,MH,Marshall Islands
+157.5.115.56/32,OC,MH,Marshall Islands
+2a13:2382::/31,OC,MH,Marshall Islands
+104.28.72.24/31,OC,MH,Marshall Islands
+2a12:f381:4c00::/40,OC,MH,Marshall Islands
+2a02:26f7:e3c1:4000::/64,OC,MH,Marshall Islands
+2a0a:6044:f1e1::/48,OC,MH,Marshall Islands
+2a02:26f7:e3c4:c500::/64,OC,MH,Marshall Islands
+2001:470:d:11a6::/64,OC,MH,Marshall Islands
+103.202.148.0/22,OC,MH,Marshall Islands
+2001:4b28:4c00::/40,OC,MH,Marshall Islands
+77.70.184.32/28,OC,MH,Marshall Islands
+104.28.247.96/31,OC,MH,Marshall Islands
+2a12:f382:4c00::/40,OC,MH,Marshall Islands
+104.28.29.75/32,OC,MH,Marshall Islands
+2604:ca00:125::/48,OC,UM,United States Minor Outlying Islands
+94.46.59.80/32,OC,UM,United States Minor Outlying Islands
+2a04:1d46:f700::/40,OC,UM,United States Minor Outlying Islands
+2a0e:97c0:4be9::/48,OC,UM,United States Minor Outlying Islands
+2a14:7581:b6e::/48,OC,UM,United States Minor Outlying Islands
+94.46.60.42/32,OC,UM,United States Minor Outlying Islands
+162.120.216.178/32,OC,UM,United States Minor Outlying Islands
+185.39.139.47/32,OC,UM,United States Minor Outlying Islands
+2a07:d887:e600::/40,OC,UM,United States Minor Outlying Islands
+2001:470:f8e2::/48,OC,UM,United States Minor Outlying Islands
+2001:470:36:8e7::/64,OC,UM,United States Minor Outlying Islands
+2001:470:c251::/48,OC,UM,United States Minor Outlying Islands
+2a01:528:f700::/40,OC,UM,United States Minor Outlying Islands
+2001:470:fe7e::/48,OC,UM,United States Minor Outlying Islands
+2a14:7581:3bf3::/48,OC,UM,United States Minor Outlying Islands
+2001:470:19:19d::/64,OC,UM,United States Minor Outlying Islands
+2604:ca00:1d5::/48,OC,UM,United States Minor Outlying Islands
+2001:470:dc34::/48,OC,UM,United States Minor Outlying Islands
+2604:ca00:1e5::/48,OC,UM,United States Minor Outlying Islands
+2a0a:6044:77e8::/48,OC,UM,United States Minor Outlying Islands
+2a04:1d46:9c00::/40,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2a0c:9a46:3fe:1d::/64,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2001:470:d:628::/64,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2a02:26f7:f844:ca60::/63,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2001:4b28:9c00::/40,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+136.23.26.35/32,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2001:470:1f05:214::/64,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2a0c:9a46:31e::/48,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+146.75.252.4/31,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2001:470:5:542::/64,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+136.23.22.51/32,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+104.28.204.132/30,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+131.125.104.234/32,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2001:470:24:877::/64,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+162.120.202.202/32,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2a09:bac1:10c0::/64,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+194.50.99.30/32,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2a12:f382:9c00::/40,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+2a12:f381:9c00::/40,NA,BQ,"Bonaire, Saint Eustatius and Saba"
+200.107.84.0/22,NA,BQ,"Bonaire, Saint Eustatius and Saba"
